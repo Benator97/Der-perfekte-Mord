@@ -1,10 +1,10 @@
 #Ignore all files and folders.
 /*
+*.DS_Store
 
 #Except the Assets and ProjectSettings folder, as well as the selected Git files.
 !Assets/
 !ProjectSettings/
 !.gitignore
 !.gitattributes
-Assets/.DS_Store
-Assets/Platzhalter/.DS_Store
+
