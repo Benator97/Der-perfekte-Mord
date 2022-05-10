@@ -1,0 +1,46 @@
+<stages>
+ <stage name="Lucie_idle">
+  <node groupId="0" skinId="0" name="Lucie_EyeFront" drwId="1"/>
+  <node groupId="0" skinId="0" name="Lucie_Face" drwId="2"/>
+  <node groupId="0" skinId="0" name="Lucie_Mouth" drwId="3"/>
+  <node groupId="0" skinId="0" name="Lucie_EarBack" drwId="4"/>
+  <node groupId="0" skinId="0" name="Lucie_EarFront" drwId="5"/>
+  <node groupId="0" skinId="0" name="Lucie_ArmFront" drwId="6"/>
+  <node groupId="0" skinId="0" name="Lucie_HandFront" drwId="7"/>
+  <node groupId="0" skinId="0" name="Lucie_Hood" drwId="8"/>
+  <node groupId="0" skinId="0" name="Lucie_UpperBodyFront" drwId="9"/>
+  <node groupId="0" skinId="0" name="Lucie_Neck" drwId="10"/>
+  <node groupId="0" skinId="0" name="Lucie_UpperBodyBack" drwId="11"/>
+  <node groupId="0" skinId="0" name="Lucie_ArmBack" drwId="12"/>
+  <node groupId="0" skinId="0" name="Lucie_HandBack" drwId="13"/>
+  <node groupId="0" skinId="0" name="Lucie_FootFront" drwId="14"/>
+  <node groupId="0" skinId="0" name="Lucie_LegFront" drwId="15"/>
+  <node groupId="0" skinId="0" name="Lucie_Tail" drwId="16"/>
+  <node groupId="0" skinId="0" name="Lucie_FootBack" drwId="17"/>
+  <node groupId="0" skinId="0" name="Lucie_LegBack" drwId="18"/>
+  <node groupId="0" skinId="0" name="Referenz_kopf_auge_" drwId="19"/>
+  <node groupId="0" skinId="0" name="Referenz_kopf_maske" drwId="20"/>
+  <node groupId="0" skinId="0" name="Referenz_kopf_kopf_base" drwId="21"/>
+  <node groupId="0" skinId="0" name="Referenz_kopf_unterkiefer_" drwId="22"/>
+  <node groupId="0" skinId="0" name="Referenz_kopf_ohr_links" drwId="23"/>
+  <node groupId="0" skinId="0" name="Referenz_kopf_ohr_rechts_" drwId="24"/>
+  <node groupId="0" skinId="0" name="Referenz_kopf_hals" drwId="25"/>
+  <node groupId="0" skinId="0" name="Referenz_arm_links_oberarm_links" drwId="26"/>
+  <node groupId="0" skinId="0" name="Referenz_arm_links_unterarm_links" drwId="27"/>
+  <node groupId="0" skinId="0" name="Referenz_arm_links_hand_links" drwId="28"/>
+  <node groupId="0" skinId="0" name="Referenz_hoodi_base" drwId="29"/>
+  <node groupId="0" skinId="0" name="Referenz_arm_rechts_oberarm_rechts" drwId="30"/>
+  <node groupId="0" skinId="0" name="Referenz_arm_rechts_unterarm_rechts" drwId="31"/>
+  <node groupId="0" skinId="0" name="Referenz_arm_rechts_hand_rechts" drwId="32"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_links_schuhspitze_links" drwId="33"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_links_schuhbase_links" drwId="34"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_links_oberschenkel_links" drwId="35"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_links_unterschenkel_links" drwId="36"/>
+  <node groupId="0" skinId="0" name="Referenz_schw_nzchen__3" drwId="37"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_rechts__schuhspitze_rechts" drwId="38"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_rechts__schuhbase_rechts" drwId="39"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_rechts__oberschenkelrechts" drwId="40"/>
+  <node groupId="0" skinId="0" name="Referenz_bein_rechts__unterschenkel_rechts" drwId="41"/>
+  <play drawingAnimation="idle_Top" name="Top" skeleton="Top" animation="idle_Top"/>
+ </stage>
+</stages>
