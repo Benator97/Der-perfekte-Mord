@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 using UnityEngine.SceneManagement;
 
 public class AdventureScript : MonoBehaviour
@@ -17,10 +18,15 @@ public class AdventureScript : MonoBehaviour
     private Vector2 targetPos;
     private GameObject itemRef;
     private RaycastHit2D hit;
+
+    private NavMeshAgent agent;
     // Start is called before the first frame update
     void Start()
     {
-        
+	  agent = GetComponent<NavMeshAgent>();
+       	  agent.updateRotation = false;
+	  agent.updateUpAxis = false;
+
     }
 
     // Update is called once per frame
@@ -73,11 +79,12 @@ public class AdventureScript : MonoBehaviour
         if (moving)
         {
             //Spieler bewegen
-            player.transform.position = Vector3.MoveTowards(player.transform.position, targetPos, speed);
+            //player.transform.position = Vector3.MoveTowards(player.transform.position, targetPos, speed);
+		agent.SetDestination(targetPos);
             if(player.transform.position.x == targetPos.x && player.transform.position.y == targetPos.y)
             {
                 //Ziel erreicht; Bewegung beenden
-                moving = false;
+                //moving = false;
             }
             if (toItem)
             {
