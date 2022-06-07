@@ -18,12 +18,12 @@ MonoBehaviour:
     altLabel: 
     carryOnStart: 0
     carryOnStartNotDefault: 0
-    carryOnStartIDs: 
+    carryOnStartIDs: 00000000
     vars: []
     canCarryMultiple: 0
     count: 1
     canBeLowerCase: 0
-    maxCount: 0
+    maxCount: 999
     itemStackingMode: 0
     tex: {fileID: 2800000, guid: dc008b16a8cbf4215a275efe13cba3e5, type: 3}
     activeTex: {fileID: 0}
@@ -60,7 +60,7 @@ MonoBehaviour:
     lookActionList: {fileID: 11400000, guid: b75e0091c65f04251bfbea6836c4b3c1, type: 2}
     interactions:
     - actionList: {fileID: 11400000, guid: b75e0091c65f04251bfbea6836c4b3c1, type: 2}
-      idPlusOne: 0
+      idPlusOne: 1
       icon:
         texture: {fileID: 2800000, guid: e0394f989f329496584e377a81d4031f, type: 3}
         isAnimated: 0
@@ -84,7 +84,7 @@ MonoBehaviour:
     combineID: 
     unhandledActionList: {fileID: 0}
     unhandledCombineActionList: {fileID: 0}
-    carryOnStartID: 0
+    carryOnStartID: -1
     useSeparateSlots: 0
     selectSingle: 0
     showInFilter: 1

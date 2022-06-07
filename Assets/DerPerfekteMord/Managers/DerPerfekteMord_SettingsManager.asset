@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DerPerfekteMord_SettingsManager
   m_EditorClassIdentifier: 
   separateEditorSaveFiles: 0
-  saveFileName: 
+  saveFileName: Der-perfekte-Mord
   saveTimeDisplay: 0
   customSaveFormat: MMMM dd, yyyy
   takeSaveScreenshots: 0
@@ -37,7 +37,7 @@ MonoBehaviour:
   actionListOnStart: {fileID: 0}
   blackOutWhenSkipping: 0
   playerSwitching: 1
-  player: {fileID: 0}
+  player: {fileID: 366925878832830407, guid: 497aed7bbd757b94dbe1621da1800206, type: 3}
   players: []
   movementMethod: 0
   inputMethod: 0
@@ -138,7 +138,7 @@ MonoBehaviour:
   maxAspectRatio: 2.39
   renderBorderCamera: 1
   landscapeModeOnly: 1
-  cameraPerspective: 2
+  cameraPerspective: 0
   cacheCameraMain: 0
   linearColorTextures: 0
   movingTurning: 3
