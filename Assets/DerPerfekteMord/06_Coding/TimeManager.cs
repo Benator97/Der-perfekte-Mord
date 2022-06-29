@@ -1,16 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using AC;
 
 public class TimeManager : MonoBehaviour
 {
     public IntVariable timeCounter;
     public IntVariable targetTime;
-
-    public void Start()
-    {
-
-    }
+    public ActionListAsset restartActions;
 
     public void addToCounter(int timeValue)
     {
@@ -23,7 +20,7 @@ public class TimeManager : MonoBehaviour
         if(timeCounter.value >= targetTime.value)
         {
             timeCounter.value = 0;
-            OverallManager.resetDay();
+            AdvGame.RunActionListAsset(restartActions);
         }
     }
 }
