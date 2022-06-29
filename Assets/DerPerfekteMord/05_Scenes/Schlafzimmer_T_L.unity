@@ -1295,7 +1295,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664309392480520732}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -1.58, z: -0}
+  m_LocalPosition: {x: 1.43, y: -3.27, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1334,14 +1334,14 @@ MonoBehaviour:
   affectSorting: 1
   mapType: 1
   sortingAreas:
-  - z: 3.6551156
+  - z: 2.064502
     order: 1
     layer: 
     color: {r: 0.5405273, g: 0.987898, b: 0.19097245, a: 1}
-    scale: 15
+    scale: 30
   affectScale: 1
   affectSpeed: 1
-  originScale: 5
+  originScale: 25
   sortingMapScaleType: 0
   scalingAnimationCurve:
     serializedVersion: 2
