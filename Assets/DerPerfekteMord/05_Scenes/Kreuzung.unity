@@ -1231,10 +1231,10 @@ MonoBehaviour:
     order: 1
     layer: 
     color: {r: 0.0833863, g: 0.48295802, b: 0.13155735, a: 1}
-    scale: 15
+    scale: 20
   affectScale: 1
   affectSpeed: 1
-  originScale: 5
+  originScale: 16
   sortingMapScaleType: 0
   scalingAnimationCurve:
     serializedVersion: 2
