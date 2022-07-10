@@ -1,0 +1,61 @@
+<drawingAnimations>
+ <drawingAnimation name="ishe_idle_Top" spritesheet="sheet_Top-Reiners_Date">
+  <drawing name="5-Reiners_Date" node="4" drwId="1">
+   <drw name="5-Reiners_Date-4.png" frame="70" skinId="0" repeat="4"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="3" drwId="2">
+   <drw name="5-Reiners_Date-3.png" frame="69" skinId="0" repeat="5"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="2" drwId="3">
+   <drw name="5-Reiners_Date-2.png" frame="68" skinId="0" repeat="6"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="1" drwId="4">
+   <drw name="5-Reiners_Date-1.png" frame="67" skinId="0" repeat="7"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="augen_highlight_" drwId="5">
+   <drw name="5-Reiners_Date-augen_highlight_.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="pupillen" drwId="6">
+   <drw name="5-Reiners_Date-pupillen.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="augen" drwId="7">
+   <drw name="5-Reiners_Date-augen.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="oberkopf" drwId="8">
+   <drw name="5-Reiners_Date-oberkopf.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="zunge" drwId="9">
+   <drw name="5-Reiners_Date-zunge.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="schmuck" drwId="10">
+   <drw name="5-Reiners_Date-schmuck.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="hand_r" drwId="11">
+   <drw name="5-Reiners_Date-hand_r.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="unterarm_r" drwId="12">
+   <drw name="5-Reiners_Date-unterarm_r.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="oberarm_r" drwId="13">
+   <drw name="5-Reiners_Date-oberarm_r.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="brustkorb" drwId="14">
+   <drw name="5-Reiners_Date-brustkorb.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="k_rper" drwId="15">
+   <drw name="5-Reiners_Date-k_rper.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="hand_l" drwId="16">
+   <drw name="5-Reiners_Date-hand_l.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="unteram_l" drwId="17">
+   <drw name="5-Reiners_Date-unteram_l.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="oberarm_l" drwId="18">
+   <drw name="5-Reiners_Date-oberarm_l.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+  <drawing name="5-Reiners_Date" node="schwanz" drwId="19">
+   <drw name="5-Reiners_Date-schwanz.png" frame="1" skinId="0" repeat="80"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

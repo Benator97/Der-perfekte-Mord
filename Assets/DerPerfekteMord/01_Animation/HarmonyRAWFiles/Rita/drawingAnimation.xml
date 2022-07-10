@@ -1,0 +1,114 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top-Rita_Rachne" name="idle_Top">
+  <drawing node="tasterlunten" name="5-Rita_Rachne" drwId="1">
+   <drw repeat="80" name="5-Rita_Rachne-tasterlunten.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="handl2" name="5-Rita_Rachne" drwId="2">
+   <drw repeat="80" name="5-Rita_Rachne-handl2.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="unterarml2" name="5-Rita_Rachne" drwId="3">
+   <drw repeat="80" name="5-Rita_Rachne-unterarml2.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="brille_1" name="11-Rita_Rachne" drwId="4">
+   <drw repeat="80" name="11-Rita_Rachne-brille.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="brillenglas_1" name="11-Rita_Rachne" drwId="5">
+   <drw repeat="80" name="11-Rita_Rachne-brillenglas.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="tasterloben" name="5-Rita_Rachne" drwId="6">
+   <drw repeat="80" name="5-Rita_Rachne-tasterloben.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="Ebene37" name="5-Rita_Rachne" drwId="7">
+   <drw repeat="80" name="5-Rita_Rachne-Ebene37.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="augegeschr" name="5-Rita_Rachne" drwId="8">
+   <drw repeat="2" name="5-Rita_Rachne-augegeschr.png" skinId="0" frame="20"/>
+   <drw repeat="2" name="5-Rita_Rachne-augegeschr.png" skinId="0" frame="32"/>
+   <drw repeat="2" name="5-Rita_Rachne-augegeschr.png" skinId="0" frame="60"/>
+   <drw repeat="2" name="5-Rita_Rachne-augegeschr.png" skinId="0" frame="64"/>
+  </drawing>
+  <drawing node="oberarml" name="5-Rita_Rachne" drwId="9">
+   <drw repeat="80" name="5-Rita_Rachne-oberarml.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="augenr" name="5-Rita_Rachne" drwId="10">
+   <drw repeat="19" name="5-Rita_Rachne-augenr.png" skinId="0" frame="1"/>
+   <drw repeat="10" name="5-Rita_Rachne-augenr.png" skinId="0" frame="22"/>
+   <drw repeat="26" name="5-Rita_Rachne-augenr.png" skinId="0" frame="34"/>
+   <drw repeat="2" name="5-Rita_Rachne-augenr.png" skinId="0" frame="62"/>
+   <drw repeat="15" name="5-Rita_Rachne-augenr.png" skinId="0" frame="66"/>
+  </drawing>
+  <drawing node="augegeschl" name="5-Rita_Rachne" drwId="11">
+   <drw repeat="2" name="5-Rita_Rachne-augegeschl.png" skinId="0" frame="20"/>
+   <drw repeat="2" name="5-Rita_Rachne-augegeschl.png" skinId="0" frame="32"/>
+   <drw repeat="2" name="5-Rita_Rachne-augegeschl.png" skinId="0" frame="60"/>
+   <drw repeat="2" name="5-Rita_Rachne-augegeschl.png" skinId="0" frame="64"/>
+  </drawing>
+  <drawing node="augenl" name="5-Rita_Rachne" drwId="12">
+   <drw repeat="19" name="5-Rita_Rachne-augenl.png" skinId="0" frame="1"/>
+   <drw repeat="10" name="5-Rita_Rachne-augenl.png" skinId="0" frame="22"/>
+   <drw repeat="26" name="5-Rita_Rachne-augenl.png" skinId="0" frame="34"/>
+   <drw repeat="2" name="5-Rita_Rachne-augenl.png" skinId="0" frame="62"/>
+   <drw repeat="15" name="5-Rita_Rachne-augenl.png" skinId="0" frame="66"/>
+  </drawing>
+  <drawing node="kopfbase" name="5-Rita_Rachne" drwId="13">
+   <drw repeat="80" name="5-Rita_Rachne-kopfbase.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="Ebene37_2" name="5-Rita_Rachne" drwId="14">
+   <drw repeat="80" name="5-Rita_Rachne-Ebene37_2.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="tasterrunten" name="5-Rita_Rachne" drwId="15">
+   <drw repeat="80" name="5-Rita_Rachne-tasterrunten.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="tasterroben" name="5-Rita_Rachne" drwId="16">
+   <drw repeat="80" name="5-Rita_Rachne-tasterroben.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="handl" name="5-Rita_Rachne" drwId="17">
+   <drw repeat="80" name="5-Rita_Rachne-handl.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="unterarml" name="5-Rita_Rachne" drwId="18">
+   <drw repeat="80" name="5-Rita_Rachne-unterarml.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="oberarml2" name="5-Rita_Rachne" drwId="19">
+   <drw repeat="80" name="5-Rita_Rachne-oberarml2.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="handr1" name="5-Rita_Rachne" drwId="20">
+   <drw repeat="80" name="5-Rita_Rachne-handr1.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="unterarmr1" name="5-Rita_Rachne" drwId="21">
+   <drw repeat="80" name="5-Rita_Rachne-unterarmr1.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="oberarmr1" name="5-Rita_Rachne" drwId="22">
+   <drw repeat="80" name="5-Rita_Rachne-oberarmr1.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="armr2" name="5-Rita_Rachne" drwId="23">
+   <drw repeat="80" name="5-Rita_Rachne-armr2.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="oberk_rper" name="5-Rita_Rachne" drwId="24">
+   <drw repeat="80" name="5-Rita_Rachne-oberk_rper.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="fussl" name="5-Rita_Rachne" drwId="25">
+   <drw repeat="80" name="5-Rita_Rachne-fussl.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="wadel" name="5-Rita_Rachne" drwId="26">
+   <drw repeat="80" name="5-Rita_Rachne-wadel.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="oberschenkell" name="5-Rita_Rachne" drwId="27">
+   <drw repeat="80" name="5-Rita_Rachne-oberschenkell.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="beinm" name="5-Rita_Rachne" drwId="28">
+   <drw repeat="80" name="5-Rita_Rachne-beinm.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="beinr" name="5-Rita_Rachne" drwId="29">
+   <drw repeat="80" name="5-Rita_Rachne-beinr.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="h_ngematte" name="5-Rita_Rachne" drwId="30">
+   <drw repeat="80" name="5-Rita_Rachne-h_ngematte.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="Test1" name="12-Test1" drwId="31">
+   <drw repeat="80" name="12-Test1-1.png" skinId="0" frame="1"/>
+  </drawing>
+  <drawing node="Test2" name="13-Test2" drwId="32">
+   <drw repeat="80" name="13-Test2-1.png" skinId="0" frame="1"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

@@ -1,0 +1,111 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet height="1024" name="sheet_Top-DPMLucieRig" width="2048" resolution="ipad" filename="spriteSheets/sheet_Top-DPMLucieRig-ipad.png">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="1783,35,255,486" scaleX="0.0234375" offsetY="80.359795" angleDegrees="0" offsetX="18.092703" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="1639,35,144,444" scaleX="0.0234375" offsetY="-275.15005" angleDegrees="0" offsetX="80.594765" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="1527,35,112,442" scaleX="0.0234375" offsetY="-272.5654" angleDegrees="0" offsetX="-17.152822" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="1374,35,153,348" scaleX="0.0234375" offsetY="96.102798" angleDegrees="0" offsetX="110.67095" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="1236,35,138,346" scaleX="0.0234375" offsetY="71.665901" angleDegrees="0" offsetX="-52.86829" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="1034,35,202,316" scaleX="0.0234375" offsetY="355.50986" angleDegrees="0" offsetX="39.709957" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="903,35,131,239" scaleX="0.0234375" offsetY="-190.56081" angleDegrees="0" offsetX="-121.47958" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="831,35,72,220" scaleX="0.0234375" offsetY="397.8045" angleDegrees="0" offsetX="112.55071" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-Head.png" rect="617,35,214,199" scaleX="0.0234375" offsetY="417.77695" angleDegrees="0" offsetX="42.294632" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="556,35,61,128" scaleX="0.0234375" offsetY="-72.135841" angleDegrees="0" offsetX="133.69803" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="487,35,69,118" scaleX="0.0234375" offsetY="-102.68196" angleDegrees="0" offsetX="-51.928406" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="362,35,125,90" scaleX="0.0234375" offsetY="-472.99496" angleDegrees="0" offsetX="13.3933" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="241,35,121,88" scaleX="0.0234375" offsetY="-463.83112" angleDegrees="0" offsetX="92.578247" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="169,35,72,88" scaleX="0.0234375" offsetY="463.59613" angleDegrees="0" offsetX="-36.185406" scaleY="0.0234375"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_48.png" rect="116,35,53,60" scaleX="0.0234375" offsetY="842" angleDegrees="0" offsetX="-359.5" scaleY="0.0234375"/>
+  <sprite name="21-LuciegeschlossenesAuge-auge_links_geschlossen.png" rect="69,35,47,57" scaleX="0.0234375" offsetY="842.5" angleDegrees="0" offsetX="-209" scaleY="0.0234375"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_r.png" rect="34,35,35,38" scaleX="0.0234375" offsetY="848" angleDegrees="0" offsetX="-350.5" scaleY="0.0234375"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_l.png" rect="0,35,34,36" scaleX="0.0234375" offsetY="853" angleDegrees="0" offsetX="-208" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="2008,0,30,35" scaleX="0.0234375" offsetY="428.35062" angleDegrees="0" offsetX="27.02157" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="1981,0,27,34" scaleX="0.0234375" offsetY="428.5856" angleDegrees="0" offsetX="95.397888" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="1944,0,37,29" scaleX="0.0234375" offsetY="392.87012" angleDegrees="0" offsetX="75.425423" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="1886,0,58,28" scaleX="0.0234375" offsetY="368.90317" angleDegrees="0" offsetX="70.491051" scaleY="0.0234375"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="1860,0,26,19" scaleX="0.0234375" offsetY="352.22028" angleDegrees="0" offsetX="73.780632" scaleY="0.0234375"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_52.png" rect="1841,0,19,19" scaleX="0.0234375" offsetY="854.5" angleDegrees="0" offsetX="-359.5" scaleY="0.0234375"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_51.png" rect="1821,0,20,17" scaleX="0.0234375" offsetY="854.5" angleDegrees="0" offsetX="-215" scaleY="0.0234375"/>
+ </spritesheet>
+ <spritesheet height="2048" name="sheet_Top-DPMLucieRig" width="2048" resolution="ipad-retina" filename="spriteSheets/sheet_Top-DPMLucieRig-ipad-retina.png">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="1548,512,499,961" scaleX="0.01171875" offsetY="160.71959" angleDegrees="0" offsetX="36.185406" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="1272,512,276,877" scaleX="0.01171875" offsetY="-550.30011" angleDegrees="0" offsetX="161.18953" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="1060,512,212,872" scaleX="0.01171875" offsetY="-545.1308" angleDegrees="0" offsetX="-34.305645" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="766,512,294,684" scaleX="0.01171875" offsetY="192.2056" angleDegrees="0" offsetX="221.3419" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="502,512,264,680" scaleX="0.01171875" offsetY="143.3318" angleDegrees="0" offsetX="-105.73658" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="110,512,392,621" scaleX="0.01171875" offsetY="711.01971" angleDegrees="0" offsetX="79.419914" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="0,512,110,244" scaleX="0.01171875" offsetY="-144.27168" angleDegrees="0" offsetX="267.39606" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="1796,45,251,467" scaleX="0.01171875" offsetY="-381.12161" angleDegrees="0" offsetX="-242.95915" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="1663,45,133,428" scaleX="0.01171875" offsetY="795.60901" angleDegrees="0" offsetX="225.10143" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-Head.png" rect="1247,45,416,387" scaleX="0.01171875" offsetY="835.55389" angleDegrees="0" offsetX="84.589264" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="1120,45,127,225" scaleX="0.01171875" offsetY="-205.36392" angleDegrees="0" offsetX="-103.85681" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="882,45,238,168" scaleX="0.01171875" offsetY="-945.98993" angleDegrees="0" offsetX="26.7866" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="750,45,132,165" scaleX="0.01171875" offsetY="927.19226" angleDegrees="0" offsetX="-72.370811" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="519,45,231,164" scaleX="0.01171875" offsetY="-927.66223" angleDegrees="0" offsetX="185.15649" scaleY="0.01171875"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_48.png" rect="425,45,94,108" scaleX="0.01171875" offsetY="1684" angleDegrees="0" offsetX="-719" scaleY="0.01171875"/>
+  <sprite name="21-LuciegeschlossenesAuge-auge_links_geschlossen.png" rect="342,45,83,102" scaleX="0.01171875" offsetY="1685" angleDegrees="0" offsetX="-418" scaleY="0.01171875"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_r.png" rect="284,45,58,64" scaleX="0.01171875" offsetY="1696" angleDegrees="0" offsetX="-701" scaleY="0.01171875"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_l.png" rect="228,45,56,60" scaleX="0.01171875" offsetY="1706" angleDegrees="0" offsetX="-416" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="180,45,48,59" scaleX="0.01171875" offsetY="856.70123" angleDegrees="0" offsetX="54.04314" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="137,45,43,57" scaleX="0.01171875" offsetY="857.1712" angleDegrees="0" offsetX="190.79578" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="74,45,63,47" scaleX="0.01171875" offsetY="785.74023" angleDegrees="0" offsetX="150.85085" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="34,45,40,27" scaleX="0.01171875" offsetY="704.44055" angleDegrees="0" offsetX="147.56126" scaleY="0.01171875"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_52.png" rect="8,45,26,26" scaleX="0.01171875" offsetY="1709" angleDegrees="0" offsetX="-719" scaleY="0.01171875"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="1942,0,105,45" scaleX="0.01171875" offsetY="737.80634" angleDegrees="0" offsetX="140.9821" scaleY="0.01171875"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_51.png" rect="1914,0,28,22" scaleX="0.01171875" offsetY="1709" angleDegrees="0" offsetX="-430" scaleY="0.01171875"/>
+ </spritesheet>
+ <spritesheet height="256" name="sheet_Top-DPMLucieRig" width="2048" resolution="iphone" filename="spriteSheets/sheet_Top-DPMLucieRig-iphone.png">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="1085,0,126,234" scaleX="0.050000001" offsetY="37.668655" angleDegrees="0" offsetX="8.4809542" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="1012,0,73,214" scaleX="0.050000001" offsetY="-128.97659" angleDegrees="0" offsetX="37.778797" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="954,0,58,213" scaleX="0.050000001" offsetY="-127.76503" angleDegrees="0" offsetX="-8.0403852" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="876,0,78,169" scaleX="0.050000001" offsetY="45.048187" angleDegrees="0" offsetX="51.877007" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="805,0,71,168" scaleX="0.050000001" offsetY="33.593391" angleDegrees="0" offsetX="-24.782011" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="704,0,101,154" scaleX="0.050000001" offsetY="166.64525" angleDegrees="0" offsetX="18.614042" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="636,0,68,118" scaleX="0.050000001" offsetY="-89.325378" angleDegrees="0" offsetX="-56.943554" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="596,0,40,109" scaleX="0.050000001" offsetY="186.47086" angleDegrees="0" offsetX="52.758144" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-Head.png" rect="490,0,106,100" scaleX="0.050000001" offsetY="195.83295" angleDegrees="0" offsetX="19.825607" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="455,0,35,66" scaleX="0.050000001" offsetY="-33.813675" angleDegrees="0" offsetX="62.670952" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="416,0,39,62" scaleX="0.050000001" offsetY="-48.132172" angleDegrees="0" offsetX="-24.34144" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="351,0,65,48" scaleX="0.050000001" offsetY="-221.71638" angleDegrees="0" offsetX="6.2781091" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="288,0,63,47" scaleX="0.050000001" offsetY="-217.42084" angleDegrees="0" offsetX="43.396053" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="248,0,40,47" scaleX="0.050000001" offsetY="217.3107" angleDegrees="0" offsetX="-16.961908" scaleY="0.050000001"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_48.png" rect="217,0,31,34" scaleX="0.050000001" offsetY="394.6875" angleDegrees="0" offsetX="-168.51563" scaleY="0.050000001"/>
+  <sprite name="21-LuciegeschlossenesAuge-auge_links_geschlossen.png" rect="189,0,28,33" scaleX="0.050000001" offsetY="394.92188" angleDegrees="0" offsetX="-97.96875" scaleY="0.050000001"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_r.png" rect="167,0,22,24" scaleX="0.050000001" offsetY="397.5" angleDegrees="0" offsetX="-164.29688" scaleY="0.050000001"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_l.png" rect="145,0,22,23" scaleX="0.050000001" offsetY="399.84375" angleDegrees="0" offsetX="-97.5" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="125,0,20,23" scaleX="0.050000001" offsetY="200.78935" angleDegrees="0" offsetX="12.666361" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="106,0,19,22" scaleX="0.050000001" offsetY="200.89949" angleDegrees="0" offsetX="44.717762" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="82,0,24,20" scaleX="0.050000001" offsetY="184.15787" angleDegrees="0" offsetX="35.355667" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="48,0,34,19" scaleX="0.050000001" offsetY="172.92336" angleDegrees="0" offsetX="33.042679" scaleY="0.050000001"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="30,0,18,15" scaleX="0.050000001" offsetY="165.10326" angleDegrees="0" offsetX="34.584671" scaleY="0.050000001"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_52.png" rect="15,0,15,15" scaleX="0.050000001" offsetY="400.54688" angleDegrees="0" offsetX="-168.51563" scaleY="0.050000001"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_51.png" rect="0,0,15,14" scaleX="0.050000001" offsetY="400.54688" angleDegrees="0" offsetX="-100.78125" scaleY="0.050000001"/>
+ </spritesheet>
+ <spritesheet height="1024" name="sheet_Top-DPMLucieRig" width="2048" resolution="iphone-retina" filename="spriteSheets/sheet_Top-DPMLucieRig-iphone-retina.png">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="1752,96,282,538" scaleX="0.02112676" offsetY="89.149155" angleDegrees="0" offsetX="20.071592" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="1594,96,158,492" scaleX="0.02112676" offsetY="-305.2446" angleDegrees="0" offsetX="89.409821" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="1471,96,123,489" scaleX="0.02112676" offsetY="-302.37723" angleDegrees="0" offsetX="-19.028912" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="1303,96,168,384" scaleX="0.02112676" offsetY="106.61404" angleDegrees="0" offsetX="122.77558" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="1151,96,152,382" scaleX="0.02112676" offsetY="79.504356" angleDegrees="0" offsetX="-58.650757" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="928,96,223,350" scaleX="0.02112676" offsetY="394.39377" angleDegrees="0" offsetX="44.053234" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="784,96,144,264" scaleX="0.02112676" offsetY="-211.4034" angleDegrees="0" offsetX="-134.7664" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="705,96,79,242" scaleX="0.02112676" offsetY="441.31436" angleDegrees="0" offsetX="124.86095" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-Head.png" rect="469,96,236,220" scaleX="0.02112676" offsetY="463.47131" angleDegrees="0" offsetX="46.920605" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="403,96,66,140" scaleX="0.02112676" offsetY="-80.025703" angleDegrees="0" offsetX="148.32124" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="327,96,76,130" scaleX="0.02112676" offsetY="-113.9128" angleDegrees="0" offsetX="-57.608078" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="190,96,137,99" scaleX="0.02112676" offsetY="-524.72876" angleDegrees="0" offsetX="14.858191" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="57,96,133,96" scaleX="0.02112676" offsetY="-514.56262" angleDegrees="0" offsetX="102.70399" scaleY="0.02112676"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_48.png" rect="0,96,57,65" scaleX="0.02112676" offsetY="934.09375" angleDegrees="0" offsetX="-398.82031" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="1956,0,78,96" scaleX="0.02112676" offsetY="514.302" angleDegrees="0" offsetX="-40.143185" scaleY="0.02112676"/>
+  <sprite name="21-LuciegeschlossenesAuge-auge_links_geschlossen.png" rect="1905,0,51,61" scaleX="0.02112676" offsetY="934.64844" angleDegrees="0" offsetX="-231.85938" scaleY="0.02112676"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_r.png" rect="1868,0,37,40" scaleX="0.02112676" offsetY="940.75" angleDegrees="0" offsetX="-388.83594" scaleY="0.02112676"/>
+  <sprite name="21-LuciegeschlossenesAuge-pupille_l.png" rect="1832,0,36,38" scaleX="0.02112676" offsetY="946.29688" angleDegrees="0" offsetX="-230.75" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="1800,0,32,38" scaleX="0.02112676" offsetY="475.20148" angleDegrees="0" offsetX="29.977055" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="1771,0,29,37" scaleX="0.02112676" offsetY="475.46213" angleDegrees="0" offsetX="105.83203" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="1731,0,40,31" scaleX="0.02112676" offsetY="435.8403" angleDegrees="0" offsetX="83.675079" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="1667,0,64,30" scaleX="0.02112676" offsetY="409.25195" angleDegrees="0" offsetX="78.201012" scaleY="0.02112676"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="1640,0,27,20" scaleX="0.02112676" offsetY="390.74438" angleDegrees="0" offsetX="81.850388" scaleY="0.02112676"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_52.png" rect="1621,0,19,19" scaleX="0.02112676" offsetY="947.96094" angleDegrees="0" offsetX="-398.82031" scaleY="0.02112676"/>
+  <sprite name="21-LuciegeschlossenesAuge-Ebene_51.png" rect="1601,0,20,17" scaleX="0.02112676" offsetY="947.96094" angleDegrees="0" offsetX="-238.51563" scaleY="0.02112676"/>
+ </spritesheet>
+</spritesheets>

@@ -1,0 +1,87 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet height="1024" filename="spriteSheets/sheet_Top-Hilltrude-ipad.png" resolution="ipad" name="sheet_Top-Hilltrude" width="2048">
+  <sprite rect="1674,174,353,455" scaleY="0.0234375" offsetX="24.613253" offsetY="212.20615" name="10-Hiltrude-kopf.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="1389,174,285,425" scaleY="0.0234375" offsetX="-34.369858" offsetY="-78.939804" name="11-Hiltrude-kopf_koerper.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="1090,174,299,296" scaleY="0.0234375" offsetX="34.591599" offsetY="-332.16803" name="11-Hiltrude-kopf_hand_r.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="782,174,308,239" scaleY="0.0234375" offsetX="33.03941" offsetY="377.4032" name="10-Hiltrude-hut.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="558,174,224,239" scaleY="0.0234375" offsetX="-145.90559" offsetY="-203.78" name="11-Hiltrude-kopf_unterarm_r.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="430,174,128,230" scaleY="0.0234375" offsetX="-322.1897" offsetY="-156.77089" name="11-Hiltrude-kopf_schwanz.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="293,174,137,228" scaleY="0.0234375" offsetX="-158.98831" offsetY="-47.452576" name="11-Hiltrude-kopf_oberarm_r.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="120,174,173,216" scaleY="0.0234375" offsetX="126.39238" offsetY="-195.35384" name="11-Hiltrude-kopf_unterarm_l.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="0,174,120,216" scaleY="0.0234375" offsetX="90.470337" offsetY="-62.087482" name="11-Hiltrude-kopf_oberarm_l.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="1774,0,253,174" scaleY="0.0234375" offsetX="-207.54959" offsetY="-216.86272" name="11-Hiltrude-kopf_popo.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="1512,0,262,172" scaleY="0.0234375" offsetX="289.59375" offsetY="-276.28931" name="11-Hiltrude-kopf_hand_l.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="1308,0,204,157" scaleY="0.0234375" offsetX="99.339973" offsetY="256.55435" name="10-Hiltrude-Ebene_21.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="1116,0,192,108" scaleY="0.0234375" offsetX="93.131226" offsetY="235.93243" name="10-Hiltrude-Ebene_42.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="998,0,118,55" scaleY="0.0234375" offsetX="45.013424" offsetY="348.79861" name="10-Hiltrude-augen.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="880,0,118,55" scaleY="0.0234375" offsetX="45.013424" offsetY="348.79861" name="10-Hiltrude-augen_geschlossen.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="763,0,117,54" scaleY="0.0234375" offsetX="60.313557" offsetY="320.85925" name="10-Hiltrude-brille.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="664,0,99,38" scaleY="0.0234375" offsetX="44.791683" offsetY="350.57254" name="10-Hiltrude-pupillen.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="292,0,372,34" scaleY="0.0234375" offsetX="-123.50974" offsetY="-281.61108" name="11-Hiltrude-kopf_tischkante__in_unity_.png" scaleX="0.0234375" angleDegrees="0"/>
+  <sprite rect="189,0,103,34" scaleY="0.0234375" offsetX="44.791683" offsetY="350.3508" name="10-Hiltrude-highlight.png" scaleX="0.0234375" angleDegrees="0"/>
+ </spritesheet>
+ <spritesheet height="2048" filename="spriteSheets/sheet_Top-Hilltrude-ipad-retina.png" resolution="ipad-retina" name="sheet_Top-Hilltrude" width="2048">
+  <sprite rect="1332,985,695,898" scaleY="0.01171875" offsetX="49.226505" offsetY="424.41229" name="10-Hiltrude-kopf.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="773,985,559,838" scaleY="0.01171875" offsetX="-68.739716" offsetY="-157.87961" name="11-Hiltrude-kopf_koerper.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="187,985,586,581" scaleY="0.01171875" offsetX="69.183197" offsetY="-664.33606" name="11-Hiltrude-kopf_hand_r.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="0,985,187,64" scaleY="0.01171875" offsetX="89.583366" offsetY="701.14508" name="10-Hiltrude-pupillen.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="1590,518,437,467" scaleY="0.01171875" offsetX="-291.81119" offsetY="-407.56" name="11-Hiltrude-kopf_unterarm_r.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="985,518,605,466" scaleY="0.01171875" offsetX="66.078819" offsetY="754.8064" name="10-Hiltrude-hut.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="740,518,245,449" scaleY="0.01171875" offsetX="-644.37939" offsetY="-313.54178" name="11-Hiltrude-kopf_schwanz.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="477,518,263,444" scaleY="0.01171875" offsetX="-317.97662" offsetY="-94.905151" name="11-Hiltrude-kopf_oberarm_r.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="143,518,334,420" scaleY="0.01171875" offsetX="252.78476" offsetY="-390.70767" name="11-Hiltrude-kopf_unterarm_l.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="1799,98,228,420" scaleY="0.01171875" offsetX="180.94067" offsetY="-124.17496" name="11-Hiltrude-kopf_oberarm_l.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="1305,98,494,336" scaleY="0.01171875" offsetX="-415.09918" offsetY="-433.72543" name="11-Hiltrude-kopf_popo.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="793,98,512,333" scaleY="0.01171875" offsetX="579.1875" offsetY="-552.57861" name="11-Hiltrude-kopf_hand_l.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="397,98,396,303" scaleY="0.01171875" offsetX="198.67995" offsetY="513.1087" name="10-Hiltrude-Ebene_21.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="25,98,372,205" scaleY="0.01171875" offsetX="186.26245" offsetY="471.86487" name="10-Hiltrude-Ebene_42.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="1802,0,225,98" scaleY="0.01171875" offsetX="90.026848" offsetY="697.59723" name="10-Hiltrude-augen.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="1577,0,225,98" scaleY="0.01171875" offsetX="90.026848" offsetY="697.59723" name="10-Hiltrude-augen_geschlossen.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="1354,0,223,96" scaleY="0.01171875" offsetX="120.62711" offsetY="641.71851" name="10-Hiltrude-brille.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="621,0,733,56" scaleY="0.01171875" offsetX="-247.01949" offsetY="-563.22217" name="11-Hiltrude-kopf_tischkante__in_unity_.png" scaleX="0.01171875" angleDegrees="0"/>
+  <sprite rect="427,0,194,56" scaleY="0.01171875" offsetX="89.583366" offsetY="700.7016" name="10-Hiltrude-highlight.png" scaleX="0.01171875" angleDegrees="0"/>
+ </spritesheet>
+ <spritesheet height="256" filename="spriteSheets/sheet_Top-Hilltrude-iphone.png" resolution="iphone" name="sheet_Top-Hilltrude" width="2048">
+  <sprite rect="1758,0,172,219" scaleY="0.050000001" offsetX="11.537462" offsetY="99.471634" name="10-Hiltrude-kopf.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="1618,0,140,205" scaleY="0.050000001" offsetX="-16.11087" offsetY="-37.003033" name="11-Hiltrude-kopf_koerper.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="1472,0,146,145" scaleY="0.050000001" offsetX="16.214811" offsetY="-155.70377" name="11-Hiltrude-kopf_hand_r.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="1321,0,151,118" scaleY="0.050000001" offsetX="15.487224" offsetY="176.90775" name="10-Hiltrude-hut.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="1210,0,111,118" scaleY="0.050000001" offsetX="-68.393242" offsetY="-95.521873" name="11-Hiltrude-kopf_unterarm_r.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="1144,0,66,114" scaleY="0.050000001" offsetX="-151.02641" offsetY="-73.486359" name="11-Hiltrude-kopf_schwanz.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="1074,0,70,113" scaleY="0.050000001" offsetX="-74.525772" offsetY="-22.243395" name="11-Hiltrude-kopf_oberarm_r.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="987,0,87,107" scaleY="0.050000001" offsetX="59.246426" offsetY="-91.572105" name="11-Hiltrude-kopf_unterarm_l.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="925,0,62,107" scaleY="0.050000001" offsetX="42.40797" offsetY="-29.103508" name="11-Hiltrude-kopf_oberarm_l.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="800,0,125,88" scaleY="0.050000001" offsetX="-97.288872" offsetY="-101.6544" name="11-Hiltrude-kopf_popo.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="671,0,129,87" scaleY="0.050000001" offsetX="135.74707" offsetY="-129.5106" name="11-Hiltrude-kopf_hand_l.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="569,0,102,80" scaleY="0.050000001" offsetX="46.565613" offsetY="120.25985" name="10-Hiltrude-Ebene_21.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="473,0,96,57" scaleY="0.050000001" offsetX="43.655262" offsetY="110.59333" name="10-Hiltrude-Ebene_42.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="411,0,62,32" scaleY="0.050000001" offsetX="21.100044" offsetY="163.49934" name="10-Hiltrude-augen.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="349,0,62,32" scaleY="0.050000001" offsetX="21.100044" offsetY="163.49934" name="10-Hiltrude-augen_geschlossen.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="288,0,61,31" scaleY="0.050000001" offsetX="28.271978" offsetY="150.40277" name="10-Hiltrude-brille.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="235,0,53,24" scaleY="0.050000001" offsetX="20.996101" offsetY="164.33087" name="10-Hiltrude-pupillen.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="54,0,181,22" scaleY="0.050000001" offsetX="-57.895191" offsetY="-132.0052" name="11-Hiltrude-kopf_tischkante__in_unity_.png" scaleX="0.050000001" angleDegrees="0"/>
+  <sprite rect="0,0,54,22" scaleY="0.050000001" offsetX="20.996101" offsetY="164.22694" name="10-Hiltrude-highlight.png" scaleX="0.050000001" angleDegrees="0"/>
+ </spritesheet>
+ <spritesheet height="1024" filename="spriteSheets/sheet_Top-Hilltrude-iphone-retina.png" resolution="iphone-retina" name="sheet_Top-Hilltrude" width="2048">
+  <sprite rect="1656,274,391,503" scaleY="0.02112676" offsetX="27.305326" offsetY="235.4162" name="10-Hiltrude-kopf.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="1341,274,315,470" scaleY="0.02112676" offsetX="-38.129059" offsetY="-87.573845" name="11-Hiltrude-kopf_koerper.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="1011,274,330,327" scaleY="0.02112676" offsetX="38.375053" offsetY="-368.49893" name="11-Hiltrude-kopf_hand_r.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="763,274,248,264" scaleY="0.02112676" offsetX="-161.86401" offsetY="-226.06842" name="11-Hiltrude-kopf_unterarm_r.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="422,274,341,263" scaleY="0.02112676" offsetX="36.653095" offsetY="418.68167" name="10-Hiltrude-hut.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="281,274,141,254" scaleY="0.02112676" offsetX="-357.4292" offsetY="-173.91771" name="11-Hiltrude-kopf_schwanz.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="130,274,151,252" scaleY="0.02112676" offsetX="-176.37766" offsetY="-52.642704" name="11-Hiltrude-kopf_oberarm_r.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="0,274,130,59" scaleY="0.02112676" offsetX="49.936768" offsetY="386.94846" name="10-Hiltrude-augen.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="1856,36,191,238" scaleY="0.02112676" offsetX="140.21654" offsetY="-216.72066" name="11-Hiltrude-kopf_unterarm_l.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="1724,36,132,238" scaleY="0.02112676" offsetX="100.36552" offsetY="-68.878304" name="11-Hiltrude-kopf_oberarm_l.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="1445,36,279,192" scaleY="0.02112676" offsetX="-230.25032" offsetY="-240.58208" name="11-Hiltrude-kopf_popo.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="1156,36,289,190" scaleY="0.02112676" offsetX="321.26807" offsetY="-306.50845" name="11-Hiltrude-kopf_hand_l.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="931,36,225,173" scaleY="0.02112676" offsetX="110.20528" offsetY="284.61499" name="10-Hiltrude-Ebene_21.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="720,36,211,119" scaleY="0.02112676" offsetX="103.31745" offsetY="261.73755" name="10-Hiltrude-Ebene_42.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="590,36,130,59" scaleY="0.02112676" offsetX="49.936768" offsetY="386.94846" name="10-Hiltrude-augen_geschlossen.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="461,36,129,58" scaleY="0.02112676" offsetX="66.910355" offsetY="355.95322" name="10-Hiltrude-brille.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="352,36,109,41" scaleY="0.02112676" offsetX="49.690777" offsetY="388.91641" name="10-Hiltrude-pupillen.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="239,36,113,36" scaleY="0.02112676" offsetX="49.690777" offsetY="388.67041" name="10-Hiltrude-highlight.png" scaleX="0.02112676" angleDegrees="0"/>
+  <sprite rect="1636,0,411,36" scaleY="0.02112676" offsetX="-137.01862" offsetY="-312.41229" name="11-Hiltrude-kopf_tischkante__in_unity_.png" scaleX="0.02112676" angleDegrees="0"/>
+ </spritesheet>
+</spritesheets>

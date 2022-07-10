@@ -1,0 +1,37 @@
+<stages>
+ <stage name="Rita_Rachne_idle">
+  <node groupId="0" name="tasterlunten" skinId="0" drwId="1"/>
+  <node groupId="0" name="handl2" skinId="0" drwId="2"/>
+  <node groupId="0" name="unterarml2" skinId="0" drwId="3"/>
+  <node groupId="0" name="brille_1" skinId="0" drwId="4"/>
+  <node groupId="0" name="brillenglas_1" skinId="0" drwId="5"/>
+  <node groupId="0" name="tasterloben" skinId="0" drwId="6"/>
+  <node groupId="0" name="Ebene37" skinId="0" drwId="7"/>
+  <node groupId="0" name="augegeschr" skinId="0" drwId="8"/>
+  <node groupId="0" name="oberarml" skinId="0" drwId="9"/>
+  <node groupId="0" name="augenr" skinId="0" drwId="10"/>
+  <node groupId="0" name="augegeschl" skinId="0" drwId="11"/>
+  <node groupId="0" name="augenl" skinId="0" drwId="12"/>
+  <node groupId="0" name="kopfbase" skinId="0" drwId="13"/>
+  <node groupId="0" name="Ebene37_2" skinId="0" drwId="14"/>
+  <node groupId="0" name="tasterrunten" skinId="0" drwId="15"/>
+  <node groupId="0" name="tasterroben" skinId="0" drwId="16"/>
+  <node groupId="0" name="handl" skinId="0" drwId="17"/>
+  <node groupId="0" name="unterarml" skinId="0" drwId="18"/>
+  <node groupId="0" name="oberarml2" skinId="0" drwId="19"/>
+  <node groupId="0" name="handr1" skinId="0" drwId="20"/>
+  <node groupId="0" name="unterarmr1" skinId="0" drwId="21"/>
+  <node groupId="0" name="oberarmr1" skinId="0" drwId="22"/>
+  <node groupId="0" name="armr2" skinId="0" drwId="23"/>
+  <node groupId="0" name="oberk_rper" skinId="0" drwId="24"/>
+  <node groupId="0" name="fussl" skinId="0" drwId="25"/>
+  <node groupId="0" name="wadel" skinId="0" drwId="26"/>
+  <node groupId="0" name="oberschenkell" skinId="0" drwId="27"/>
+  <node groupId="0" name="beinm" skinId="0" drwId="28"/>
+  <node groupId="0" name="beinr" skinId="0" drwId="29"/>
+  <node groupId="0" name="h_ngematte" skinId="0" drwId="30"/>
+  <node groupId="0" name="Test1" skinId="0" drwId="31"/>
+  <node groupId="0" name="Test2" skinId="0" drwId="32"/>
+  <play skeleton="Top" drawingAnimation="idle_Top" animation="idle_Top" name="Top"/>
+ </stage>
+</stages>

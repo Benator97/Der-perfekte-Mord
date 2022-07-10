@@ -1,0 +1,45 @@
+<stages>
+ <stage name="Hilltrude_idle_hilltrude">
+  <node drwId="1" skinId="0" groupId="0" name="hut"/>
+  <node drwId="2" skinId="0" groupId="0" name="brille"/>
+  <node drwId="3" skinId="0" groupId="0" name="augen_geschlossen"/>
+  <node drwId="4" skinId="0" groupId="0" name="highlight"/>
+  <node drwId="5" skinId="0" groupId="0" name="pupillen"/>
+  <node drwId="6" skinId="0" groupId="0" name="augen"/>
+  <node drwId="7" skinId="0" groupId="0" name="Ebene_21"/>
+  <node drwId="8" skinId="0" groupId="0" name="Ebene_42"/>
+  <node drwId="9" skinId="0" groupId="0" name="kopf"/>
+  <node drwId="10" skinId="0" groupId="0" name="hand_r"/>
+  <node drwId="11" skinId="0" groupId="0" name="unterarm_r"/>
+  <node drwId="12" skinId="0" groupId="0" name="oberarm_r"/>
+  <node drwId="13" skinId="0" groupId="0" name="tischkante__in_unity_"/>
+  <node drwId="14" skinId="0" groupId="0" name="koerper"/>
+  <node drwId="15" skinId="0" groupId="0" name="hand_l"/>
+  <node drwId="16" skinId="0" groupId="0" name="unterarm_l"/>
+  <node drwId="17" skinId="0" groupId="0" name="oberarm_l"/>
+  <node drwId="18" skinId="0" groupId="0" name="popo"/>
+  <node drwId="19" skinId="0" groupId="0" name="schwanz"/>
+  <play skeleton="Top" animation="idle_hilltrude_Top" drawingAnimation="idle_hilltrude_Top" name="Top"/>
+ </stage>
+ <stage name="Hilltrude_talk_hilltrude">
+  <node drwId="1" skinId="0" groupId="0" name="hut"/>
+  <node drwId="2" skinId="0" groupId="0" name="brille"/>
+  <node drwId="3" skinId="0" groupId="0" name="augen_geschlossen"/>
+  <node drwId="4" skinId="0" groupId="0" name="highlight"/>
+  <node drwId="5" skinId="0" groupId="0" name="pupillen"/>
+  <node drwId="6" skinId="0" groupId="0" name="augen"/>
+  <node drwId="7" skinId="0" groupId="0" name="Ebene_21"/>
+  <node drwId="8" skinId="0" groupId="0" name="Ebene_42"/>
+  <node drwId="9" skinId="0" groupId="0" name="kopf"/>
+  <node drwId="10" skinId="0" groupId="0" name="hand_r"/>
+  <node drwId="11" skinId="0" groupId="0" name="unterarm_r"/>
+  <node drwId="12" skinId="0" groupId="0" name="oberarm_r"/>
+  <node drwId="14" skinId="0" groupId="0" name="koerper"/>
+  <node drwId="15" skinId="0" groupId="0" name="hand_l"/>
+  <node drwId="16" skinId="0" groupId="0" name="unterarm_l"/>
+  <node drwId="17" skinId="0" groupId="0" name="oberarm_l"/>
+  <node drwId="18" skinId="0" groupId="0" name="popo"/>
+  <node drwId="19" skinId="0" groupId="0" name="schwanz"/>
+  <play skeleton="Top_1" animation="talk_hilltrude_Top" drawingAnimation="talk_hilltrude_Top" name="Top"/>
+ </stage>
+</stages>
