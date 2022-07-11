@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ipad
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7151080257617484fafb7c7199008ff3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ce6548d054f97194699eda20bb5d29ec, type: 3}
+  - {fileID: 21300000, guid: eb19b7a1989103c43a7f53d691598aa8, type: 3}
+  - {fileID: 21300000, guid: 6c902ba1521820a499eeb382dc127fa9, type: 3}
+  - {fileID: 21300000, guid: b96ea2d19893ae24aa071709863b3a23, type: 3}
+  - {fileID: 21300000, guid: 4272c6c412ccc654ea8af73ac0b06561, type: 3}
+  - {fileID: 21300000, guid: 89f7be95292a17f47a2da6d814673b3b, type: 3}
+  - {fileID: 21300000, guid: 142f01b624eb8c84c9dd7e23a744bb17, type: 3}
+  - {fileID: 21300000, guid: 5428e2070d51e114fb9dadcf47177325, type: 3}
+  - {fileID: 21300000, guid: 8fdb841788823434c9a086ebe801bed3, type: 3}
+  - {fileID: 21300000, guid: 7d2212371d4275f48b6048d8d8684db0, type: 3}
+  - {fileID: 21300000, guid: d4265267e06630341bf0033545c5fe38, type: 3}
+  - {fileID: 21300000, guid: 91ac389737b10c74c89b370579fc7713, type: 3}
+  - {fileID: 21300000, guid: 389e9c59443782c4e87584f4d98fea36, type: 3}
+  - {fileID: 21300000, guid: d521a15a3a897b4468d8d1a82ecaab29, type: 3}
+  - {fileID: 21300000, guid: 710be7faccb6bd9489f7dcc05ed6696c, type: 3}
+  - {fileID: 21300000, guid: d4ae50bb6ead7294fb91f29628ed91c9, type: 3}
+  - {fileID: 21300000, guid: f3e70ddb9f019d1469350d17abfe70d5, type: 3}
+  - {fileID: 21300000, guid: a131567c83c5e5e4f9b89de4c04d2883, type: 3}
+  - {fileID: 21300000, guid: b31eaefc226dfd0438fd840683dddef3, type: 3}
+  - {fileID: 21300000, guid: bc0e25ee041ceda4181c1d1d874cc070, type: 3}
+  - {fileID: 21300000, guid: 54feb2feeaf6e2e4babf038e278c3b40, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5-Thomas_Gruenfeld-Ebene_24_2
+  - 5-Thomas_Gruenfeld-Aus_Auswahl_2
+  - 5-Thomas_Gruenfeld-schwanz
+  - 5-Thomas_Gruenfeld-Ebene_23
+  - 5-Thomas_Gruenfeld-mund
+  - 5-Thomas_Gruenfeld-auge_l_gesch
+  - 5-Thomas_Gruenfeld-Ebene_26
+  - 5-Thomas_Gruenfeld-Aus_Auswahl
+  - 5-Thomas_Gruenfeld-oberarm_l
+  - 5-Thomas_Gruenfeld-unterarm_r
+  - 5-Thomas_Gruenfeld-auge_r_gesch
+  - 5-Thomas_Gruenfeld-Ebene_24
+  - 5-Thomas_Gruenfeld-Aus_Auswahl_3
+  - 5-Thomas_Gruenfeld-Ebene_25
+  - 5-Thomas_Gruenfeld-oberarm_r
+  - 5-Thomas_Gruenfeld-unterarm_l
+  - 5-Thomas_Gruenfeld-k_rper
+  - 5-Thomas_Gruenfeld-hand_r
+  - 5-Thomas_Gruenfeld-ohr_l
+  - 5-Thomas_Gruenfeld-ohr_r
+  - 5-Thomas_Gruenfeld-kopfbase_
+  m_RenderDataMap: {}
+  m_Tag: ipad
+  m_IsVariant: 0

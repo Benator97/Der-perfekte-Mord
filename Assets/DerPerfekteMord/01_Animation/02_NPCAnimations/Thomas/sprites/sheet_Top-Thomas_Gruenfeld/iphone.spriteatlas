@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: iphone
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 547a2389ccc4bee4e81cbe47eee9b1f3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a2009c605026f7b4ebbe979e7e01c883, type: 3}
+  - {fileID: 21300000, guid: e5b919b0ddcfa874aa2e5a08a4b041d5, type: 3}
+  - {fileID: 21300000, guid: 9bb249e000bd346458e3e192d1ed21c6, type: 3}
+  - {fileID: 21300000, guid: 4562a06203492b64ba503f1743209f29, type: 3}
+  - {fileID: 21300000, guid: 6982aaf2854f2fd4e95b08feab6e905a, type: 3}
+  - {fileID: 21300000, guid: 7698386467f63524893cd7171a20983c, type: 3}
+  - {fileID: 21300000, guid: 4e7be8a403100734ab9d954520c4fc85, type: 3}
+  - {fileID: 21300000, guid: 93a7c0e4c17c507459db09eb1a556db3, type: 3}
+  - {fileID: 21300000, guid: 05aa42452663eef4ea3111b747ef8e49, type: 3}
+  - {fileID: 21300000, guid: e79356066e3e88e4b92dea9eb24f0648, type: 3}
+  - {fileID: 21300000, guid: a297dce69f094444290e8dc029ba954d, type: 3}
+  - {fileID: 21300000, guid: 527074676c5a4e44088be2cf3ad2798b, type: 3}
+  - {fileID: 21300000, guid: 21c1a6d79e853ac43bc84ad77dc9b377, type: 3}
+  - {fileID: 21300000, guid: 768ba0b82134c804e8bcb50a337f68de, type: 3}
+  - {fileID: 21300000, guid: 7523dfd9853031946bb161ac4993d13c, type: 3}
+  - {fileID: 21300000, guid: 7548330b856ae28439c4fc9d7cc0ac38, type: 3}
+  - {fileID: 21300000, guid: cd7d914b29a828c48a9fa0d7274fb556, type: 3}
+  - {fileID: 21300000, guid: c60a317be5301884a910908b0f66f149, type: 3}
+  - {fileID: 21300000, guid: 7255e1dbfea9a9845815e293ab47fa66, type: 3}
+  - {fileID: 21300000, guid: d101077ec72a3cb4e8e9f046f951c3b5, type: 3}
+  - {fileID: 21300000, guid: 7f6ac6cfb04e8404094b7f2d8481c3f9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5-Thomas_Gruenfeld-auge_r_gesch
+  - 5-Thomas_Gruenfeld-kopfbase_
+  - 5-Thomas_Gruenfeld-Ebene_26
+  - 5-Thomas_Gruenfeld-Ebene_24
+  - 5-Thomas_Gruenfeld-oberarm_r
+  - 5-Thomas_Gruenfeld-Aus_Auswahl
+  - 5-Thomas_Gruenfeld-auge_l_gesch
+  - 5-Thomas_Gruenfeld-Ebene_23
+  - 5-Thomas_Gruenfeld-ohr_r
+  - 5-Thomas_Gruenfeld-k_rper
+  - 5-Thomas_Gruenfeld-hand_r
+  - 5-Thomas_Gruenfeld-Aus_Auswahl_2
+  - 5-Thomas_Gruenfeld-Ebene_25
+  - 5-Thomas_Gruenfeld-ohr_l
+  - 5-Thomas_Gruenfeld-oberarm_l
+  - 5-Thomas_Gruenfeld-schwanz
+  - 5-Thomas_Gruenfeld-Ebene_24_2
+  - 5-Thomas_Gruenfeld-mund
+  - 5-Thomas_Gruenfeld-unterarm_l
+  - 5-Thomas_Gruenfeld-unterarm_r
+  - 5-Thomas_Gruenfeld-Aus_Auswahl_3
+  m_RenderDataMap: {}
+  m_Tag: iphone
+  m_IsVariant: 0
