@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819987e1edc943b4fa1b1fbb06080c5b, type: 3}
   m_Name: Lucie_Anim
   m_EditorClassIdentifier: 
-  HarmonyXMLProjectPath: Assets/DerPerfekteMord/01_Animation/HarmonyRAWFiles/DPMLucieRig
+  HarmonyXMLProjectPath: Assets/DerPerfekteMord/01_Animation/00_HarmonyRAWFiles/LucieNew
   OutputPath: Assets/DerPerfekteMord/01_Animation/01_PlayerAnimation/Lucie_AnimProject.asset
   GeneratePrefab: 1
-  ExistingPrefab: {fileID: 8869611515156160755, guid: 5052ad64b4d9d324d9f554f5b60bc0e5, type: 3}
+  ExistingPrefab: {fileID: 4084458293004422025, guid: 5052ad64b4d9d324d9f554f5b60bc0e5, type: 3}
   AnimationSettings:
     FrameRate: 30
     Stepped: 1

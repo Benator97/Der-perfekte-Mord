@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ipad
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c2066bd1f9420754e9517d3f13d23fcf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 957b8b80bcb8e644ab8c1beebcac0802, type: 3}
+  - {fileID: 21300000, guid: 37056f803f4d3a74392516c9008df83d, type: 3}
+  - {fileID: 21300000, guid: 4e881e12714ee5243b344b99c9b92360, type: 3}
+  - {fileID: 21300000, guid: 784c5f1281a5f3e4cac3d1778d5ad584, type: 3}
+  - {fileID: 21300000, guid: f757a1329d2261c4a9f7842157f07651, type: 3}
+  - {fileID: 21300000, guid: 965dc7c249f4a564e8f0af8566f14e87, type: 3}
+  - {fileID: 21300000, guid: 5e263703a7c7b88489663469182bfdb4, type: 3}
+  - {fileID: 21300000, guid: 769537f368c6b3648b11d8d4c3de4b72, type: 3}
+  - {fileID: 21300000, guid: d4f9d5e499a50d24db4c634efa63971e, type: 3}
+  - {fileID: 21300000, guid: 94cdfd05ede41dc4b84d0cd934c0e0eb, type: 3}
+  - {fileID: 21300000, guid: b748b716521da7a448b9e99e46fe3101, type: 3}
+  - {fileID: 21300000, guid: 555e7a8605f7f5b42a6785af4fd4801a, type: 3}
+  - {fileID: 21300000, guid: 84084017aafb7454da0fbac3a32c0f7d, type: 3}
+  - {fileID: 21300000, guid: 74f61c47c5c759949984b9b21c7c2696, type: 3}
+  - {fileID: 21300000, guid: ecba1d18973a9e745b1dc326afbaa876, type: 3}
+  - {fileID: 21300000, guid: 54cce03a673b8ee42b477795b9216aa1, type: 3}
+  - {fileID: 21300000, guid: d3b3476a10f74f244a6d62324e33d243, type: 3}
+  - {fileID: 21300000, guid: a342edaa63d541042b758860e002da93, type: 3}
+  - {fileID: 21300000, guid: 24d7fd1b69f92344581abf9e24e7ede3, type: 3}
+  - {fileID: 21300000, guid: 9982949b0fff67e44ab5fda6e127dbda, type: 3}
+  - {fileID: 21300000, guid: 28014d5c95667734eb226ae41df0683e, type: 3}
+  - {fileID: 21300000, guid: 3f47a66ce02a01c4391e36a772a1b52f, type: 3}
+  - {fileID: 21300000, guid: b697120d3c3ed8c488c7b8475afb229b, type: 3}
+  - {fileID: 21300000, guid: 0da5b21dde5148b49bd8abcd56197308, type: 3}
+  - {fileID: 21300000, guid: 6e8f822d66169224991812a425ff1d1a, type: 3}
+  - {fileID: 21300000, guid: 1795e96de0f563d4aa80e86cb27af084, type: 3}
+  - {fileID: 21300000, guid: 9948b0ceef14faa4caed5b4d8bb27fac, type: 3}
+  - {fileID: 21300000, guid: 9c0c900fc806a8945a1206897b830438, type: 3}
+  - {fileID: 21300000, guid: da03d30f56d30d144809bd3170a4aa45, type: 3}
+  - {fileID: 21300000, guid: 1f3de28f1a31abe46adab0be38d58fee, type: 3}
+  - {fileID: 21300000, guid: ade1b68ff0b69d84da223ccefa42f914, type: 3}
+  - {fileID: 21300000, guid: 0cd6d79f66a224f4495fdfcefda708ec, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5-Rita_Rachne-tasterlunten
+  - 11-Rita_Rachne-brille
+  - 5-Rita_Rachne-tasterloben
+  - 5-Rita_Rachne-oberk_rper
+  - 5-Rita_Rachne-augenr
+  - 5-Rita_Rachne-Ebene37
+  - 5-Rita_Rachne-beinm
+  - 5-Rita_Rachne-fussl
+  - 5-Rita_Rachne-unterarml
+  - 5-Rita_Rachne-handl2
+  - 5-Rita_Rachne-Ebene37_2
+  - 11-Rita_Rachne-brillenglas
+  - 12-Test1-1
+  - 5-Rita_Rachne-beinr
+  - 5-Rita_Rachne-handl
+  - 5-Rita_Rachne-armr2
+  - 5-Rita_Rachne-augenl
+  - 5-Rita_Rachne-oberarml
+  - 5-Rita_Rachne-oberarml2
+  - 13-Test2-1
+  - 5-Rita_Rachne-kopfbase
+  - 5-Rita_Rachne-unterarml2
+  - 5-Rita_Rachne-tasterroben
+  - 5-Rita_Rachne-tasterrunten
+  - 5-Rita_Rachne-oberschenkell
+  - 5-Rita_Rachne-oberarmr1
+  - 5-Rita_Rachne-unterarmr1
+  - 5-Rita_Rachne-wadel
+  - 5-Rita_Rachne-augegeschr
+  - 5-Rita_Rachne-augegeschl
+  - 5-Rita_Rachne-h_ngematte
+  - 5-Rita_Rachne-handr1
+  m_RenderDataMap: {}
+  m_Tag: ipad
+  m_IsVariant: 0

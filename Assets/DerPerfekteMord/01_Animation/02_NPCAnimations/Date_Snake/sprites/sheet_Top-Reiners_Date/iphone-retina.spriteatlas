@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: iphone-retina
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ff1a69faa78991a4e900d73cbccae121, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 692430c0d979d7a4bac5104cda7a1324, type: 3}
+  - {fileID: 21300000, guid: ba1782015dc2715499ec2ca834f8e368, type: 3}
+  - {fileID: 21300000, guid: 73f9bb722ec255e46810babc63403e45, type: 3}
+  - {fileID: 21300000, guid: 934b8e9293807424aadda8c296a7d722, type: 3}
+  - {fileID: 21300000, guid: 36a0c113f828bb640a59f1f66da2e0ee, type: 3}
+  - {fileID: 21300000, guid: 67e377d5fd6b3b74690c6d2aaf1f485f, type: 3}
+  - {fileID: 21300000, guid: b25eaa27dc8776241a9e0cfdaf2e123b, type: 3}
+  - {fileID: 21300000, guid: e0fb20a77ee5dfb47835a3f27c7e4538, type: 3}
+  - {fileID: 21300000, guid: cdc1bae8b6b5e824b9637eaafeaf1d56, type: 3}
+  - {fileID: 21300000, guid: d610eaa965f725d4090cf1b4f8c84fc4, type: 3}
+  - {fileID: 21300000, guid: f02821d9ce52a0346be15b845a412d12, type: 3}
+  - {fileID: 21300000, guid: 2355eeaacb8202441a85489706b24219, type: 3}
+  - {fileID: 21300000, guid: 7809dcca72e18844f8771bceea905e56, type: 3}
+  - {fileID: 21300000, guid: 877a17bb7d7095d49a7e18397158956f, type: 3}
+  - {fileID: 21300000, guid: 51c1a0dcbc3f5bd4abbf8dd3833d20d3, type: 3}
+  - {fileID: 21300000, guid: f8fce30db9b9a9d4eba1402557bd399f, type: 3}
+  - {fileID: 21300000, guid: ee58858d9db8fbc45abac003e483d6f6, type: 3}
+  - {fileID: 21300000, guid: 50a7bc3e0b097b042bb4b7159d9c3c68, type: 3}
+  - {fileID: 21300000, guid: 2c96fd3f07ddb4a4e9c72c9995620741, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5-Reiners_Date-2
+  - 5-Reiners_Date-schwanz
+  - 5-Reiners_Date-pupillen
+  - 5-Reiners_Date-hand_r
+  - 5-Reiners_Date-unteram_l
+  - 5-Reiners_Date-brustkorb
+  - 5-Reiners_Date-augen
+  - 5-Reiners_Date-k_rper
+  - 5-Reiners_Date-schmuck
+  - 5-Reiners_Date-oberarm_l
+  - 5-Reiners_Date-augen_highlight_
+  - 5-Reiners_Date-3
+  - 5-Reiners_Date-hand_l
+  - 5-Reiners_Date-unterarm_r
+  - 5-Reiners_Date-1
+  - 5-Reiners_Date-oberkopf
+  - 5-Reiners_Date-4
+  - 5-Reiners_Date-oberarm_r
+  - 5-Reiners_Date-zunge
+  m_RenderDataMap: {}
+  m_Tag: iphone-retina
+  m_IsVariant: 0

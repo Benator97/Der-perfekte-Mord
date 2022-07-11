@@ -9411,7 +9411,7 @@ GameObject:
   - component: {fileID: 1211351887}
   - component: {fileID: 1211351888}
   m_Layer: 0
-  m_Name: Tresen (1)
+  m_Name: Zeitungstaender
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
