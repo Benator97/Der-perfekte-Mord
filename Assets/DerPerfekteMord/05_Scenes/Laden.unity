@@ -16622,12 +16622,12 @@ MonoBehaviour:
   limitCursorInfluenceY: {x: 0, y: 0}
   followCursorSpeed: 3
   cursorInfluenceDuringCutscenes: 0
-  lockHorizontal: 1
+  lockHorizontal: 0
   lockVertical: 1
-  limitHorizontal: 0
+  limitHorizontal: 1
   limitVertical: 0
-  backgroundConstraint: {fileID: 0}
-  autoScaleToFitBackgroundConstraint: 0
+  backgroundConstraint: {fileID: 569824823}
+  autoScaleToFitBackgroundConstraint: 1
   constrainHorizontal: {x: 0, y: 0}
   constrainVertical: {x: 0, y: 0}
   freedom: {x: 0, y: 0}

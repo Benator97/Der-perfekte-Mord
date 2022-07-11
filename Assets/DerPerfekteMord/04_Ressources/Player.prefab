@@ -180,7 +180,7 @@ MonoBehaviour:
   wallLayer: Default
   wallDistance: 0.5
   wallReductionOnlyParameter: 1
-  walkSound: {fileID: 0}
+  walkSound: {fileID: 8300000, guid: 047e548cd801f4efb906d74978ed90ac, type: 3}
   runSound: {fileID: 0}
   textScrollClip: {fileID: 0}
   soundChild: {fileID: 366925880683897882}
@@ -254,7 +254,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -506,7 +506,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0

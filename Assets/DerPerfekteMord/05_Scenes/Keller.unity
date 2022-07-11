@@ -660,7 +660,7 @@ Transform:
   m_GameObject: {fileID: 1168330378}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.875, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1915718866}
@@ -1745,12 +1745,12 @@ MonoBehaviour:
   limitCursorInfluenceY: {x: 0, y: 0}
   followCursorSpeed: 3
   cursorInfluenceDuringCutscenes: 0
-  lockHorizontal: 1
+  lockHorizontal: 0
   lockVertical: 1
-  limitHorizontal: 0
+  limitHorizontal: 1
   limitVertical: 0
-  backgroundConstraint: {fileID: 0}
-  autoScaleToFitBackgroundConstraint: 0
+  backgroundConstraint: {fileID: 1168330380}
+  autoScaleToFitBackgroundConstraint: 1
   constrainHorizontal: {x: 0, y: 0}
   constrainVertical: {x: 0, y: 0}
   freedom: {x: 0, y: 0}
@@ -2408,7 +2408,7 @@ MonoBehaviour:
   displayLineID: -1
   iconSortingLayer: 
   iconSortingOrder: 0
-  doubleClickingHotspot: 0
+  doubleClickingHotspot: 2
   playerTurnsHead: 1
 --- !u!114 &3557237825360137678
 MonoBehaviour:
