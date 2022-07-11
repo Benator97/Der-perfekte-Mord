@@ -1,0 +1,128 @@
+<drawingAnimations>
+ <drawingAnimation name="idle_hilltrude_Top" spritesheet="sheet_Top-Hilltrude">
+  <drawing drwId="1" node="hut" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="10-Hiltrude-hut.png"/>
+  </drawing>
+  <drawing drwId="2" node="brille" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="10-Hiltrude-brille.png"/>
+  </drawing>
+  <drawing drwId="3" node="augen_geschlossen" name="10-Hiltrude">
+   <drw skinId="0" frame="23" repeat="2" name="10-Hiltrude-augen_geschlossen.png"/>
+   <drw skinId="0" frame="63" repeat="2" name="10-Hiltrude-augen_geschlossen.png"/>
+  </drawing>
+  <drawing drwId="4" node="highlight" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="22" name="10-Hiltrude-highlight.png"/>
+   <drw skinId="0" frame="25" repeat="38" name="10-Hiltrude-highlight.png"/>
+   <drw skinId="0" frame="65" repeat="16" name="10-Hiltrude-highlight.png"/>
+  </drawing>
+  <drawing drwId="5" node="pupillen" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="22" name="10-Hiltrude-pupillen.png"/>
+   <drw skinId="0" frame="25" repeat="38" name="10-Hiltrude-pupillen.png"/>
+   <drw skinId="0" frame="65" repeat="16" name="10-Hiltrude-pupillen.png"/>
+  </drawing>
+  <drawing drwId="6" node="augen" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="22" name="10-Hiltrude-augen.png"/>
+   <drw skinId="0" frame="25" repeat="38" name="10-Hiltrude-augen.png"/>
+   <drw skinId="0" frame="65" repeat="16" name="10-Hiltrude-augen.png"/>
+  </drawing>
+  <drawing drwId="7" node="Ebene_21" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="10-Hiltrude-Ebene_21.png"/>
+  </drawing>
+  <drawing drwId="8" node="Ebene_42" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="10-Hiltrude-Ebene_42.png"/>
+  </drawing>
+  <drawing drwId="9" node="kopf" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="10-Hiltrude-kopf.png"/>
+  </drawing>
+  <drawing drwId="10" node="hand_r" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_hand_r.png"/>
+  </drawing>
+  <drawing drwId="11" node="unterarm_r" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_unterarm_r.png"/>
+  </drawing>
+  <drawing drwId="12" node="oberarm_r" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_oberarm_r.png"/>
+  </drawing>
+  <drawing drwId="13" node="tischkante__in_unity_" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_tischkante__in_unity_.png"/>
+  </drawing>
+  <drawing drwId="14" node="koerper" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_koerper.png"/>
+  </drawing>
+  <drawing drwId="15" node="hand_l" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_hand_l.png"/>
+  </drawing>
+  <drawing drwId="16" node="unterarm_l" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_unterarm_l.png"/>
+  </drawing>
+  <drawing drwId="17" node="oberarm_l" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_oberarm_l.png"/>
+  </drawing>
+  <drawing drwId="18" node="popo" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_popo.png"/>
+  </drawing>
+  <drawing drwId="19" node="schwanz" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="80" name="11-Hiltrude-kopf_schwanz.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation name="talk_hilltrude_Top" spritesheet="sheet_Top-Hilltrude">
+  <drawing drwId="1" node="hut" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="10-Hiltrude-hut.png"/>
+  </drawing>
+  <drawing drwId="2" node="brille" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="10-Hiltrude-brille.png"/>
+  </drawing>
+  <drawing drwId="3" node="augen_geschlossen" name="10-Hiltrude">
+   <drw skinId="0" frame="23" repeat="2" name="10-Hiltrude-augen_geschlossen.png"/>
+  </drawing>
+  <drawing drwId="4" node="highlight" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="22" name="10-Hiltrude-highlight.png"/>
+   <drw skinId="0" frame="25" repeat="16" name="10-Hiltrude-highlight.png"/>
+  </drawing>
+  <drawing drwId="5" node="pupillen" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="22" name="10-Hiltrude-pupillen.png"/>
+   <drw skinId="0" frame="25" repeat="16" name="10-Hiltrude-pupillen.png"/>
+  </drawing>
+  <drawing drwId="6" node="augen" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="22" name="10-Hiltrude-augen.png"/>
+   <drw skinId="0" frame="25" repeat="16" name="10-Hiltrude-augen.png"/>
+  </drawing>
+  <drawing drwId="7" node="Ebene_21" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="10-Hiltrude-Ebene_21.png"/>
+  </drawing>
+  <drawing drwId="8" node="Ebene_42" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="10-Hiltrude-Ebene_42.png"/>
+  </drawing>
+  <drawing drwId="9" node="kopf" name="10-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="10-Hiltrude-kopf.png"/>
+  </drawing>
+  <drawing drwId="10" node="hand_r" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_hand_r.png"/>
+  </drawing>
+  <drawing drwId="11" node="unterarm_r" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_unterarm_r.png"/>
+  </drawing>
+  <drawing drwId="12" node="oberarm_r" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_oberarm_r.png"/>
+  </drawing>
+  <drawing drwId="13" node="tischkante__in_unity_" name="11-Hiltrude"/>
+  <drawing drwId="14" node="koerper" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_koerper.png"/>
+  </drawing>
+  <drawing drwId="15" node="hand_l" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_hand_l.png"/>
+  </drawing>
+  <drawing drwId="16" node="unterarm_l" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_unterarm_l.png"/>
+  </drawing>
+  <drawing drwId="17" node="oberarm_l" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_oberarm_l.png"/>
+  </drawing>
+  <drawing drwId="18" node="popo" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_popo.png"/>
+  </drawing>
+  <drawing drwId="19" node="schwanz" name="11-Hiltrude">
+   <drw skinId="0" frame="1" repeat="40" name="11-Hiltrude-kopf_schwanz.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

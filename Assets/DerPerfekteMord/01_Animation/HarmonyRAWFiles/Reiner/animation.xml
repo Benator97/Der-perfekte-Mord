@@ -1,0 +1,2814 @@
+<animations>
+ <animation name="reiner_idle_Top">
+  <attrlinks>
+   <attrlink attr="rotation.anglez" node="Peg_7" timedvalue="ATV-0A57D2059FE08B26"/>
+   <attrlink attr="offset" node="Peg_7" timedvalue="ATV-0A57D2059FE08B24"/>
+   <attrlink attr="velocity" node="Peg_7" timedvalue="ATV-0A57D2059FE08B24_velocity"/>
+   <attrlink attr="scale.x" node="Peg_7" timedvalue="ATV-0A57D2059FE08B27"/>
+   <attrlink attr="scale.y" node="Peg_7" timedvalue="ATV-0A57D2059FE08B28"/>
+   <attrlink attr="skew" node="Peg_7" timedvalue="ATV-0A57D2059FE08B29"/>
+   <attrlink attr="rotation.anglez" node="Peg_6" timedvalue="ATV-0A57D2059FE08C1F"/>
+   <attrlink attr="offset" node="Peg_6" timedvalue="ATV-0A57D2059FE08C1D"/>
+   <attrlink attr="velocity" node="Peg_6" timedvalue="ATV-0A57D2059FE08C1D_velocity"/>
+   <attrlink attr="scale.x" node="Peg_6" timedvalue="ATV-0A57D2059FE08C20"/>
+   <attrlink attr="scale.y" node="Peg_6" timedvalue="ATV-0A57D2059FE08C21"/>
+   <attrlink attr="skew" node="Peg_6" timedvalue="ATV-0A57D2059FE08C22"/>
+   <attrlink attr="rotation.anglez" node="Peg_5" timedvalue="ATV-0A57D2059FE09065"/>
+   <attrlink attr="offset" node="Peg_5" timedvalue="ATV-0A57D2059FE09063"/>
+   <attrlink attr="velocity" node="Peg_5" timedvalue="ATV-0A57D2059FE09063_velocity"/>
+   <attrlink attr="scale.x" node="Peg_5" timedvalue="ATV-0A57D2059FE09066"/>
+   <attrlink attr="scale.y" node="Peg_5" timedvalue="ATV-0A57D2059FE09067"/>
+   <attrlink attr="skew" node="Peg_5" timedvalue="ATV-0A57D2059FE09068"/>
+   <attrlink attr="pivot" node="Peg_5" timedvalue="PIVOT-TV-Peg_5"/>
+   <attrlink attr="rotation.anglez" node="Peg_4" timedvalue="ATV-0A57D2059FE09386"/>
+   <attrlink attr="offset" node="Peg_4" timedvalue="ATV-0A57D2059FE09384"/>
+   <attrlink attr="velocity" node="Peg_4" timedvalue="ATV-0A57D2059FE09384_velocity"/>
+   <attrlink attr="scale.x" node="Peg_4" timedvalue="ATV-0A57D2059FE09387"/>
+   <attrlink attr="scale.y" node="Peg_4" timedvalue="ATV-0A57D2059FE09388"/>
+   <attrlink attr="skew" node="Peg_4" timedvalue="ATV-0A57D2059FE09389"/>
+   <attrlink attr="pivot" node="Peg_4" timedvalue="PIVOT-TV-Peg_4"/>
+   <attrlink attr="rotation.anglez" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29C"/>
+   <attrlink attr="offset" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29A"/>
+   <attrlink attr="velocity" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29A_velocity"/>
+   <attrlink attr="scale.x" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29D"/>
+   <attrlink attr="scale.y" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29E"/>
+   <attrlink attr="skew" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29F"/>
+   <attrlink attr="pivot" node="ohr_l-P" timedvalue="PIVOT-TV-ohr_l-P"/>
+   <attrlink attr="opacity" node="ohr_l" value="1"/>
+   <attrlink attr="position.x" node="auge_geschlossen_r-P" value="3.9321333333333333"/>
+   <attrlink attr="position.y" node="auge_geschlossen_r-P" value="-19.0137"/>
+   <attrlink attr="scale.x" node="auge_geschlossen_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_geschlossen_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_geschlossen_r-P" timedvalue="PIVOT-TV-auge_geschlossen_r-P"/>
+   <attrlink attr="opacity" node="auge_geschlossen_r" value="1"/>
+   <attrlink attr="position.x" node="Ebene_27-P" value="3.9321333333333333"/>
+   <attrlink attr="position.y" node="Ebene_27-P" value="-18.8888"/>
+   <attrlink attr="scale.x" node="Ebene_27-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Ebene_27-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Ebene_27-P" timedvalue="PIVOT-TV-Ebene_27-P"/>
+   <attrlink attr="opacity" node="Ebene_27" value="1"/>
+   <attrlink attr="rotation.anglez" node="Peg_3" timedvalue="ATV-0A57D2059FE57C98"/>
+   <attrlink attr="offset" node="Peg_3" timedvalue="ATV-0A57D2059FE57C96"/>
+   <attrlink attr="velocity" node="Peg_3" timedvalue="ATV-0A57D2059FE57C96_velocity"/>
+   <attrlink attr="scale.x" node="Peg_3" timedvalue="ATV-0A57D2059FE57C99"/>
+   <attrlink attr="scale.y" node="Peg_3" timedvalue="ATV-0A57D2059FE57C9A"/>
+   <attrlink attr="skew" node="Peg_3" timedvalue="ATV-0A57D2059FE57C9B"/>
+   <attrlink attr="pivot" node="Peg_3" timedvalue="PIVOT-TV-Peg_3"/>
+   <attrlink attr="position.x" node="pupille-P" value="3.6823999999999999"/>
+   <attrlink attr="position.y" node="pupille-P" value="-19.0137"/>
+   <attrlink attr="scale.x" node="pupille-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="pupille-P" value="0.2729"/>
+   <attrlink attr="pivot" node="pupille-P" timedvalue="PIVOT-TV-pupille-P"/>
+   <attrlink attr="opacity" node="pupille" value="1"/>
+   <attrlink attr="position.x" node="auge_r-P" value="3.8073333333333332"/>
+   <attrlink attr="position.y" node="auge_r-P" value="-18.639099999999999"/>
+   <attrlink attr="scale.x" node="auge_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_r-P" timedvalue="PIVOT-TV-auge_r-P"/>
+   <attrlink attr="opacity" node="auge_r" value="1"/>
+   <attrlink attr="position.x" node="auge_geschlossen_l-P" value="3.1829333333333332"/>
+   <attrlink attr="position.y" node="auge_geschlossen_l-P" value="-18.8264"/>
+   <attrlink attr="scale.x" node="auge_geschlossen_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_geschlossen_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_geschlossen_l-P" timedvalue="PIVOT-TV-auge_geschlossen_l-P"/>
+   <attrlink attr="opacity" node="auge_geschlossen_l" value="1"/>
+   <attrlink attr="position.x" node="Ebene_26-P" value="0.99773333333333325"/>
+   <attrlink attr="position.y" node="Ebene_26-P" value="-18.9513"/>
+   <attrlink attr="scale.x" node="Ebene_26-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Ebene_26-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Ebene_26-P" timedvalue="PIVOT-TV-Ebene_26-P"/>
+   <attrlink attr="opacity" node="Ebene_26" value="1"/>
+   <attrlink attr="pivot" node="Peg_3" timedvalue="PIVOT-TV-Peg_3"/>
+   <attrlink attr="position.x" node="pupille_2-P" value="0.99773333333333325"/>
+   <attrlink attr="position.y" node="pupille_2-P" value="-19.0761"/>
+   <attrlink attr="scale.x" node="pupille_2-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="pupille_2-P" value="0.2729"/>
+   <attrlink attr="pivot" node="pupille_2-P" timedvalue="PIVOT-TV-pupille_2-P"/>
+   <attrlink attr="opacity" node="pupille_2" value="1"/>
+   <attrlink attr="position.x" node="auge_l-P" value="1.0601333333333334"/>
+   <attrlink attr="position.y" node="auge_l-P" value="-18.8264"/>
+   <attrlink attr="scale.x" node="auge_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_l-P" timedvalue="PIVOT-TV-auge_l-P"/>
+   <attrlink attr="opacity" node="auge_l" value="1"/>
+   <attrlink attr="position.x" node="Bild_eingef_gt-P" value="1.3098666666666667"/>
+   <attrlink attr="position.y" node="Bild_eingef_gt-P" value="-15.0802"/>
+   <attrlink attr="scale.x" node="Bild_eingef_gt-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Bild_eingef_gt-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Bild_eingef_gt-P" timedvalue="PIVOT-TV-Bild_eingef_gt-P"/>
+   <attrlink attr="opacity" node="Bild_eingef_gt" value="1"/>
+   <attrlink attr="position.x" node="Ebene_9-P" value="3.2453333333333334"/>
+   <attrlink attr="position.y" node="Ebene_9-P" value="-16.1416"/>
+   <attrlink attr="scale.x" node="Ebene_9-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Ebene_9-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Ebene_9-P" timedvalue="PIVOT-TV-Ebene_9-P"/>
+   <attrlink attr="opacity" node="Ebene_9" value="1"/>
+   <attrlink attr="position.x" node="nase-P" value="3.3078666666666665"/>
+   <attrlink attr="position.y" node="nase-P" value="-17.140599999999999"/>
+   <attrlink attr="scale.x" node="nase-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="nase-P" value="0.2729"/>
+   <attrlink attr="pivot" node="nase-P" timedvalue="PIVOT-TV-nase-P"/>
+   <attrlink attr="opacity" node="nase" value="1"/>
+   <attrlink attr="position.x" node="kopf-P" value="0.93520000000000003"/>
+   <attrlink attr="position.y" node="kopf-P" value="-18.202000000000002"/>
+   <attrlink attr="scale.x" node="kopf-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="kopf-P" value="0.2729"/>
+   <attrlink attr="pivot" node="kopf-P" timedvalue="PIVOT-TV-kopf-P"/>
+   <attrlink attr="opacity" node="kopf" value="1"/>
+   <attrlink attr="rotation.anglez" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A066"/>
+   <attrlink attr="offset" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A064"/>
+   <attrlink attr="velocity" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A064_velocity"/>
+   <attrlink attr="scale.x" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A067"/>
+   <attrlink attr="scale.y" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A068"/>
+   <attrlink attr="skew" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A069"/>
+   <attrlink attr="pivot" node="ohr_r-P" timedvalue="PIVOT-TV-ohr_r-P"/>
+   <attrlink attr="rotation.anglez" node="ohr_r" timedvalue="ATV-0A57D2059FE0A4B6"/>
+   <attrlink attr="opacity" node="ohr_r" value="1"/>
+   <attrlink attr="position.x" node="hals-P" value="0.81040000000000001"/>
+   <attrlink attr="position.y" node="hals-P" value="-12.645200000000001"/>
+   <attrlink attr="scale.x" node="hals-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="hals-P" value="0.2729"/>
+   <attrlink attr="pivot" node="hals-P" timedvalue="PIVOT-TV-hals-P"/>
+   <attrlink attr="opacity" node="hals" value="1"/>
+   <attrlink attr="rotation.anglez" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B85F"/>
+   <attrlink attr="offset" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B85D"/>
+   <attrlink attr="velocity" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B85D_velocity"/>
+   <attrlink attr="scale.x" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B860"/>
+   <attrlink attr="scale.y" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B861"/>
+   <attrlink attr="skew" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B862"/>
+   <attrlink attr="pivot" node="arm_l-P" timedvalue="PIVOT-TV-arm_l-P"/>
+   <attrlink attr="deform.offset.x" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-OFFSET-X-Deformation-arm_l_GameBone"/>
+   <attrlink attr="deform.offset.y" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone"/>
+   <attrlink attr="deform.length" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-LENGTH-Deformation-arm_l_GameBone"/>
+   <attrlink attr="deform.rotation.z" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-ROTATION-Deformation-arm_l_GameBone"/>
+   <attrlink attr="rest.offset.x" node="Deformation-arm_l_GameBone" value="5.6407999999999996"/>
+   <attrlink attr="rest.offset.y" node="Deformation-arm_l_GameBone" value="18.156400000000001"/>
+   <attrlink attr="rest.length" node="Deformation-arm_l_GameBone" value="10.417475140149321"/>
+   <attrlink attr="rest.rotation.z" node="Deformation-arm_l_GameBone" value="-1.4494427129937795"/>
+   <attrlink attr="deform.offset.x" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-OFFSET-X-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="deform.offset.y" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="deform.length" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-LENGTH-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="deform.rotation.z" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-ROTATION-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="rest.offset.x" node="Deformation-arm_l_GameBone_1" value="1.311836935021063"/>
+   <attrlink attr="rest.offset.y" node="Deformation-arm_l_GameBone_1" value="-0.16792786926523107"/>
+   <attrlink attr="rest.length" node="Deformation-arm_l_GameBone_1" value="9.0264449925229773"/>
+   <attrlink attr="rest.rotation.z" node="Deformation-arm_l_GameBone_1" value="-0.25463538344628533"/>
+   <attrlink attr="rotation.anglez" node="arm_l" timedvalue="ATV-0A57D2059FE0B86C"/>
+   <attrlink attr="offset.x" node="arm_l" timedvalue="ATV-0A57D2059FE0B869"/>
+   <attrlink attr="offset.y" node="arm_l" timedvalue="ATV-0A57D2059FE0B86A"/>
+   <attrlink attr="offset.z" node="arm_l" timedvalue="ATV-0A57D2059FE0B86B"/>
+   <attrlink attr="scale.x" node="arm_l" timedvalue="ATV-0A57D2059FE0B86D"/>
+   <attrlink attr="scale.y" node="arm_l" timedvalue="ATV-0A57D2059FE0B86E"/>
+   <attrlink attr="skew" node="arm_l" timedvalue="ATV-0A57D2059FE0B86F"/>
+   <attrlink attr="opacity" node="arm_l" value="1"/>
+   <attrlink attr="rotation.anglez" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B872"/>
+   <attrlink attr="offset" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B870"/>
+   <attrlink attr="velocity" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B870_velocity"/>
+   <attrlink attr="scale.x" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B873"/>
+   <attrlink attr="scale.y" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B874"/>
+   <attrlink attr="skew" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B875"/>
+   <attrlink attr="pivot" node="hand_l-P" timedvalue="PIVOT-TV-hand_l-P"/>
+   <attrlink attr="rotation.anglez" node="hand_l" timedvalue="ATV-0A57D2059FE0B879"/>
+   <attrlink attr="offset.x" node="hand_l" timedvalue="ATV-0A57D2059FE0B876"/>
+   <attrlink attr="offset.y" node="hand_l" timedvalue="ATV-0A57D2059FE0B877"/>
+   <attrlink attr="offset.z" node="hand_l" timedvalue="ATV-0A57D2059FE0B878"/>
+   <attrlink attr="scale.x" node="hand_l" timedvalue="ATV-0A57D2059FE0B87A"/>
+   <attrlink attr="scale.y" node="hand_l" timedvalue="ATV-0A57D2059FE0B87B"/>
+   <attrlink attr="skew" node="hand_l" timedvalue="ATV-0A57D2059FE0B87C"/>
+   <attrlink attr="opacity" node="hand_l" value="1"/>
+   <attrlink attr="rotation.anglez" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C0C9"/>
+   <attrlink attr="offset" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C0B6"/>
+   <attrlink attr="velocity" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C0B6_velocity"/>
+   <attrlink attr="scale.x" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C358"/>
+   <attrlink attr="scale.y" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C359"/>
+   <attrlink attr="skew" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C35A"/>
+   <attrlink attr="pivot" node="hand_l_1-P" timedvalue="PIVOT-TV-hand_l_1-P"/>
+   <attrlink attr="offset.x" node="hand_l_1" value="0.29293333333333332"/>
+   <attrlink attr="offset.y" node="hand_l_1" value="1.3623000000000001"/>
+   <attrlink attr="scale.x" node="hand_l_1" value="-0.9477"/>
+   <attrlink attr="scale.y" node="hand_l_1" value="0.9477"/>
+   <attrlink attr="opacity" node="hand_l_1" value="1"/>
+   <attrlink attr="position.x" node="brosche-P" value="-0.56319999999999992"/>
+   <attrlink attr="position.y" node="brosche-P" value="-8.9613999999999994"/>
+   <attrlink attr="scale.x" node="brosche-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="brosche-P" value="0.2729"/>
+   <attrlink attr="pivot" node="brosche-P" timedvalue="PIVOT-TV-brosche-P"/>
+   <attrlink attr="opacity" node="brosche" value="1"/>
+   <attrlink attr="position.x" node="oberk_rper-P" value="1.3098666666666667"/>
+   <attrlink attr="position.y" node="oberk_rper-P" value="1.2157"/>
+   <attrlink attr="scale.x" node="oberk_rper-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="oberk_rper-P" value="0.2729"/>
+   <attrlink attr="pivot" node="oberk_rper-P" timedvalue="PIVOT-TV-oberk_rper-P"/>
+   <attrlink attr="opacity" node="oberk_rper" value="1"/>
+   <attrlink attr="pivot" node="Peg_2" timedvalue="PIVOT-TV-Peg_2"/>
+   <attrlink attr="position.x" node="arm_r-P" value="4.9311999999999996"/>
+   <attrlink attr="position.y" node="arm_r-P" value="-10.7721"/>
+   <attrlink attr="scale.x" node="arm_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="arm_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="arm_r-P" timedvalue="PIVOT-TV-arm_r-P"/>
+   <attrlink attr="opacity" node="arm_r" value="1"/>
+   <attrlink attr="position.x" node="hand_r-P" value="5.1185333333333336"/>
+   <attrlink attr="position.y" node="hand_r-P" value="2.9015"/>
+   <attrlink attr="scale.x" node="hand_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="hand_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="hand_r-P" timedvalue="PIVOT-TV-hand_r-P"/>
+   <attrlink attr="opacity" node="hand_r" value="1"/>
+   <attrlink attr="position.x" node="bein_l-P" value="-1.0626666666666666"/>
+   <attrlink attr="position.y" node="bein_l-P" value="3.9005000000000001"/>
+   <attrlink attr="scale.x" node="bein_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="bein_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="bein_l-P" timedvalue="PIVOT-TV-bein_l-P"/>
+   <attrlink attr="opacity" node="bein_l" value="1"/>
+   <attrlink attr="position.x" node="schuh_r-P" value="-2.1553333333333331"/>
+   <attrlink attr="position.y" node="schuh_r-P" value="23.708400000000001"/>
+   <attrlink attr="scale.x" node="schuh_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="schuh_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="schuh_r-P" timedvalue="PIVOT-TV-schuh_r-P"/>
+   <attrlink attr="opacity" node="schuh_r" value="1"/>
+   <attrlink attr="rotation.anglez" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960B"/>
+   <attrlink attr="offset" node="schwanz-P" timedvalue="ATV-0A57D2059FE09609"/>
+   <attrlink attr="velocity" node="schwanz-P" timedvalue="ATV-0A57D2059FE09609_velocity"/>
+   <attrlink attr="scale.x" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960C"/>
+   <attrlink attr="scale.y" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960D"/>
+   <attrlink attr="skew" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960E"/>
+   <attrlink attr="pivot" node="schwanz-P" timedvalue="PIVOT-TV-schwanz-P"/>
+   <attrlink attr="rotation.anglez" node="schwanz" timedvalue="ATV-0A57D2059FE09612"/>
+   <attrlink attr="offset.x" node="schwanz" timedvalue="ATV-0A57D2059FE0960F"/>
+   <attrlink attr="offset.y" node="schwanz" timedvalue="ATV-0A57D2059FE09610"/>
+   <attrlink attr="offset.z" node="schwanz" timedvalue="ATV-0A57D2059FE09611"/>
+   <attrlink attr="scale.x" node="schwanz" timedvalue="ATV-0A57D2059FE09613"/>
+   <attrlink attr="scale.y" node="schwanz" timedvalue="ATV-0A57D2059FE09614"/>
+   <attrlink attr="skew" node="schwanz" timedvalue="ATV-0A57D2059FE09615"/>
+   <attrlink attr="opacity" node="schwanz" value="1"/>
+   <attrlink attr="position.x" node="bein_r-P" value="3.5419999999999998"/>
+   <attrlink attr="position.y" node="bein_r-P" value="4.6653000000000002"/>
+   <attrlink attr="scale.x" node="bein_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="bein_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="bein_r-P" timedvalue="PIVOT-TV-bein_r-P"/>
+   <attrlink attr="opacity" node="bein_r" value="1"/>
+   <attrlink attr="position.x" node="schuh_l-P" value="2.4493333333333331"/>
+   <attrlink attr="position.y" node="schuh_l-P" value="22.771899999999999"/>
+   <attrlink attr="scale.x" node="schuh_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="schuh_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="schuh_l-P" timedvalue="PIVOT-TV-schuh_l-P"/>
+   <attrlink attr="opacity" node="schuh_l" value="1"/>
+  </attrlinks>
+  <timedvalues>
+   <bezier name="ATV-0A57D2059FE08B26">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE08B24" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE08B24_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0.99999999999999989" lx="80" constSeg="false" ly="0.99999999999999989" ry="0.99999999999999989" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08B27">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08B28">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08B29">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C1F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0" lx="20" constSeg="false" ly="0" ry="0" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="0" lx="60" constSeg="false" ly="0" ry="0" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE08C1D" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="20" x="0" y="0.070312331209522405" z="0"/>
+    <pt lockedInTime="40" x="0" y="0" z="0"/>
+    <pt lockedInTime="60" x="0" y="-0.093749774946016551" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE08C1D_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0.21428571428573157" lx="20" constSeg="false" ly="0.21428571428573157" ry="0.21428571428573157" rx="20"/>
+    <pt x="40" y="0.42857142857146319" lx="40" constSeg="false" ly="0.42857142857146319" ry="0.42857142857146319" rx="40"/>
+    <pt x="60" y="0.71428571428573173" lx="60" constSeg="false" ly="0.71428571428573173" ry="0.71428571428573173" rx="60"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C20">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="20" y="1" lx="20" constSeg="false" ly="1" ry="1" rx="20"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C21">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="20" y="1" lx="20" constSeg="false" ly="1" ry="1" rx="20"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C22">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0" lx="20" constSeg="false" ly="0" ry="0" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="0" lx="60" constSeg="false" ly="0" ry="0" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09065">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="-0.010293761801508119" lx="20" constSeg="false" ly="-0.010293761801508119" ry="-0.010293761801508119" rx="20"/>
+    <pt x="40" y="-0.00054177693695280809" lx="40" constSeg="false" ly="-0.00054177693695280809" ry="-0.00054177693695280809" rx="40"/>
+    <pt x="60" y="0.014022023844010113" lx="60" constSeg="false" ly="0.014022023844010113" ry="0.014022023844010113" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE09063" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="40" x="0" y="0" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE09063_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0.49367088607594922" lx="40" constSeg="false" ly="0.49367088607594922" ry="0.49367088607594922" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09066">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09067">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09068">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-Peg_5">
+    <pt x="0.18749954989204548" y="6.328109808856567" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE09386">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0.017453277777777776" lx="20" constSeg="false" ly="0.017453277777777776" ry="0.017453277777777776" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="-0.017453277777777776" lx="60" constSeg="false" ly="-0.017453277777777776" ry="-0.017453277777777776" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE09384" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="40" x="0" y="0" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE09384_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0.49367088607594922" lx="40" constSeg="false" ly="0.49367088607594922" ry="0.49367088607594922" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09387">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09388">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09389">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-Peg_4">
+    <pt x="0.084960733544830649" y="8.8124788449261846" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0A29C">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0A29A" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-0.91410662642691431" y="-21.401899226250297" z="0"/>
+    <pt lockedInTime="80" x="-0.91410662642691431" y="-21.401899226250297" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0A29A_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0.99999999999999989" lx="80" constSeg="false" ly="0.99999999999999989" ry="0.99999999999999989" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A29D">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A29E">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A29F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-ohr_l-P">
+    <pt x="1.9321627696754904" y="31.021946690900918" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_geschlossen_r-P">
+    <pt x="-5.1524341292452238" y="27.737270395770114" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Ebene_27-P">
+    <pt x="-5.1524341292452167" y="27.565522591461949" z="0" start="1"/>
+   </pivot>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE57C96" scaleX="1.3333333333333333"/>
+   <pivot name="PIVOT-TV-Peg_3">
+    <pt x="-0.70684354125970028" y="8.6309316616973781" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-pupille-P">
+    <pt x="-4.8089385206288675" y="27.737270395770079" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_r-P">
+    <pt x="-4.9806863249370386" y="27.222026982845563" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_geschlossen_l-P">
+    <pt x="-4.1219473033961735" y="27.47964868930783" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Ebene_26-P">
+    <pt x="-1.1163607280031249" y="27.651396493616019" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Peg_3">
+    <pt x="-0.70684354125970028" y="8.6309316616973781" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-pupille_2-P">
+    <pt x="-1.1163607280031251" y="27.823144297924195" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_l-P">
+    <pt x="-1.2022346301572189" y="27.479648689307862" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Bild_eingef_gt-P">
+    <pt x="-1.5457302387735674" y="22.327214560062586" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Ebene_9-P">
+    <pt x="-4.2078212055502631" y="23.78707089668212" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-nase-P">
+    <pt x="-4.2936951077043481" y="25.161053331147485" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-kopf-P">
+    <pt x="-1.0304868258490483" y="26.620909667766984" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0A066">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="-0.032605663083408572" lx="20" constSeg="false" ly="-0.032605663083408572" ry="-0.032605663083408572" rx="20"/>
+    <pt x="51" y="0.053202815897144616" lx="51" constSeg="false" ly="0.053202815897144616" ry="0.053202815897144616" rx="51"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0A064" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="2.6213578157685293" y="-21.448726906161721" z="0"/>
+    <pt lockedInTime="80" x="2.6213578157685293" y="-21.448726906161721" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0A064_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0.99999999999999989" lx="80" constSeg="false" ly="0.99999999999999989" ry="0.99999999999999989" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A067">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A068">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A069">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-ohr_r-P">
+    <pt x="-4.5513168141666078" y="31.086352579779501" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0A4B6">
+    <pt x="1" y="-0.00085089139044705012" lx="1" constSeg="false" ly="-0.00085089139044705012" ry="-0.00085089139044705012" rx="1"/>
+    <pt x="51" y="-0.00085089139044705012" lx="51" constSeg="false" ly="-0.00085089139044705012" ry="-0.00085089139044705012" rx="51"/>
+    <pt x="80" y="-0.00085089139044705012" lx="80" constSeg="false" ly="-0.00085089139044705012" ry="-0.00085089139044705012" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-hals-P">
+    <pt x="-0.85873902154086645" y="18.978132376053217" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0B85F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0B85D" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-3.0447507856269631" y="-11.646202934601462" z="0"/>
+    <pt lockedInTime="80" x="-3.0447507856269631" y="-11.646202934601462" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0B85D_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0.99999999999999989" lx="80" constSeg="false" ly="0.99999999999999989" ry="0.99999999999999989" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B860">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B861">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B862">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-arm_l-P">
+    <pt x="5.8394253464779178" y="17.604149941587831" z="0" start="1"/>
+   </pivot>
+   <linear name="DEFORM-OFFSET-X-Deformation-arm_l_GameBone">
+    <pt x="1" y="5.6407999999999996"/>
+    <pt x="2" y="5.6407999999999996"/>
+    <pt x="3" y="5.6407999999999996"/>
+    <pt x="4" y="5.6407999999999996"/>
+    <pt x="5" y="5.6407999999999996"/>
+    <pt x="6" y="5.6407999999999996"/>
+    <pt x="7" y="5.6407999999999996"/>
+    <pt x="8" y="5.6407999999999996"/>
+    <pt x="9" y="5.6407999999999996"/>
+    <pt x="10" y="5.6407999999999996"/>
+    <pt x="11" y="5.6407999999999996"/>
+    <pt x="12" y="5.6407999999999996"/>
+    <pt x="13" y="5.6407999999999996"/>
+    <pt x="14" y="5.6407999999999996"/>
+    <pt x="15" y="5.6407999999999996"/>
+    <pt x="16" y="5.6407999999999996"/>
+    <pt x="17" y="5.6407999999999996"/>
+    <pt x="18" y="5.6407999999999996"/>
+    <pt x="19" y="5.6407999999999996"/>
+    <pt x="20" y="5.6407999999999996"/>
+    <pt x="21" y="5.6407999999999996"/>
+    <pt x="22" y="5.6407999999999996"/>
+    <pt x="23" y="5.6407999999999996"/>
+    <pt x="24" y="5.6407999999999996"/>
+    <pt x="25" y="5.6407999999999996"/>
+    <pt x="26" y="5.6407999999999996"/>
+    <pt x="27" y="5.6407999999999996"/>
+    <pt x="28" y="5.6407999999999996"/>
+    <pt x="29" y="5.6407999999999996"/>
+    <pt x="30" y="5.6407999999999996"/>
+    <pt x="31" y="5.6407999999999996"/>
+    <pt x="32" y="5.6407999999999996"/>
+    <pt x="33" y="5.6407999999999996"/>
+    <pt x="34" y="5.6407999999999996"/>
+    <pt x="35" y="5.6407999999999996"/>
+    <pt x="36" y="5.6407999999999996"/>
+    <pt x="37" y="5.6407999999999996"/>
+    <pt x="38" y="5.6407999999999996"/>
+    <pt x="39" y="5.6407999999999996"/>
+    <pt x="40" y="5.6407999999999996"/>
+    <pt x="41" y="5.6407999999999996"/>
+    <pt x="42" y="5.6407999999999996"/>
+    <pt x="43" y="5.6407999999999996"/>
+    <pt x="44" y="5.6407999999999996"/>
+    <pt x="45" y="5.6407999999999996"/>
+    <pt x="46" y="5.6407999999999996"/>
+    <pt x="47" y="5.6407999999999996"/>
+    <pt x="48" y="5.6407999999999996"/>
+    <pt x="49" y="5.6407999999999996"/>
+    <pt x="50" y="5.6407999999999996"/>
+    <pt x="51" y="5.6407999999999996"/>
+    <pt x="52" y="5.6407999999999996"/>
+    <pt x="53" y="5.6407999999999996"/>
+    <pt x="54" y="5.6407999999999996"/>
+    <pt x="55" y="5.6407999999999996"/>
+    <pt x="56" y="5.6407999999999996"/>
+    <pt x="57" y="5.6407999999999996"/>
+    <pt x="58" y="5.6407999999999996"/>
+    <pt x="59" y="5.6407999999999996"/>
+    <pt x="60" y="5.6407999999999996"/>
+    <pt x="61" y="5.6407999999999996"/>
+    <pt x="62" y="5.6407999999999996"/>
+    <pt x="63" y="5.6407999999999996"/>
+    <pt x="64" y="5.6407999999999996"/>
+    <pt x="65" y="5.6407999999999996"/>
+    <pt x="66" y="5.6407999999999996"/>
+    <pt x="67" y="5.6407999999999996"/>
+    <pt x="68" y="5.6407999999999996"/>
+    <pt x="69" y="5.6407999999999996"/>
+    <pt x="70" y="5.6407999999999996"/>
+    <pt x="71" y="5.6407999999999996"/>
+    <pt x="72" y="5.6407999999999996"/>
+    <pt x="73" y="5.6407999999999996"/>
+    <pt x="74" y="5.6407999999999996"/>
+    <pt x="75" y="5.6407999999999996"/>
+    <pt x="76" y="5.6407999999999996"/>
+    <pt x="77" y="5.6407999999999996"/>
+    <pt x="78" y="5.6407999999999996"/>
+    <pt x="79" y="5.6407999999999996"/>
+    <pt x="80" y="5.6407999999999996"/>
+   </linear>
+   <linear name="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone">
+    <pt x="1" y="18.156400000000001"/>
+    <pt x="2" y="18.156400000000001"/>
+    <pt x="3" y="18.156400000000001"/>
+    <pt x="4" y="18.156400000000001"/>
+    <pt x="5" y="18.156400000000001"/>
+    <pt x="6" y="18.156400000000001"/>
+    <pt x="7" y="18.156400000000001"/>
+    <pt x="8" y="18.156400000000001"/>
+    <pt x="9" y="18.156400000000001"/>
+    <pt x="10" y="18.156400000000001"/>
+    <pt x="11" y="18.156400000000001"/>
+    <pt x="12" y="18.156400000000001"/>
+    <pt x="13" y="18.156400000000001"/>
+    <pt x="14" y="18.156400000000001"/>
+    <pt x="15" y="18.156400000000001"/>
+    <pt x="16" y="18.156400000000001"/>
+    <pt x="17" y="18.156400000000001"/>
+    <pt x="18" y="18.156400000000001"/>
+    <pt x="19" y="18.156400000000001"/>
+    <pt x="20" y="18.156400000000001"/>
+    <pt x="21" y="18.156400000000001"/>
+    <pt x="22" y="18.156400000000001"/>
+    <pt x="23" y="18.156400000000001"/>
+    <pt x="24" y="18.156400000000001"/>
+    <pt x="25" y="18.156400000000001"/>
+    <pt x="26" y="18.156400000000001"/>
+    <pt x="27" y="18.156400000000001"/>
+    <pt x="28" y="18.156400000000001"/>
+    <pt x="29" y="18.156400000000001"/>
+    <pt x="30" y="18.156400000000001"/>
+    <pt x="31" y="18.156400000000001"/>
+    <pt x="32" y="18.156400000000001"/>
+    <pt x="33" y="18.156400000000001"/>
+    <pt x="34" y="18.156400000000001"/>
+    <pt x="35" y="18.156400000000001"/>
+    <pt x="36" y="18.156400000000001"/>
+    <pt x="37" y="18.156400000000001"/>
+    <pt x="38" y="18.156400000000001"/>
+    <pt x="39" y="18.156400000000001"/>
+    <pt x="40" y="18.156400000000001"/>
+    <pt x="41" y="18.156400000000001"/>
+    <pt x="42" y="18.156400000000001"/>
+    <pt x="43" y="18.156400000000001"/>
+    <pt x="44" y="18.156400000000001"/>
+    <pt x="45" y="18.156400000000001"/>
+    <pt x="46" y="18.156400000000001"/>
+    <pt x="47" y="18.156400000000001"/>
+    <pt x="48" y="18.156400000000001"/>
+    <pt x="49" y="18.156400000000001"/>
+    <pt x="50" y="18.156400000000001"/>
+    <pt x="51" y="18.156400000000001"/>
+    <pt x="52" y="18.156400000000001"/>
+    <pt x="53" y="18.156400000000001"/>
+    <pt x="54" y="18.156400000000001"/>
+    <pt x="55" y="18.156400000000001"/>
+    <pt x="56" y="18.156400000000001"/>
+    <pt x="57" y="18.156400000000001"/>
+    <pt x="58" y="18.156400000000001"/>
+    <pt x="59" y="18.156400000000001"/>
+    <pt x="60" y="18.156400000000001"/>
+    <pt x="61" y="18.156400000000001"/>
+    <pt x="62" y="18.156400000000001"/>
+    <pt x="63" y="18.156400000000001"/>
+    <pt x="64" y="18.156400000000001"/>
+    <pt x="65" y="18.156400000000001"/>
+    <pt x="66" y="18.156400000000001"/>
+    <pt x="67" y="18.156400000000001"/>
+    <pt x="68" y="18.156400000000001"/>
+    <pt x="69" y="18.156400000000001"/>
+    <pt x="70" y="18.156400000000001"/>
+    <pt x="71" y="18.156400000000001"/>
+    <pt x="72" y="18.156400000000001"/>
+    <pt x="73" y="18.156400000000001"/>
+    <pt x="74" y="18.156400000000001"/>
+    <pt x="75" y="18.156400000000001"/>
+    <pt x="76" y="18.156400000000001"/>
+    <pt x="77" y="18.156400000000001"/>
+    <pt x="78" y="18.156400000000001"/>
+    <pt x="79" y="18.156400000000001"/>
+    <pt x="80" y="18.156400000000001"/>
+   </linear>
+   <linear name="DEFORM-LENGTH-Deformation-arm_l_GameBone">
+    <pt x="1" y="10.417475140149321"/>
+    <pt x="2" y="10.417475140149321"/>
+    <pt x="3" y="10.417475140149321"/>
+    <pt x="4" y="10.417475140149321"/>
+    <pt x="5" y="10.417475140149321"/>
+    <pt x="6" y="10.417475140149321"/>
+    <pt x="7" y="10.417475140149321"/>
+    <pt x="8" y="10.417475140149321"/>
+    <pt x="9" y="10.417475140149321"/>
+    <pt x="10" y="10.417475140149321"/>
+    <pt x="11" y="10.417475140149321"/>
+    <pt x="12" y="10.417475140149321"/>
+    <pt x="13" y="10.417475140149321"/>
+    <pt x="14" y="10.417475140149321"/>
+    <pt x="15" y="10.417475140149321"/>
+    <pt x="16" y="10.417475140149321"/>
+    <pt x="17" y="10.417475140149321"/>
+    <pt x="18" y="10.417475140149321"/>
+    <pt x="19" y="10.417475140149321"/>
+    <pt x="20" y="10.417475140149321"/>
+    <pt x="21" y="10.417475140149321"/>
+    <pt x="22" y="10.417475140149321"/>
+    <pt x="23" y="10.417475140149321"/>
+    <pt x="24" y="10.417475140149321"/>
+    <pt x="25" y="10.417475140149321"/>
+    <pt x="26" y="10.417475140149321"/>
+    <pt x="27" y="10.417475140149321"/>
+    <pt x="28" y="10.417475140149321"/>
+    <pt x="29" y="10.417475140149321"/>
+    <pt x="30" y="10.417475140149321"/>
+    <pt x="31" y="10.417475140149321"/>
+    <pt x="32" y="10.417475140149321"/>
+    <pt x="33" y="10.417475140149321"/>
+    <pt x="34" y="10.417475140149321"/>
+    <pt x="35" y="10.417475140149321"/>
+    <pt x="36" y="10.417475140149321"/>
+    <pt x="37" y="10.417475140149321"/>
+    <pt x="38" y="10.417475140149321"/>
+    <pt x="39" y="10.417475140149321"/>
+    <pt x="40" y="10.417475140149321"/>
+    <pt x="41" y="10.417475140149321"/>
+    <pt x="42" y="10.417475140149321"/>
+    <pt x="43" y="10.417475140149321"/>
+    <pt x="44" y="10.417475140149321"/>
+    <pt x="45" y="10.417475140149321"/>
+    <pt x="46" y="10.417475140149321"/>
+    <pt x="47" y="10.417475140149321"/>
+    <pt x="48" y="10.417475140149321"/>
+    <pt x="49" y="10.417475140149321"/>
+    <pt x="50" y="10.417475140149321"/>
+    <pt x="51" y="10.417475140149321"/>
+    <pt x="52" y="10.417475140149321"/>
+    <pt x="53" y="10.417475140149321"/>
+    <pt x="54" y="10.417475140149321"/>
+    <pt x="55" y="10.417475140149321"/>
+    <pt x="56" y="10.417475140149321"/>
+    <pt x="57" y="10.417475140149321"/>
+    <pt x="58" y="10.417475140149321"/>
+    <pt x="59" y="10.417475140149321"/>
+    <pt x="60" y="10.417475140149321"/>
+    <pt x="61" y="10.417475140149321"/>
+    <pt x="62" y="10.417475140149321"/>
+    <pt x="63" y="10.417475140149321"/>
+    <pt x="64" y="10.417475140149321"/>
+    <pt x="65" y="10.417475140149321"/>
+    <pt x="66" y="10.417475140149321"/>
+    <pt x="67" y="10.417475140149321"/>
+    <pt x="68" y="10.417475140149321"/>
+    <pt x="69" y="10.417475140149321"/>
+    <pt x="70" y="10.417475140149321"/>
+    <pt x="71" y="10.417475140149321"/>
+    <pt x="72" y="10.417475140149321"/>
+    <pt x="73" y="10.417475140149321"/>
+    <pt x="74" y="10.417475140149321"/>
+    <pt x="75" y="10.417475140149321"/>
+    <pt x="76" y="10.417475140149321"/>
+    <pt x="77" y="10.417475140149321"/>
+    <pt x="78" y="10.417475140149321"/>
+    <pt x="79" y="10.417475140149321"/>
+    <pt x="80" y="10.417475140149321"/>
+   </linear>
+   <linear name="DEFORM-ROTATION-Deformation-arm_l_GameBone">
+    <pt x="1" y="-1.4494427129937795"/>
+    <pt x="2" y="-1.4494427129937795"/>
+    <pt x="3" y="-1.4494427129937795"/>
+    <pt x="4" y="-1.4494427129937795"/>
+    <pt x="5" y="-1.4494427129937795"/>
+    <pt x="6" y="-1.4494427129937795"/>
+    <pt x="7" y="-1.4494427129937795"/>
+    <pt x="8" y="-1.4494427129937795"/>
+    <pt x="9" y="-1.4494427129937795"/>
+    <pt x="10" y="-1.4494427129937795"/>
+    <pt x="11" y="-1.4494427129937795"/>
+    <pt x="12" y="-1.4494427129937795"/>
+    <pt x="13" y="-1.4494427129937795"/>
+    <pt x="14" y="-1.4494427129937795"/>
+    <pt x="15" y="-1.4494427129937795"/>
+    <pt x="16" y="-1.4494427129937795"/>
+    <pt x="17" y="-1.4494427129937795"/>
+    <pt x="18" y="-1.4494427129937795"/>
+    <pt x="19" y="-1.4494427129937795"/>
+    <pt x="20" y="-1.4494427129937795"/>
+    <pt x="21" y="-1.4494427129937795"/>
+    <pt x="22" y="-1.4494427129937795"/>
+    <pt x="23" y="-1.4494427129937795"/>
+    <pt x="24" y="-1.4494427129937795"/>
+    <pt x="25" y="-1.4494427129937795"/>
+    <pt x="26" y="-1.4494427129937795"/>
+    <pt x="27" y="-1.4494427129937795"/>
+    <pt x="28" y="-1.4494427129937795"/>
+    <pt x="29" y="-1.4494427129937795"/>
+    <pt x="30" y="-1.4494427129937795"/>
+    <pt x="31" y="-1.4494427129937795"/>
+    <pt x="32" y="-1.4494427129937795"/>
+    <pt x="33" y="-1.4494427129937795"/>
+    <pt x="34" y="-1.4494427129937795"/>
+    <pt x="35" y="-1.4494427129937795"/>
+    <pt x="36" y="-1.4494427129937795"/>
+    <pt x="37" y="-1.4494427129937795"/>
+    <pt x="38" y="-1.4494427129937795"/>
+    <pt x="39" y="-1.4494427129937795"/>
+    <pt x="40" y="-1.4494427129937795"/>
+    <pt x="41" y="-1.4494427129937795"/>
+    <pt x="42" y="-1.4494427129937795"/>
+    <pt x="43" y="-1.4494427129937795"/>
+    <pt x="44" y="-1.4494427129937795"/>
+    <pt x="45" y="-1.4494427129937795"/>
+    <pt x="46" y="-1.4494427129937795"/>
+    <pt x="47" y="-1.4494427129937795"/>
+    <pt x="48" y="-1.4494427129937795"/>
+    <pt x="49" y="-1.4494427129937795"/>
+    <pt x="50" y="-1.4494427129937795"/>
+    <pt x="51" y="-1.4494427129937795"/>
+    <pt x="52" y="-1.4494427129937795"/>
+    <pt x="53" y="-1.4494427129937795"/>
+    <pt x="54" y="-1.4494427129937795"/>
+    <pt x="55" y="-1.4494427129937795"/>
+    <pt x="56" y="-1.4494427129937795"/>
+    <pt x="57" y="-1.4494427129937795"/>
+    <pt x="58" y="-1.4494427129937795"/>
+    <pt x="59" y="-1.4494427129937795"/>
+    <pt x="60" y="-1.4494427129937795"/>
+    <pt x="61" y="-1.4494427129937795"/>
+    <pt x="62" y="-1.4494427129937795"/>
+    <pt x="63" y="-1.4494427129937795"/>
+    <pt x="64" y="-1.4494427129937795"/>
+    <pt x="65" y="-1.4494427129937795"/>
+    <pt x="66" y="-1.4494427129937795"/>
+    <pt x="67" y="-1.4494427129937795"/>
+    <pt x="68" y="-1.4494427129937795"/>
+    <pt x="69" y="-1.4494427129937795"/>
+    <pt x="70" y="-1.4494427129937795"/>
+    <pt x="71" y="-1.4494427129937795"/>
+    <pt x="72" y="-1.4494427129937795"/>
+    <pt x="73" y="-1.4494427129937795"/>
+    <pt x="74" y="-1.4494427129937795"/>
+    <pt x="75" y="-1.4494427129937795"/>
+    <pt x="76" y="-1.4494427129937795"/>
+    <pt x="77" y="-1.4494427129937795"/>
+    <pt x="78" y="-1.4494427129937795"/>
+    <pt x="79" y="-1.4494427129937795"/>
+    <pt x="80" y="-1.4494427129937795"/>
+   </linear>
+   <linear name="DEFORM-OFFSET-X-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="1.311836935021063"/>
+    <pt x="2" y="1.311836935021063"/>
+    <pt x="3" y="1.311836935021063"/>
+    <pt x="4" y="1.311836935021063"/>
+    <pt x="5" y="1.311836935021063"/>
+    <pt x="6" y="1.311836935021063"/>
+    <pt x="7" y="1.311836935021063"/>
+    <pt x="8" y="1.311836935021063"/>
+    <pt x="9" y="1.311836935021063"/>
+    <pt x="10" y="1.311836935021063"/>
+    <pt x="11" y="1.311836935021063"/>
+    <pt x="12" y="1.311836935021063"/>
+    <pt x="13" y="1.311836935021063"/>
+    <pt x="14" y="1.311836935021063"/>
+    <pt x="15" y="1.311836935021063"/>
+    <pt x="16" y="1.311836935021063"/>
+    <pt x="17" y="1.311836935021063"/>
+    <pt x="18" y="1.311836935021063"/>
+    <pt x="19" y="1.311836935021063"/>
+    <pt x="20" y="1.311836935021063"/>
+    <pt x="21" y="1.311836935021063"/>
+    <pt x="22" y="1.311836935021063"/>
+    <pt x="23" y="1.311836935021063"/>
+    <pt x="24" y="1.311836935021063"/>
+    <pt x="25" y="1.311836935021063"/>
+    <pt x="26" y="1.311836935021063"/>
+    <pt x="27" y="1.311836935021063"/>
+    <pt x="28" y="1.311836935021063"/>
+    <pt x="29" y="1.311836935021063"/>
+    <pt x="30" y="1.311836935021063"/>
+    <pt x="31" y="1.311836935021063"/>
+    <pt x="32" y="1.311836935021063"/>
+    <pt x="33" y="1.311836935021063"/>
+    <pt x="34" y="1.311836935021063"/>
+    <pt x="35" y="1.311836935021063"/>
+    <pt x="36" y="1.311836935021063"/>
+    <pt x="37" y="1.311836935021063"/>
+    <pt x="38" y="1.311836935021063"/>
+    <pt x="39" y="1.311836935021063"/>
+    <pt x="40" y="1.311836935021063"/>
+    <pt x="41" y="1.311836935021063"/>
+    <pt x="42" y="1.311836935021063"/>
+    <pt x="43" y="1.311836935021063"/>
+    <pt x="44" y="1.311836935021063"/>
+    <pt x="45" y="1.311836935021063"/>
+    <pt x="46" y="1.311836935021063"/>
+    <pt x="47" y="1.311836935021063"/>
+    <pt x="48" y="1.311836935021063"/>
+    <pt x="49" y="1.311836935021063"/>
+    <pt x="50" y="1.311836935021063"/>
+    <pt x="51" y="1.311836935021063"/>
+    <pt x="52" y="1.311836935021063"/>
+    <pt x="53" y="1.311836935021063"/>
+    <pt x="54" y="1.311836935021063"/>
+    <pt x="55" y="1.311836935021063"/>
+    <pt x="56" y="1.311836935021063"/>
+    <pt x="57" y="1.311836935021063"/>
+    <pt x="58" y="1.311836935021063"/>
+    <pt x="59" y="1.311836935021063"/>
+    <pt x="60" y="1.311836935021063"/>
+    <pt x="61" y="1.311836935021063"/>
+    <pt x="62" y="1.311836935021063"/>
+    <pt x="63" y="1.311836935021063"/>
+    <pt x="64" y="1.311836935021063"/>
+    <pt x="65" y="1.311836935021063"/>
+    <pt x="66" y="1.311836935021063"/>
+    <pt x="67" y="1.311836935021063"/>
+    <pt x="68" y="1.311836935021063"/>
+    <pt x="69" y="1.311836935021063"/>
+    <pt x="70" y="1.311836935021063"/>
+    <pt x="71" y="1.311836935021063"/>
+    <pt x="72" y="1.311836935021063"/>
+    <pt x="73" y="1.311836935021063"/>
+    <pt x="74" y="1.311836935021063"/>
+    <pt x="75" y="1.311836935021063"/>
+    <pt x="76" y="1.311836935021063"/>
+    <pt x="77" y="1.311836935021063"/>
+    <pt x="78" y="1.311836935021063"/>
+    <pt x="79" y="1.311836935021063"/>
+    <pt x="80" y="1.311836935021063"/>
+   </linear>
+   <linear name="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="-0.16792786926523107"/>
+    <pt x="2" y="-0.16792786926523107"/>
+    <pt x="3" y="-0.16792786926523107"/>
+    <pt x="4" y="-0.16792786926523107"/>
+    <pt x="5" y="-0.16792786926523107"/>
+    <pt x="6" y="-0.16792786926523107"/>
+    <pt x="7" y="-0.16792786926523107"/>
+    <pt x="8" y="-0.16792786926523107"/>
+    <pt x="9" y="-0.16792786926523107"/>
+    <pt x="10" y="-0.16792786926523107"/>
+    <pt x="11" y="-0.16792786926523107"/>
+    <pt x="12" y="-0.16792786926523107"/>
+    <pt x="13" y="-0.16792786926523107"/>
+    <pt x="14" y="-0.16792786926523107"/>
+    <pt x="15" y="-0.16792786926523107"/>
+    <pt x="16" y="-0.16792786926523107"/>
+    <pt x="17" y="-0.16792786926523107"/>
+    <pt x="18" y="-0.16792786926523107"/>
+    <pt x="19" y="-0.16792786926523107"/>
+    <pt x="20" y="-0.16792786926523107"/>
+    <pt x="21" y="-0.16792786926523107"/>
+    <pt x="22" y="-0.16792786926523107"/>
+    <pt x="23" y="-0.16792786926523107"/>
+    <pt x="24" y="-0.16792786926523107"/>
+    <pt x="25" y="-0.16792786926523107"/>
+    <pt x="26" y="-0.16792786926523107"/>
+    <pt x="27" y="-0.16792786926523107"/>
+    <pt x="28" y="-0.16792786926523107"/>
+    <pt x="29" y="-0.16792786926523107"/>
+    <pt x="30" y="-0.16792786926523107"/>
+    <pt x="31" y="-0.16792786926523107"/>
+    <pt x="32" y="-0.16792786926523107"/>
+    <pt x="33" y="-0.16792786926523107"/>
+    <pt x="34" y="-0.16792786926523107"/>
+    <pt x="35" y="-0.16792786926523107"/>
+    <pt x="36" y="-0.16792786926523107"/>
+    <pt x="37" y="-0.16792786926523107"/>
+    <pt x="38" y="-0.16792786926523107"/>
+    <pt x="39" y="-0.16792786926523107"/>
+    <pt x="40" y="-0.16792786926523107"/>
+    <pt x="41" y="-0.16792786926523107"/>
+    <pt x="42" y="-0.16792786926523107"/>
+    <pt x="43" y="-0.16792786926523107"/>
+    <pt x="44" y="-0.16792786926523107"/>
+    <pt x="45" y="-0.16792786926523107"/>
+    <pt x="46" y="-0.16792786926523107"/>
+    <pt x="47" y="-0.16792786926523107"/>
+    <pt x="48" y="-0.16792786926523107"/>
+    <pt x="49" y="-0.16792786926523107"/>
+    <pt x="50" y="-0.16792786926523107"/>
+    <pt x="51" y="-0.16792786926523107"/>
+    <pt x="52" y="-0.16792786926523107"/>
+    <pt x="53" y="-0.16792786926523107"/>
+    <pt x="54" y="-0.16792786926523107"/>
+    <pt x="55" y="-0.16792786926523107"/>
+    <pt x="56" y="-0.16792786926523107"/>
+    <pt x="57" y="-0.16792786926523107"/>
+    <pt x="58" y="-0.16792786926523107"/>
+    <pt x="59" y="-0.16792786926523107"/>
+    <pt x="60" y="-0.16792786926523107"/>
+    <pt x="61" y="-0.16792786926523107"/>
+    <pt x="62" y="-0.16792786926523107"/>
+    <pt x="63" y="-0.16792786926523107"/>
+    <pt x="64" y="-0.16792786926523107"/>
+    <pt x="65" y="-0.16792786926523107"/>
+    <pt x="66" y="-0.16792786926523107"/>
+    <pt x="67" y="-0.16792786926523107"/>
+    <pt x="68" y="-0.16792786926523107"/>
+    <pt x="69" y="-0.16792786926523107"/>
+    <pt x="70" y="-0.16792786926523107"/>
+    <pt x="71" y="-0.16792786926523107"/>
+    <pt x="72" y="-0.16792786926523107"/>
+    <pt x="73" y="-0.16792786926523107"/>
+    <pt x="74" y="-0.16792786926523107"/>
+    <pt x="75" y="-0.16792786926523107"/>
+    <pt x="76" y="-0.16792786926523107"/>
+    <pt x="77" y="-0.16792786926523107"/>
+    <pt x="78" y="-0.16792786926523107"/>
+    <pt x="79" y="-0.16792786926523107"/>
+    <pt x="80" y="-0.16792786926523107"/>
+   </linear>
+   <linear name="DEFORM-LENGTH-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="9.0264449925229773"/>
+    <pt x="2" y="9.0264449925229773"/>
+    <pt x="3" y="9.0264449925229773"/>
+    <pt x="4" y="9.0264449925229773"/>
+    <pt x="5" y="9.0264449925229773"/>
+    <pt x="6" y="9.0264449925229773"/>
+    <pt x="7" y="9.0264449925229773"/>
+    <pt x="8" y="9.0264449925229773"/>
+    <pt x="9" y="9.0264449925229773"/>
+    <pt x="10" y="9.0264449925229773"/>
+    <pt x="11" y="9.0264449925229773"/>
+    <pt x="12" y="9.0264449925229773"/>
+    <pt x="13" y="9.0264449925229773"/>
+    <pt x="14" y="9.0264449925229773"/>
+    <pt x="15" y="9.0264449925229773"/>
+    <pt x="16" y="9.0264449925229773"/>
+    <pt x="17" y="9.0264449925229773"/>
+    <pt x="18" y="9.0264449925229773"/>
+    <pt x="19" y="9.0264449925229773"/>
+    <pt x="20" y="9.0264449925229773"/>
+    <pt x="21" y="9.0264449925229773"/>
+    <pt x="22" y="9.0264449925229773"/>
+    <pt x="23" y="9.0264449925229773"/>
+    <pt x="24" y="9.0264449925229773"/>
+    <pt x="25" y="9.0264449925229773"/>
+    <pt x="26" y="9.0264449925229773"/>
+    <pt x="27" y="9.0264449925229773"/>
+    <pt x="28" y="9.0264449925229773"/>
+    <pt x="29" y="9.0264449925229773"/>
+    <pt x="30" y="9.0264449925229773"/>
+    <pt x="31" y="9.0264449925229773"/>
+    <pt x="32" y="9.0264449925229773"/>
+    <pt x="33" y="9.0264449925229773"/>
+    <pt x="34" y="9.0264449925229773"/>
+    <pt x="35" y="9.0264449925229773"/>
+    <pt x="36" y="9.0264449925229773"/>
+    <pt x="37" y="9.0264449925229773"/>
+    <pt x="38" y="9.0264449925229773"/>
+    <pt x="39" y="9.0264449925229773"/>
+    <pt x="40" y="9.0264449925229773"/>
+    <pt x="41" y="9.0264449925229773"/>
+    <pt x="42" y="9.0264449925229773"/>
+    <pt x="43" y="9.0264449925229773"/>
+    <pt x="44" y="9.0264449925229773"/>
+    <pt x="45" y="9.0264449925229773"/>
+    <pt x="46" y="9.0264449925229773"/>
+    <pt x="47" y="9.0264449925229773"/>
+    <pt x="48" y="9.0264449925229773"/>
+    <pt x="49" y="9.0264449925229773"/>
+    <pt x="50" y="9.0264449925229773"/>
+    <pt x="51" y="9.0264449925229773"/>
+    <pt x="52" y="9.0264449925229773"/>
+    <pt x="53" y="9.0264449925229773"/>
+    <pt x="54" y="9.0264449925229773"/>
+    <pt x="55" y="9.0264449925229773"/>
+    <pt x="56" y="9.0264449925229773"/>
+    <pt x="57" y="9.0264449925229773"/>
+    <pt x="58" y="9.0264449925229773"/>
+    <pt x="59" y="9.0264449925229773"/>
+    <pt x="60" y="9.0264449925229773"/>
+    <pt x="61" y="9.0264449925229773"/>
+    <pt x="62" y="9.0264449925229773"/>
+    <pt x="63" y="9.0264449925229773"/>
+    <pt x="64" y="9.0264449925229773"/>
+    <pt x="65" y="9.0264449925229773"/>
+    <pt x="66" y="9.0264449925229773"/>
+    <pt x="67" y="9.0264449925229773"/>
+    <pt x="68" y="9.0264449925229773"/>
+    <pt x="69" y="9.0264449925229773"/>
+    <pt x="70" y="9.0264449925229773"/>
+    <pt x="71" y="9.0264449925229773"/>
+    <pt x="72" y="9.0264449925229773"/>
+    <pt x="73" y="9.0264449925229773"/>
+    <pt x="74" y="9.0264449925229773"/>
+    <pt x="75" y="9.0264449925229773"/>
+    <pt x="76" y="9.0264449925229773"/>
+    <pt x="77" y="9.0264449925229773"/>
+    <pt x="78" y="9.0264449925229773"/>
+    <pt x="79" y="9.0264449925229773"/>
+    <pt x="80" y="9.0264449925229773"/>
+   </linear>
+   <linear name="DEFORM-ROTATION-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="-0.25463538344628533"/>
+    <pt x="2" y="-0.25463538344628533"/>
+    <pt x="3" y="-0.25463538344628533"/>
+    <pt x="4" y="-0.25463538344628533"/>
+    <pt x="5" y="-0.25463538344628533"/>
+    <pt x="6" y="-0.25463538344628533"/>
+    <pt x="7" y="-0.25463538344628533"/>
+    <pt x="8" y="-0.25463538344628533"/>
+    <pt x="9" y="-0.25463538344628533"/>
+    <pt x="10" y="-0.25463538344628533"/>
+    <pt x="11" y="-0.25463538344628533"/>
+    <pt x="12" y="-0.25463538344628533"/>
+    <pt x="13" y="-0.25463538344628533"/>
+    <pt x="14" y="-0.25463538344628533"/>
+    <pt x="15" y="-0.25463538344628533"/>
+    <pt x="16" y="-0.25463538344628533"/>
+    <pt x="17" y="-0.25463538344628533"/>
+    <pt x="18" y="-0.25463538344628533"/>
+    <pt x="19" y="-0.25463538344628533"/>
+    <pt x="20" y="-0.25463538344628533"/>
+    <pt x="21" y="-0.25463538344628533"/>
+    <pt x="22" y="-0.25463538344628533"/>
+    <pt x="23" y="-0.25463538344628533"/>
+    <pt x="24" y="-0.25463538344628533"/>
+    <pt x="25" y="-0.25463538344628533"/>
+    <pt x="26" y="-0.25463538344628533"/>
+    <pt x="27" y="-0.25463538344628533"/>
+    <pt x="28" y="-0.25463538344628533"/>
+    <pt x="29" y="-0.25463538344628533"/>
+    <pt x="30" y="-0.25463538344628533"/>
+    <pt x="31" y="-0.25463538344628533"/>
+    <pt x="32" y="-0.25463538344628533"/>
+    <pt x="33" y="-0.25463538344628533"/>
+    <pt x="34" y="-0.25463538344628533"/>
+    <pt x="35" y="-0.25463538344628533"/>
+    <pt x="36" y="-0.25463538344628533"/>
+    <pt x="37" y="-0.25463538344628533"/>
+    <pt x="38" y="-0.25463538344628533"/>
+    <pt x="39" y="-0.25463538344628533"/>
+    <pt x="40" y="-0.25463538344628533"/>
+    <pt x="41" y="-0.25463538344628533"/>
+    <pt x="42" y="-0.25463538344628533"/>
+    <pt x="43" y="-0.25463538344628533"/>
+    <pt x="44" y="-0.25463538344628533"/>
+    <pt x="45" y="-0.25463538344628533"/>
+    <pt x="46" y="-0.25463538344628533"/>
+    <pt x="47" y="-0.25463538344628533"/>
+    <pt x="48" y="-0.25463538344628533"/>
+    <pt x="49" y="-0.25463538344628533"/>
+    <pt x="50" y="-0.25463538344628533"/>
+    <pt x="51" y="-0.25463538344628533"/>
+    <pt x="52" y="-0.25463538344628533"/>
+    <pt x="53" y="-0.25463538344628533"/>
+    <pt x="54" y="-0.25463538344628533"/>
+    <pt x="55" y="-0.25463538344628533"/>
+    <pt x="56" y="-0.25463538344628533"/>
+    <pt x="57" y="-0.25463538344628533"/>
+    <pt x="58" y="-0.25463538344628533"/>
+    <pt x="59" y="-0.25463538344628533"/>
+    <pt x="60" y="-0.25463538344628533"/>
+    <pt x="61" y="-0.25463538344628533"/>
+    <pt x="62" y="-0.25463538344628533"/>
+    <pt x="63" y="-0.25463538344628533"/>
+    <pt x="64" y="-0.25463538344628533"/>
+    <pt x="65" y="-0.25463538344628533"/>
+    <pt x="66" y="-0.25463538344628533"/>
+    <pt x="67" y="-0.25463538344628533"/>
+    <pt x="68" y="-0.25463538344628533"/>
+    <pt x="69" y="-0.25463538344628533"/>
+    <pt x="70" y="-0.25463538344628533"/>
+    <pt x="71" y="-0.25463538344628533"/>
+    <pt x="72" y="-0.25463538344628533"/>
+    <pt x="73" y="-0.25463538344628533"/>
+    <pt x="74" y="-0.25463538344628533"/>
+    <pt x="75" y="-0.25463538344628533"/>
+    <pt x="76" y="-0.25463538344628533"/>
+    <pt x="77" y="-0.25463538344628533"/>
+    <pt x="78" y="-0.25463538344628533"/>
+    <pt x="79" y="-0.25463538344628533"/>
+    <pt x="80" y="-0.25463538344628533"/>
+   </linear>
+   <bezier name="ATV-0A57D2059FE0B86C">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B869">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86A">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86B">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86D">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86E">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B872">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0B870" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-2.997923441813775" y="2.5268731261894644" z="0"/>
+    <pt lockedInTime="80" x="-2.997923441813775" y="2.5268731261894644" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0B870_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0.99999999999999989" lx="80" constSeg="false" ly="0.99999999999999989" ry="0.99999999999999989" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B873">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B874">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B875">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-hand_l-P">
+    <pt x="5.75355144432383" y="-1.8892258473899146" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0B879">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B876">
+    <pt x="1" y="5.0626169922907138e-14" lx="1" constSeg="false" ly="5.0626169922907138e-14" ry="5.0626169922907138e-14" rx="1"/>
+    <pt x="80" y="5.0626169922907138e-14" lx="80" constSeg="false" ly="5.0626169922907138e-14" ry="5.0626169922907138e-14" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B877">
+    <pt x="1" y="-8.5265128291212022e-14" lx="1" constSeg="false" ly="-8.5265128291212022e-14" ry="-8.5265128291212022e-14" rx="1"/>
+    <pt x="80" y="-8.5265128291212022e-14" lx="80" constSeg="false" ly="-8.5265128291212022e-14" ry="-8.5265128291212022e-14" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B878">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B87A">
+    <pt x="1" y="3.4974189594288467" lx="1" constSeg="false" ly="3.4974189594288467" ry="3.4974189594288467" rx="1"/>
+    <pt x="80" y="3.4974189594288467" lx="80" constSeg="false" ly="3.4974189594288467" ry="3.4974189594288467" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B87B">
+    <pt x="1" y="3.4974189594288982" lx="1" constSeg="false" ly="3.4974189594288982" ry="3.4974189594288982" rx="1"/>
+    <pt x="80" y="3.4974189594288982" lx="80" constSeg="false" ly="3.4974189594288982" ry="3.4974189594288982" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B87C">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C0C9">
+    <pt x="1" y="-0.40073744478458873" lx="1" constSeg="false" ly="-0.40073744478458873" ry="-0.40073744478458873" rx="1"/>
+    <pt x="80" y="-0.40073744478458873" lx="80" constSeg="false" ly="-0.40073744478458873" ry="-0.40073744478458873" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE4C0B6" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="13.363015620195398" y="-1.914708125929744" z="0"/>
+    <pt lockedInTime="80" x="13.363015620195398" y="-1.914708125929744" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE4C0B6_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C358">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C359">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C35A">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-hand_l_1-P">
+    <pt x="-6.8329291374990824" y="18.149753688545857" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-brosche-P">
+    <pt x="1.0304868258490474" y="13.911572148962094" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-oberk_rper-P">
+    <pt x="-1.545730238773567" y="-0.085873902154085135" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Peg_2">
+    <pt x="-1.5527306244060179" y="5.8007672383470208" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-arm_r-P">
+    <pt x="-6.5264165637106082" y="16.401915311430617" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-hand_r-P">
+    <pt x="-6.7840382701728723" y="-2.4044692603144395" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-bein_l-P">
+    <pt x="1.7174780430817373" y="-3.7784516947798292" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-schuh_r-P">
+    <pt x="3.2202712827924871" y="-31.021946690900883" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0960B">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0.034906555555555552" lx="20" constSeg="false" ly="0.034906555555555552" ry="0.034906555555555552" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="-0.04072431481504668" lx="60" constSeg="false" ly="-0.04072431481504668" ry="-0.04072431481504668" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE09609" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-2.4359953160555419" y="3.400983544035598" z="0"/>
+    <pt lockedInTime="40" x="-2.4359953160555419" y="3.400983544035598" z="0"/>
+    <pt lockedInTime="80" x="-2.4359953160555419" y="3.400983544035598" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE09609_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0.49367088607594922" lx="40" constSeg="false" ly="0.49367088607594922" ry="0.49367088607594922" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960C">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="40" y="0.27292859819565513" lx="40" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="40"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960D">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="40" y="0.27292859819565513" lx="40" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="40"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960E">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-schwanz-P">
+    <pt x="4.7230646184747833" y="-3.091460477547133" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE09612">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09610">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09611">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09613">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09614">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09615">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-bein_r-P">
+    <pt x="-4.6157221720025596" y="-4.8304069241887273" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-schuh_l-P">
+    <pt x="-3.1129289066994072" y="-29.733838177783909" z="0" start="1"/>
+   </pivot>
+  </timedvalues>
+ </animation>
+ <animation name="reiner_smartw_Top">
+  <attrlinks>
+   <attrlink attr="rotation.anglez" node="Peg_7" timedvalue="ATV-0A57D2059FE08B26"/>
+   <attrlink attr="offset" node="Peg_7" timedvalue="ATV-0A57D2059FE08B24"/>
+   <attrlink attr="velocity" node="Peg_7" timedvalue="ATV-0A57D2059FE08B24_velocity"/>
+   <attrlink attr="scale.x" node="Peg_7" timedvalue="ATV-0A57D2059FE08B27"/>
+   <attrlink attr="scale.y" node="Peg_7" timedvalue="ATV-0A57D2059FE08B28"/>
+   <attrlink attr="skew" node="Peg_7" timedvalue="ATV-0A57D2059FE08B29"/>
+   <attrlink attr="rotation.anglez" node="Peg_6" timedvalue="ATV-0A57D2059FE08C1F"/>
+   <attrlink attr="offset" node="Peg_6" timedvalue="ATV-0A57D2059FE08C1D"/>
+   <attrlink attr="velocity" node="Peg_6" timedvalue="ATV-0A57D2059FE08C1D_velocity"/>
+   <attrlink attr="scale.x" node="Peg_6" timedvalue="ATV-0A57D2059FE08C20"/>
+   <attrlink attr="scale.y" node="Peg_6" timedvalue="ATV-0A57D2059FE08C21"/>
+   <attrlink attr="skew" node="Peg_6" timedvalue="ATV-0A57D2059FE08C22"/>
+   <attrlink attr="rotation.anglez" node="Peg_5" timedvalue="ATV-0A57D2059FE09065"/>
+   <attrlink attr="offset" node="Peg_5" timedvalue="ATV-0A57D2059FE09063"/>
+   <attrlink attr="velocity" node="Peg_5" timedvalue="ATV-0A57D2059FE09063_velocity"/>
+   <attrlink attr="scale.x" node="Peg_5" timedvalue="ATV-0A57D2059FE09066"/>
+   <attrlink attr="scale.y" node="Peg_5" timedvalue="ATV-0A57D2059FE09067"/>
+   <attrlink attr="skew" node="Peg_5" timedvalue="ATV-0A57D2059FE09068"/>
+   <attrlink attr="pivot" node="Peg_5" timedvalue="PIVOT-TV-Peg_5"/>
+   <attrlink attr="rotation.anglez" node="Peg_4" timedvalue="ATV-0A57D2059FE09386"/>
+   <attrlink attr="offset" node="Peg_4" timedvalue="ATV-0A57D2059FE09384"/>
+   <attrlink attr="velocity" node="Peg_4" timedvalue="ATV-0A57D2059FE09384_velocity"/>
+   <attrlink attr="scale.x" node="Peg_4" timedvalue="ATV-0A57D2059FE09387"/>
+   <attrlink attr="scale.y" node="Peg_4" timedvalue="ATV-0A57D2059FE09388"/>
+   <attrlink attr="skew" node="Peg_4" timedvalue="ATV-0A57D2059FE09389"/>
+   <attrlink attr="pivot" node="Peg_4" timedvalue="PIVOT-TV-Peg_4"/>
+   <attrlink attr="rotation.anglez" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29C"/>
+   <attrlink attr="offset" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29A"/>
+   <attrlink attr="velocity" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29A_velocity"/>
+   <attrlink attr="scale.x" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29D"/>
+   <attrlink attr="scale.y" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29E"/>
+   <attrlink attr="skew" node="ohr_l-P" timedvalue="ATV-0A57D2059FE0A29F"/>
+   <attrlink attr="pivot" node="ohr_l-P" timedvalue="PIVOT-TV-ohr_l-P"/>
+   <attrlink attr="opacity" node="ohr_l" value="1"/>
+   <attrlink attr="position.x" node="auge_geschlossen_r-P" value="3.9321333333333333"/>
+   <attrlink attr="position.y" node="auge_geschlossen_r-P" value="-19.0137"/>
+   <attrlink attr="scale.x" node="auge_geschlossen_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_geschlossen_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_geschlossen_r-P" timedvalue="PIVOT-TV-auge_geschlossen_r-P"/>
+   <attrlink attr="opacity" node="auge_geschlossen_r" value="1"/>
+   <attrlink attr="position.x" node="Ebene_27-P" value="3.9321333333333333"/>
+   <attrlink attr="position.y" node="Ebene_27-P" value="-18.8888"/>
+   <attrlink attr="scale.x" node="Ebene_27-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Ebene_27-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Ebene_27-P" timedvalue="PIVOT-TV-Ebene_27-P"/>
+   <attrlink attr="opacity" node="Ebene_27" value="1"/>
+   <attrlink attr="rotation.anglez" node="Peg_3" timedvalue="ATV-0A57D2059FE57C98"/>
+   <attrlink attr="offset" node="Peg_3" timedvalue="ATV-0A57D2059FE57C96"/>
+   <attrlink attr="velocity" node="Peg_3" timedvalue="ATV-0A57D2059FE57C96_velocity"/>
+   <attrlink attr="scale.x" node="Peg_3" timedvalue="ATV-0A57D2059FE57C99"/>
+   <attrlink attr="scale.y" node="Peg_3" timedvalue="ATV-0A57D2059FE57C9A"/>
+   <attrlink attr="skew" node="Peg_3" timedvalue="ATV-0A57D2059FE57C9B"/>
+   <attrlink attr="pivot" node="Peg_3" timedvalue="PIVOT-TV-Peg_3"/>
+   <attrlink attr="position.x" node="pupille-P" value="3.6823999999999999"/>
+   <attrlink attr="position.y" node="pupille-P" value="-19.0137"/>
+   <attrlink attr="scale.x" node="pupille-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="pupille-P" value="0.2729"/>
+   <attrlink attr="pivot" node="pupille-P" timedvalue="PIVOT-TV-pupille-P"/>
+   <attrlink attr="opacity" node="pupille" value="1"/>
+   <attrlink attr="position.x" node="auge_r-P" value="3.8073333333333332"/>
+   <attrlink attr="position.y" node="auge_r-P" value="-18.639099999999999"/>
+   <attrlink attr="scale.x" node="auge_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_r-P" timedvalue="PIVOT-TV-auge_r-P"/>
+   <attrlink attr="opacity" node="auge_r" value="1"/>
+   <attrlink attr="position.x" node="auge_geschlossen_l-P" value="3.1829333333333332"/>
+   <attrlink attr="position.y" node="auge_geschlossen_l-P" value="-18.8264"/>
+   <attrlink attr="scale.x" node="auge_geschlossen_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_geschlossen_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_geschlossen_l-P" timedvalue="PIVOT-TV-auge_geschlossen_l-P"/>
+   <attrlink attr="opacity" node="auge_geschlossen_l" value="1"/>
+   <attrlink attr="position.x" node="Ebene_26-P" value="0.99773333333333325"/>
+   <attrlink attr="position.y" node="Ebene_26-P" value="-18.9513"/>
+   <attrlink attr="scale.x" node="Ebene_26-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Ebene_26-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Ebene_26-P" timedvalue="PIVOT-TV-Ebene_26-P"/>
+   <attrlink attr="opacity" node="Ebene_26" value="1"/>
+   <attrlink attr="pivot" node="Peg_3" timedvalue="PIVOT-TV-Peg_3"/>
+   <attrlink attr="position.x" node="pupille_2-P" value="0.99773333333333325"/>
+   <attrlink attr="position.y" node="pupille_2-P" value="-19.0761"/>
+   <attrlink attr="scale.x" node="pupille_2-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="pupille_2-P" value="0.2729"/>
+   <attrlink attr="pivot" node="pupille_2-P" timedvalue="PIVOT-TV-pupille_2-P"/>
+   <attrlink attr="opacity" node="pupille_2" value="1"/>
+   <attrlink attr="position.x" node="auge_l-P" value="1.0601333333333334"/>
+   <attrlink attr="position.y" node="auge_l-P" value="-18.8264"/>
+   <attrlink attr="scale.x" node="auge_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="auge_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="auge_l-P" timedvalue="PIVOT-TV-auge_l-P"/>
+   <attrlink attr="opacity" node="auge_l" value="1"/>
+   <attrlink attr="position.x" node="Bild_eingef_gt-P" value="1.3098666666666667"/>
+   <attrlink attr="position.y" node="Bild_eingef_gt-P" value="-15.0802"/>
+   <attrlink attr="scale.x" node="Bild_eingef_gt-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Bild_eingef_gt-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Bild_eingef_gt-P" timedvalue="PIVOT-TV-Bild_eingef_gt-P"/>
+   <attrlink attr="opacity" node="Bild_eingef_gt" value="1"/>
+   <attrlink attr="position.x" node="Ebene_9-P" value="3.2453333333333334"/>
+   <attrlink attr="position.y" node="Ebene_9-P" value="-16.1416"/>
+   <attrlink attr="scale.x" node="Ebene_9-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="Ebene_9-P" value="0.2729"/>
+   <attrlink attr="pivot" node="Ebene_9-P" timedvalue="PIVOT-TV-Ebene_9-P"/>
+   <attrlink attr="opacity" node="Ebene_9" value="1"/>
+   <attrlink attr="position.x" node="nase-P" value="3.3078666666666665"/>
+   <attrlink attr="position.y" node="nase-P" value="-17.140599999999999"/>
+   <attrlink attr="scale.x" node="nase-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="nase-P" value="0.2729"/>
+   <attrlink attr="pivot" node="nase-P" timedvalue="PIVOT-TV-nase-P"/>
+   <attrlink attr="opacity" node="nase" value="1"/>
+   <attrlink attr="position.x" node="kopf-P" value="0.93520000000000003"/>
+   <attrlink attr="position.y" node="kopf-P" value="-18.202000000000002"/>
+   <attrlink attr="scale.x" node="kopf-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="kopf-P" value="0.2729"/>
+   <attrlink attr="pivot" node="kopf-P" timedvalue="PIVOT-TV-kopf-P"/>
+   <attrlink attr="opacity" node="kopf" value="1"/>
+   <attrlink attr="rotation.anglez" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A066"/>
+   <attrlink attr="offset" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A064"/>
+   <attrlink attr="velocity" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A064_velocity"/>
+   <attrlink attr="scale.x" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A067"/>
+   <attrlink attr="scale.y" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A068"/>
+   <attrlink attr="skew" node="ohr_r-P" timedvalue="ATV-0A57D2059FE0A069"/>
+   <attrlink attr="pivot" node="ohr_r-P" timedvalue="PIVOT-TV-ohr_r-P"/>
+   <attrlink attr="rotation.anglez" node="ohr_r" timedvalue="ATV-0A57D2059FE0A4B6"/>
+   <attrlink attr="opacity" node="ohr_r" value="1"/>
+   <attrlink attr="position.x" node="hals-P" value="0.81040000000000001"/>
+   <attrlink attr="position.y" node="hals-P" value="-12.645200000000001"/>
+   <attrlink attr="scale.x" node="hals-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="hals-P" value="0.2729"/>
+   <attrlink attr="pivot" node="hals-P" timedvalue="PIVOT-TV-hals-P"/>
+   <attrlink attr="opacity" node="hals" value="1"/>
+   <attrlink attr="rotation.anglez" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B85F"/>
+   <attrlink attr="offset" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B85D"/>
+   <attrlink attr="velocity" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B85D_velocity"/>
+   <attrlink attr="scale.x" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B860"/>
+   <attrlink attr="scale.y" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B861"/>
+   <attrlink attr="skew" node="arm_l-P" timedvalue="ATV-0A57D2059FE0B862"/>
+   <attrlink attr="pivot" node="arm_l-P" timedvalue="PIVOT-TV-arm_l-P"/>
+   <attrlink attr="deform.offset.x" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-OFFSET-X-Deformation-arm_l_GameBone"/>
+   <attrlink attr="deform.offset.y" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone"/>
+   <attrlink attr="deform.length" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-LENGTH-Deformation-arm_l_GameBone"/>
+   <attrlink attr="deform.rotation.z" node="Deformation-arm_l_GameBone" timedvalue="DEFORM-ROTATION-Deformation-arm_l_GameBone"/>
+   <attrlink attr="rest.offset.x" node="Deformation-arm_l_GameBone" value="5.6407999999999996"/>
+   <attrlink attr="rest.offset.y" node="Deformation-arm_l_GameBone" value="18.156400000000001"/>
+   <attrlink attr="rest.length" node="Deformation-arm_l_GameBone" value="10.417475140149321"/>
+   <attrlink attr="rest.rotation.z" node="Deformation-arm_l_GameBone" value="-1.4494427129937795"/>
+   <attrlink attr="deform.offset.x" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-OFFSET-X-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="deform.offset.y" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="deform.length" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-LENGTH-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="deform.rotation.z" node="Deformation-arm_l_GameBone_1" timedvalue="DEFORM-ROTATION-Deformation-arm_l_GameBone_1"/>
+   <attrlink attr="rest.offset.x" node="Deformation-arm_l_GameBone_1" value="1.311836935021063"/>
+   <attrlink attr="rest.offset.y" node="Deformation-arm_l_GameBone_1" value="-0.16792786926523107"/>
+   <attrlink attr="rest.length" node="Deformation-arm_l_GameBone_1" value="9.0264449925229773"/>
+   <attrlink attr="rest.rotation.z" node="Deformation-arm_l_GameBone_1" value="-0.25463538344628533"/>
+   <attrlink attr="rotation.anglez" node="arm_l" timedvalue="ATV-0A57D2059FE0B86C"/>
+   <attrlink attr="offset.x" node="arm_l" timedvalue="ATV-0A57D2059FE0B869"/>
+   <attrlink attr="offset.y" node="arm_l" timedvalue="ATV-0A57D2059FE0B86A"/>
+   <attrlink attr="offset.z" node="arm_l" timedvalue="ATV-0A57D2059FE0B86B"/>
+   <attrlink attr="scale.x" node="arm_l" timedvalue="ATV-0A57D2059FE0B86D"/>
+   <attrlink attr="scale.y" node="arm_l" timedvalue="ATV-0A57D2059FE0B86E"/>
+   <attrlink attr="skew" node="arm_l" timedvalue="ATV-0A57D2059FE0B86F"/>
+   <attrlink attr="opacity" node="arm_l" value="1"/>
+   <attrlink attr="rotation.anglez" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B872"/>
+   <attrlink attr="offset" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B870"/>
+   <attrlink attr="velocity" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B870_velocity"/>
+   <attrlink attr="scale.x" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B873"/>
+   <attrlink attr="scale.y" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B874"/>
+   <attrlink attr="skew" node="hand_l-P" timedvalue="ATV-0A57D2059FE0B875"/>
+   <attrlink attr="pivot" node="hand_l-P" timedvalue="PIVOT-TV-hand_l-P"/>
+   <attrlink attr="rotation.anglez" node="hand_l" timedvalue="ATV-0A57D2059FE0B879"/>
+   <attrlink attr="offset.x" node="hand_l" timedvalue="ATV-0A57D2059FE0B876"/>
+   <attrlink attr="offset.y" node="hand_l" timedvalue="ATV-0A57D2059FE0B877"/>
+   <attrlink attr="offset.z" node="hand_l" timedvalue="ATV-0A57D2059FE0B878"/>
+   <attrlink attr="scale.x" node="hand_l" timedvalue="ATV-0A57D2059FE0B87A"/>
+   <attrlink attr="scale.y" node="hand_l" timedvalue="ATV-0A57D2059FE0B87B"/>
+   <attrlink attr="skew" node="hand_l" timedvalue="ATV-0A57D2059FE0B87C"/>
+   <attrlink attr="opacity" node="hand_l" value="1"/>
+   <attrlink attr="rotation.anglez" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C0C9"/>
+   <attrlink attr="offset" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C0B6"/>
+   <attrlink attr="velocity" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C0B6_velocity"/>
+   <attrlink attr="scale.x" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C358"/>
+   <attrlink attr="scale.y" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C359"/>
+   <attrlink attr="skew" node="hand_l_1-P" timedvalue="ATV-0A57D2059FE4C35A"/>
+   <attrlink attr="pivot" node="hand_l_1-P" timedvalue="PIVOT-TV-hand_l_1-P"/>
+   <attrlink attr="offset.x" node="hand_l_1" value="0.29293333333333332"/>
+   <attrlink attr="offset.y" node="hand_l_1" value="1.3623000000000001"/>
+   <attrlink attr="scale.x" node="hand_l_1" value="-0.9477"/>
+   <attrlink attr="scale.y" node="hand_l_1" value="0.9477"/>
+   <attrlink attr="opacity" node="hand_l_1" value="1"/>
+   <attrlink attr="position.x" node="brosche-P" value="-0.56319999999999992"/>
+   <attrlink attr="position.y" node="brosche-P" value="-8.9613999999999994"/>
+   <attrlink attr="scale.x" node="brosche-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="brosche-P" value="0.2729"/>
+   <attrlink attr="pivot" node="brosche-P" timedvalue="PIVOT-TV-brosche-P"/>
+   <attrlink attr="opacity" node="brosche" value="1"/>
+   <attrlink attr="position.x" node="oberk_rper-P" value="1.3098666666666667"/>
+   <attrlink attr="position.y" node="oberk_rper-P" value="1.2157"/>
+   <attrlink attr="scale.x" node="oberk_rper-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="oberk_rper-P" value="0.2729"/>
+   <attrlink attr="pivot" node="oberk_rper-P" timedvalue="PIVOT-TV-oberk_rper-P"/>
+   <attrlink attr="opacity" node="oberk_rper" value="1"/>
+   <attrlink attr="pivot" node="Peg_2" timedvalue="PIVOT-TV-Peg_2"/>
+   <attrlink attr="position.x" node="arm_r-P" value="4.9311999999999996"/>
+   <attrlink attr="position.y" node="arm_r-P" value="-10.7721"/>
+   <attrlink attr="scale.x" node="arm_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="arm_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="arm_r-P" timedvalue="PIVOT-TV-arm_r-P"/>
+   <attrlink attr="opacity" node="arm_r" value="1"/>
+   <attrlink attr="position.x" node="hand_r-P" value="5.1185333333333336"/>
+   <attrlink attr="position.y" node="hand_r-P" value="2.9015"/>
+   <attrlink attr="scale.x" node="hand_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="hand_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="hand_r-P" timedvalue="PIVOT-TV-hand_r-P"/>
+   <attrlink attr="opacity" node="hand_r" value="1"/>
+   <attrlink attr="position.x" node="bein_l-P" value="-1.0626666666666666"/>
+   <attrlink attr="position.y" node="bein_l-P" value="3.9005000000000001"/>
+   <attrlink attr="scale.x" node="bein_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="bein_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="bein_l-P" timedvalue="PIVOT-TV-bein_l-P"/>
+   <attrlink attr="opacity" node="bein_l" value="1"/>
+   <attrlink attr="position.x" node="schuh_r-P" value="-2.1553333333333331"/>
+   <attrlink attr="position.y" node="schuh_r-P" value="23.708400000000001"/>
+   <attrlink attr="scale.x" node="schuh_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="schuh_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="schuh_r-P" timedvalue="PIVOT-TV-schuh_r-P"/>
+   <attrlink attr="opacity" node="schuh_r" value="1"/>
+   <attrlink attr="rotation.anglez" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960B"/>
+   <attrlink attr="offset" node="schwanz-P" timedvalue="ATV-0A57D2059FE09609"/>
+   <attrlink attr="velocity" node="schwanz-P" timedvalue="ATV-0A57D2059FE09609_velocity"/>
+   <attrlink attr="scale.x" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960C"/>
+   <attrlink attr="scale.y" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960D"/>
+   <attrlink attr="skew" node="schwanz-P" timedvalue="ATV-0A57D2059FE0960E"/>
+   <attrlink attr="pivot" node="schwanz-P" timedvalue="PIVOT-TV-schwanz-P"/>
+   <attrlink attr="rotation.anglez" node="schwanz" timedvalue="ATV-0A57D2059FE09612"/>
+   <attrlink attr="offset.x" node="schwanz" timedvalue="ATV-0A57D2059FE0960F"/>
+   <attrlink attr="offset.y" node="schwanz" timedvalue="ATV-0A57D2059FE09610"/>
+   <attrlink attr="offset.z" node="schwanz" timedvalue="ATV-0A57D2059FE09611"/>
+   <attrlink attr="scale.x" node="schwanz" timedvalue="ATV-0A57D2059FE09613"/>
+   <attrlink attr="scale.y" node="schwanz" timedvalue="ATV-0A57D2059FE09614"/>
+   <attrlink attr="skew" node="schwanz" timedvalue="ATV-0A57D2059FE09615"/>
+   <attrlink attr="opacity" node="schwanz" value="1"/>
+   <attrlink attr="position.x" node="bein_r-P" value="3.5419999999999998"/>
+   <attrlink attr="position.y" node="bein_r-P" value="4.6653000000000002"/>
+   <attrlink attr="scale.x" node="bein_r-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="bein_r-P" value="0.2729"/>
+   <attrlink attr="pivot" node="bein_r-P" timedvalue="PIVOT-TV-bein_r-P"/>
+   <attrlink attr="opacity" node="bein_r" value="1"/>
+   <attrlink attr="position.x" node="schuh_l-P" value="2.4493333333333331"/>
+   <attrlink attr="position.y" node="schuh_l-P" value="22.771899999999999"/>
+   <attrlink attr="scale.x" node="schuh_l-P" value="0.2729"/>
+   <attrlink attr="scale.y" node="schuh_l-P" value="0.2729"/>
+   <attrlink attr="pivot" node="schuh_l-P" timedvalue="PIVOT-TV-schuh_l-P"/>
+   <attrlink attr="opacity" node="schuh_l" value="1"/>
+  </attrlinks>
+  <timedvalues>
+   <bezier name="ATV-0A57D2059FE08B26">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE08B24" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE08B24_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08B27">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08B28">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08B29">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C1F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0" lx="20" constSeg="false" ly="0" ry="0" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="0" lx="60" constSeg="false" ly="0" ry="0" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE08C1D" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="20" x="0" y="0.070312331209522405" z="0"/>
+    <pt lockedInTime="40" x="0" y="0" z="0"/>
+    <pt lockedInTime="60" x="0" y="-0.093749774946016551" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE08C1D_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0.21428571428573151" lx="20" constSeg="false" ly="0.21428571428573151" ry="0.21428571428573151" rx="20"/>
+    <pt x="40" y="0.42857142857146346" lx="40" constSeg="false" ly="0.42857142857146346" ry="0.42857142857146346" rx="40"/>
+    <pt x="60" y="0.71428571428573195" lx="60" constSeg="false" ly="0.71428571428573195" ry="0.71428571428573195" rx="60"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C20">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="20" y="1" lx="20" constSeg="false" ly="1" ry="1" rx="20"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C21">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="20" y="1" lx="20" constSeg="false" ly="1" ry="1" rx="20"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE08C22">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0" lx="20" constSeg="false" ly="0" ry="0" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="0" lx="60" constSeg="false" ly="0" ry="0" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09065">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="-0.010293761801508119" lx="20" constSeg="false" ly="-0.010293761801508119" ry="-0.010293761801508119" rx="20"/>
+    <pt x="40" y="-0.00054177693695280809" lx="40" constSeg="false" ly="-0.00054177693695280809" ry="-0.00054177693695280809" rx="40"/>
+    <pt x="60" y="0.014022023844010113" lx="60" constSeg="false" ly="0.014022023844010113" ry="0.014022023844010113" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE09063" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="40" x="0" y="0" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE09063_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0.49367088607595155" lx="40" constSeg="false" ly="0.49367088607595155" ry="0.49367088607595155" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09066">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09067">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09068">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-Peg_5">
+    <pt x="0.18749954989204548" y="6.328109808856567" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE09386">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0.017453277777777776" lx="20" constSeg="false" ly="0.017453277777777776" ry="0.017453277777777776" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="-0.017453277777777776" lx="60" constSeg="false" ly="-0.017453277777777776" ry="-0.017453277777777776" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE09384" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="0" y="0" z="0"/>
+    <pt lockedInTime="40" x="0" y="0" z="0"/>
+    <pt lockedInTime="80" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE09384_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0.49367088607595155" lx="40" constSeg="false" ly="0.49367088607595155" ry="0.49367088607595155" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09387">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09388">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09389">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-Peg_4">
+    <pt x="0.084960733544830649" y="8.8124788449261846" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0A29C">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0A29A" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-0.91410662642691431" y="-21.401899226250297" z="0"/>
+    <pt lockedInTime="80" x="-0.91410662642691431" y="-21.401899226250297" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0A29A_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A29D">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A29E">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A29F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-ohr_l-P">
+    <pt x="1.9321627696754904" y="31.021946690900918" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_geschlossen_r-P">
+    <pt x="-5.1524341292452238" y="27.737270395770114" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Ebene_27-P">
+    <pt x="-5.1524341292452167" y="27.565522591461949" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE57C98">
+    <pt x="27" y="0" lx="27" constSeg="false" ly="0" ry="0" rx="27"/>
+    <pt x="28" y="0" lx="28" constSeg="false" ly="0" ry="0" rx="28"/>
+    <pt x="60" y="0" lx="60" constSeg="false" ly="0" ry="0" rx="60"/>
+    <pt x="62" y="0" lx="62" constSeg="false" ly="0" ry="0" rx="62"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE57C96" scaleX="1.3333333333333333">
+    <pt lockedInTime="27" x="0" y="0" z="0"/>
+    <pt lockedInTime="28" x="-0.00021510252175399591" y="-0.070311746272925912" z="0"/>
+    <pt lockedInTime="60" x="-0.00021510252175399591" y="-0.070311746272925912" z="0"/>
+    <pt lockedInTime="62" x="0" y="0" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE57C96_velocity">
+    <pt x="27" y="0" lx="27" constSeg="false" ly="0" ry="0" rx="27"/>
+    <pt x="28" y="0.49998483005348027" lx="28" constSeg="false" ly="0.49998483005348027" ry="0.49998483005348027" rx="28"/>
+    <pt x="60" y="0.50001516994651984" lx="60" constSeg="false" ly="0.50001516994651984" ry="0.50001516994651984" rx="60"/>
+    <pt x="62" y="1" lx="62" constSeg="false" ly="1" ry="1" rx="62"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE57C99">
+    <pt x="27" y="1" lx="27" constSeg="false" ly="1" ry="1" rx="27"/>
+    <pt x="28" y="1" lx="28" constSeg="false" ly="1" ry="1" rx="28"/>
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+    <pt x="62" y="1" lx="62" constSeg="false" ly="1" ry="1" rx="62"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE57C9A">
+    <pt x="27" y="1" lx="27" constSeg="false" ly="1" ry="1" rx="27"/>
+    <pt x="28" y="1" lx="28" constSeg="false" ly="1" ry="1" rx="28"/>
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+    <pt x="62" y="1" lx="62" constSeg="false" ly="1" ry="1" rx="62"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE57C9B">
+    <pt x="27" y="0" lx="27" constSeg="false" ly="0" ry="0" rx="27"/>
+    <pt x="28" y="0" lx="28" constSeg="false" ly="0" ry="0" rx="28"/>
+    <pt x="60" y="0" lx="60" constSeg="false" ly="0" ry="0" rx="60"/>
+    <pt x="62" y="0" lx="62" constSeg="false" ly="0" ry="0" rx="62"/>
+   </bezier>
+   <pivot name="PIVOT-TV-Peg_3">
+    <pt x="-0.70684354125970028" y="8.6309316616973781" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-pupille-P">
+    <pt x="-4.8089385206288675" y="27.737270395770079" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_r-P">
+    <pt x="-4.9806863249370386" y="27.222026982845563" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_geschlossen_l-P">
+    <pt x="-4.1219473033961735" y="27.47964868930783" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Ebene_26-P">
+    <pt x="-1.1163607280031249" y="27.651396493616019" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Peg_3">
+    <pt x="-0.70684354125970028" y="8.6309316616973781" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-pupille_2-P">
+    <pt x="-1.1163607280031251" y="27.823144297924195" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-auge_l-P">
+    <pt x="-1.2022346301572189" y="27.479648689307862" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Bild_eingef_gt-P">
+    <pt x="-1.5457302387735674" y="22.327214560062586" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Ebene_9-P">
+    <pt x="-4.2078212055502631" y="23.78707089668212" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-nase-P">
+    <pt x="-4.2936951077043481" y="25.161053331147485" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-kopf-P">
+    <pt x="-1.0304868258490483" y="26.620909667766984" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0A066">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="-0.032605663083408572" lx="20" constSeg="false" ly="-0.032605663083408572" ry="-0.032605663083408572" rx="20"/>
+    <pt x="51" y="0.053202815897144616" lx="51" constSeg="false" ly="0.053202815897144616" ry="0.053202815897144616" rx="51"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0A064" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="2.6213578157685293" y="-21.448726906161721" z="0"/>
+    <pt lockedInTime="80" x="2.6213578157685293" y="-21.448726906161721" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0A064_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A067">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A068">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0A069">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-ohr_r-P">
+    <pt x="-4.5513168141666078" y="31.086352579779501" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0A4B6">
+    <pt x="1" y="-0.00085089139044705012" lx="1" constSeg="false" ly="-0.00085089139044705012" ry="-0.00085089139044705012" rx="1"/>
+    <pt x="51" y="-0.00085089139044705012" lx="51" constSeg="false" ly="-0.00085089139044705012" ry="-0.00085089139044705012" rx="51"/>
+    <pt x="80" y="-0.00085089139044705012" lx="80" constSeg="false" ly="-0.00085089139044705012" ry="-0.00085089139044705012" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-hals-P">
+    <pt x="-0.85873902154086645" y="18.978132376053217" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0B85F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0B85D" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-3.0447507856269631" y="-11.646202934601462" z="0"/>
+    <pt lockedInTime="80" x="-3.0447507856269631" y="-11.646202934601462" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0B85D_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B860">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B861">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B862">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-arm_l-P">
+    <pt x="5.8394253464779178" y="17.604149941587831" z="0" start="1"/>
+   </pivot>
+   <linear name="DEFORM-OFFSET-X-Deformation-arm_l_GameBone">
+    <pt x="1" y="5.6407999999999996"/>
+    <pt x="2" y="5.6407999999999996"/>
+    <pt x="3" y="5.6407999999999996"/>
+    <pt x="4" y="5.6407999999999996"/>
+    <pt x="5" y="5.6407999999999996"/>
+    <pt x="6" y="5.6407999999999996"/>
+    <pt x="7" y="5.6407999999999996"/>
+    <pt x="8" y="5.6407999999999996"/>
+    <pt x="9" y="5.6407999999999996"/>
+    <pt x="10" y="5.6407999999999996"/>
+    <pt x="11" y="5.6407999999999996"/>
+    <pt x="12" y="5.6407999999999996"/>
+    <pt x="13" y="5.6407999999999996"/>
+    <pt x="14" y="5.6407999999999996"/>
+    <pt x="15" y="5.6407999999999996"/>
+    <pt x="16" y="5.6407999999999996"/>
+    <pt x="17" y="5.6407999999999996"/>
+    <pt x="18" y="5.6407999999999996"/>
+    <pt x="19" y="5.6407999999999996"/>
+    <pt x="20" y="5.6407999999999996"/>
+    <pt x="21" y="5.6407999999999996"/>
+    <pt x="22" y="5.6407999999999996"/>
+    <pt x="23" y="5.6407999999999996"/>
+    <pt x="24" y="5.6407999999999996"/>
+    <pt x="25" y="5.6407999999999996"/>
+    <pt x="26" y="5.6407999999999996"/>
+    <pt x="27" y="5.6407999999999996"/>
+    <pt x="28" y="5.6407999999999996"/>
+    <pt x="29" y="5.6407999999999996"/>
+    <pt x="30" y="5.6407999999999996"/>
+    <pt x="31" y="5.6407999999999996"/>
+    <pt x="32" y="5.6407999999999996"/>
+    <pt x="33" y="5.6407999999999996"/>
+    <pt x="34" y="5.6407999999999996"/>
+    <pt x="35" y="5.6407999999999996"/>
+    <pt x="36" y="5.6407999999999996"/>
+    <pt x="37" y="5.6407999999999996"/>
+    <pt x="38" y="5.6407999999999996"/>
+    <pt x="39" y="5.6407999999999996"/>
+    <pt x="40" y="5.6407999999999996"/>
+    <pt x="41" y="5.6407999999999996"/>
+    <pt x="42" y="5.6407999999999996"/>
+    <pt x="43" y="5.6407999999999996"/>
+    <pt x="44" y="5.6407999999999996"/>
+    <pt x="45" y="5.6407999999999996"/>
+    <pt x="46" y="5.6407999999999996"/>
+    <pt x="47" y="5.6407999999999996"/>
+    <pt x="48" y="5.6407999999999996"/>
+    <pt x="49" y="5.6407999999999996"/>
+    <pt x="50" y="5.6407999999999996"/>
+    <pt x="51" y="5.6407999999999996"/>
+    <pt x="52" y="5.6407999999999996"/>
+    <pt x="53" y="5.6407999999999996"/>
+    <pt x="54" y="5.6407999999999996"/>
+    <pt x="55" y="5.6407999999999996"/>
+    <pt x="56" y="5.6407999999999996"/>
+    <pt x="57" y="5.6407999999999996"/>
+    <pt x="58" y="5.6407999999999996"/>
+    <pt x="59" y="5.6407999999999996"/>
+    <pt x="60" y="5.6407999999999996"/>
+    <pt x="61" y="5.6407999999999996"/>
+    <pt x="62" y="5.6407999999999996"/>
+    <pt x="63" y="5.6407999999999996"/>
+    <pt x="64" y="5.6407999999999996"/>
+    <pt x="65" y="5.6407999999999996"/>
+    <pt x="66" y="5.6407999999999996"/>
+    <pt x="67" y="5.6407999999999996"/>
+    <pt x="68" y="5.6407999999999996"/>
+    <pt x="69" y="5.6407999999999996"/>
+    <pt x="70" y="5.6407999999999996"/>
+    <pt x="71" y="5.6407999999999996"/>
+    <pt x="72" y="5.6407999999999996"/>
+    <pt x="73" y="5.6407999999999996"/>
+    <pt x="74" y="5.6407999999999996"/>
+    <pt x="75" y="5.6407999999999996"/>
+    <pt x="76" y="5.6407999999999996"/>
+    <pt x="77" y="5.6407999999999996"/>
+    <pt x="78" y="5.6407999999999996"/>
+    <pt x="79" y="5.6407999999999996"/>
+    <pt x="80" y="5.6407999999999996"/>
+   </linear>
+   <linear name="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone">
+    <pt x="1" y="18.156400000000001"/>
+    <pt x="2" y="18.156400000000001"/>
+    <pt x="3" y="18.156400000000001"/>
+    <pt x="4" y="18.156400000000001"/>
+    <pt x="5" y="18.156400000000001"/>
+    <pt x="6" y="18.156400000000001"/>
+    <pt x="7" y="18.156400000000001"/>
+    <pt x="8" y="18.156400000000001"/>
+    <pt x="9" y="18.156400000000001"/>
+    <pt x="10" y="18.156400000000001"/>
+    <pt x="11" y="18.156400000000001"/>
+    <pt x="12" y="18.156400000000001"/>
+    <pt x="13" y="18.156400000000001"/>
+    <pt x="14" y="18.156400000000001"/>
+    <pt x="15" y="18.156400000000001"/>
+    <pt x="16" y="18.156400000000001"/>
+    <pt x="17" y="18.156400000000001"/>
+    <pt x="18" y="18.156400000000001"/>
+    <pt x="19" y="18.156400000000001"/>
+    <pt x="20" y="18.156400000000001"/>
+    <pt x="21" y="18.156400000000001"/>
+    <pt x="22" y="18.156400000000001"/>
+    <pt x="23" y="18.156400000000001"/>
+    <pt x="24" y="18.156400000000001"/>
+    <pt x="25" y="18.156400000000001"/>
+    <pt x="26" y="18.156400000000001"/>
+    <pt x="27" y="18.156400000000001"/>
+    <pt x="28" y="18.156400000000001"/>
+    <pt x="29" y="18.156400000000001"/>
+    <pt x="30" y="18.156400000000001"/>
+    <pt x="31" y="18.156400000000001"/>
+    <pt x="32" y="18.156400000000001"/>
+    <pt x="33" y="18.156400000000001"/>
+    <pt x="34" y="18.156400000000001"/>
+    <pt x="35" y="18.156400000000001"/>
+    <pt x="36" y="18.156400000000001"/>
+    <pt x="37" y="18.156400000000001"/>
+    <pt x="38" y="18.156400000000001"/>
+    <pt x="39" y="18.156400000000001"/>
+    <pt x="40" y="18.156400000000001"/>
+    <pt x="41" y="18.156400000000001"/>
+    <pt x="42" y="18.156400000000001"/>
+    <pt x="43" y="18.156400000000001"/>
+    <pt x="44" y="18.156400000000001"/>
+    <pt x="45" y="18.156400000000001"/>
+    <pt x="46" y="18.156400000000001"/>
+    <pt x="47" y="18.156400000000001"/>
+    <pt x="48" y="18.156400000000001"/>
+    <pt x="49" y="18.156400000000001"/>
+    <pt x="50" y="18.156400000000001"/>
+    <pt x="51" y="18.156400000000001"/>
+    <pt x="52" y="18.156400000000001"/>
+    <pt x="53" y="18.156400000000001"/>
+    <pt x="54" y="18.156400000000001"/>
+    <pt x="55" y="18.156400000000001"/>
+    <pt x="56" y="18.156400000000001"/>
+    <pt x="57" y="18.156400000000001"/>
+    <pt x="58" y="18.156400000000001"/>
+    <pt x="59" y="18.156400000000001"/>
+    <pt x="60" y="18.156400000000001"/>
+    <pt x="61" y="18.156400000000001"/>
+    <pt x="62" y="18.156400000000001"/>
+    <pt x="63" y="18.156400000000001"/>
+    <pt x="64" y="18.156400000000001"/>
+    <pt x="65" y="18.156400000000001"/>
+    <pt x="66" y="18.156400000000001"/>
+    <pt x="67" y="18.156400000000001"/>
+    <pt x="68" y="18.156400000000001"/>
+    <pt x="69" y="18.156400000000001"/>
+    <pt x="70" y="18.156400000000001"/>
+    <pt x="71" y="18.156400000000001"/>
+    <pt x="72" y="18.156400000000001"/>
+    <pt x="73" y="18.156400000000001"/>
+    <pt x="74" y="18.156400000000001"/>
+    <pt x="75" y="18.156400000000001"/>
+    <pt x="76" y="18.156400000000001"/>
+    <pt x="77" y="18.156400000000001"/>
+    <pt x="78" y="18.156400000000001"/>
+    <pt x="79" y="18.156400000000001"/>
+    <pt x="80" y="18.156400000000001"/>
+   </linear>
+   <linear name="DEFORM-LENGTH-Deformation-arm_l_GameBone">
+    <pt x="1" y="10.417475140149321"/>
+    <pt x="2" y="10.417475140149321"/>
+    <pt x="3" y="10.417475140149321"/>
+    <pt x="4" y="10.417475140149321"/>
+    <pt x="5" y="10.417475140149321"/>
+    <pt x="6" y="10.417475140149321"/>
+    <pt x="7" y="10.417475140149321"/>
+    <pt x="8" y="10.417475140149321"/>
+    <pt x="9" y="10.417475140149321"/>
+    <pt x="10" y="10.417475140149321"/>
+    <pt x="11" y="10.417475140149321"/>
+    <pt x="12" y="10.417475140149321"/>
+    <pt x="13" y="10.417474638076531"/>
+    <pt x="14" y="10.417474106206807"/>
+    <pt x="15" y="10.417473545209017"/>
+    <pt x="16" y="10.417472955868572"/>
+    <pt x="17" y="10.417472339082579"/>
+    <pt x="18" y="10.417471695853569"/>
+    <pt x="19" y="10.417471027281966"/>
+    <pt x="20" y="10.417470334557315"/>
+    <pt x="21" y="10.417469618948559"/>
+    <pt x="22" y="10.417468881793464"/>
+    <pt x="23" y="10.417468124487446"/>
+    <pt x="24" y="10.417467348471954"/>
+    <pt x="25" y="10.417466555222703"/>
+    <pt x="26" y="10.417465746237859"/>
+    <pt x="27" y="10.417464923026495"/>
+    <pt x="28" y="10.417464087097395"/>
+    <pt x="29" y="10.417463239948429"/>
+    <pt x="30" y="10.417463239948429"/>
+    <pt x="31" y="10.417463239948429"/>
+    <pt x="32" y="10.417463239948429"/>
+    <pt x="33" y="10.417463239948429"/>
+    <pt x="34" y="10.417463239948429"/>
+    <pt x="35" y="10.417463239948429"/>
+    <pt x="36" y="10.417463239948429"/>
+    <pt x="37" y="10.417463239948429"/>
+    <pt x="38" y="10.417463239948429"/>
+    <pt x="39" y="10.417463239948429"/>
+    <pt x="40" y="10.417463239948429"/>
+    <pt x="41" y="10.417463239948429"/>
+    <pt x="42" y="10.417463239948429"/>
+    <pt x="43" y="10.417463239948429"/>
+    <pt x="44" y="10.417463239948429"/>
+    <pt x="45" y="10.417463239948429"/>
+    <pt x="46" y="10.417463239948429"/>
+    <pt x="47" y="10.417463239948429"/>
+    <pt x="48" y="10.417463239948429"/>
+    <pt x="49" y="10.417463239948429"/>
+    <pt x="50" y="10.417463239948429"/>
+    <pt x="51" y="10.417463239948429"/>
+    <pt x="52" y="10.417463239948429"/>
+    <pt x="53" y="10.417463239948429"/>
+    <pt x="54" y="10.417463239948429"/>
+    <pt x="55" y="10.417463239948429"/>
+    <pt x="56" y="10.417463239948429"/>
+    <pt x="57" y="10.417463239948429"/>
+    <pt x="58" y="10.417463239948429"/>
+    <pt x="59" y="10.417463239948429"/>
+    <pt x="60" y="10.417463239948429"/>
+    <pt x="61" y="10.417464673514672"/>
+    <pt x="62" y="10.417466071623597"/>
+    <pt x="63" y="10.417467426873589"/>
+    <pt x="64" y="10.417468731898795"/>
+    <pt x="65" y="10.417469979531322"/>
+    <pt x="66" y="10.417471162967802"/>
+    <pt x="67" y="10.417472275932194"/>
+    <pt x="68" y="10.417473312826163"/>
+    <pt x="69" y="10.417474268858895"/>
+    <pt x="70" y="10.417475140149321"/>
+    <pt x="71" y="10.417475140149321"/>
+    <pt x="72" y="10.417475140149321"/>
+    <pt x="73" y="10.417475140149321"/>
+    <pt x="74" y="10.417475140149321"/>
+    <pt x="75" y="10.417475140149321"/>
+    <pt x="76" y="10.417475140149321"/>
+    <pt x="77" y="10.417475140149321"/>
+    <pt x="78" y="10.417475140149321"/>
+    <pt x="79" y="10.417475140149321"/>
+    <pt x="80" y="10.417475140149321"/>
+   </linear>
+   <linear name="DEFORM-ROTATION-Deformation-arm_l_GameBone">
+    <pt x="1" y="-1.4494427129937795"/>
+    <pt x="2" y="-1.4494427129937795"/>
+    <pt x="3" y="-1.4494427129937795"/>
+    <pt x="4" y="-1.4494427129937795"/>
+    <pt x="5" y="-1.4494427129937795"/>
+    <pt x="6" y="-1.4494427129937795"/>
+    <pt x="7" y="-1.4494427129937795"/>
+    <pt x="8" y="-1.4494427129937795"/>
+    <pt x="9" y="-1.4494427129937795"/>
+    <pt x="10" y="-1.4494427129937795"/>
+    <pt x="11" y="-1.4494427129937795"/>
+    <pt x="12" y="-1.4494427129937795"/>
+    <pt x="13" y="-1.4784606942254954"/>
+    <pt x="14" y="-1.5075467142113692"/>
+    <pt x="15" y="-1.5366795739680266"/>
+    <pt x="16" y="-1.56583777833319"/>
+    <pt x="17" y="-1.5949996711062937"/>
+    <pt x="18" y="-1.6241435726445044"/>
+    <pt x="19" y="-1.6532479176555903"/>
+    <pt x="20" y="-1.6822913915844404"/>
+    <pt x="21" y="-1.7112530628472233"/>
+    <pt x="22" y="-1.7401125098147148"/>
+    <pt x="23" y="-1.7688499400502349"/>
+    <pt x="24" y="-1.7974463009017474"/>
+    <pt x="25" y="-1.8258833793949041"/>
+    <pt x="26" y="-1.8541438911701738"/>
+    <pt x="27" y="-1.8822115569631357"/>
+    <pt x="28" y="-1.9100711665815409"/>
+    <pt x="29" y="-1.9377086299582391"/>
+    <pt x="30" y="-1.9377086299582391"/>
+    <pt x="31" y="-1.9377086299582391"/>
+    <pt x="32" y="-1.9377086299582391"/>
+    <pt x="33" y="-1.9377086299582391"/>
+    <pt x="34" y="-1.9377086299582391"/>
+    <pt x="35" y="-1.9377086299582391"/>
+    <pt x="36" y="-1.9377086299582391"/>
+    <pt x="37" y="-1.9377086299582391"/>
+    <pt x="38" y="-1.9377086299582391"/>
+    <pt x="39" y="-1.9377086299582391"/>
+    <pt x="40" y="-1.9377086299582391"/>
+    <pt x="41" y="-1.9377086299582391"/>
+    <pt x="42" y="-1.9377086299582391"/>
+    <pt x="43" y="-1.9377086299582391"/>
+    <pt x="44" y="-1.9377086299582391"/>
+    <pt x="45" y="-1.9377086299582391"/>
+    <pt x="46" y="-1.9377086299582391"/>
+    <pt x="47" y="-1.9377086299582391"/>
+    <pt x="48" y="-1.9377086299582391"/>
+    <pt x="49" y="-1.9377086299582391"/>
+    <pt x="50" y="-1.9377086299582391"/>
+    <pt x="51" y="-1.9377086299582391"/>
+    <pt x="52" y="-1.9377086299582391"/>
+    <pt x="53" y="-1.9377086299582391"/>
+    <pt x="54" y="-1.9377086299582391"/>
+    <pt x="55" y="-1.9377086299582391"/>
+    <pt x="56" y="-1.9377086299582391"/>
+    <pt x="57" y="-1.9377086299582391"/>
+    <pt x="58" y="-1.9377086299582391"/>
+    <pt x="59" y="-1.9377086299582391"/>
+    <pt x="60" y="-1.9377086299582391"/>
+    <pt x="61" y="-1.8905919488812339"/>
+    <pt x="62" y="-1.8428619396628563"/>
+    <pt x="63" y="-1.7945935390149081"/>
+    <pt x="64" y="-1.7458703782048328"/>
+    <pt x="65" y="-1.6967837422905316"/>
+    <pt x="66" y="-1.6474312409636087"/>
+    <pt x="67" y="-1.597915228040198"/>
+    <pt x="68" y="-1.5483410249691167"/>
+    <pt x="69" y="-1.4988150185901981"/>
+    <pt x="70" y="-1.4494427129937795"/>
+    <pt x="71" y="-1.4494427129937795"/>
+    <pt x="72" y="-1.4494427129937795"/>
+    <pt x="73" y="-1.4494427129937795"/>
+    <pt x="74" y="-1.4494427129937795"/>
+    <pt x="75" y="-1.4494427129937795"/>
+    <pt x="76" y="-1.4494427129937795"/>
+    <pt x="77" y="-1.4494427129937795"/>
+    <pt x="78" y="-1.4494427129937795"/>
+    <pt x="79" y="-1.4494427129937795"/>
+    <pt x="80" y="-1.4494427129937795"/>
+   </linear>
+   <linear name="DEFORM-OFFSET-X-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="1.311836935021063"/>
+    <pt x="2" y="1.311836935021063"/>
+    <pt x="3" y="1.311836935021063"/>
+    <pt x="4" y="1.311836935021063"/>
+    <pt x="5" y="1.311836935021063"/>
+    <pt x="6" y="1.311836935021063"/>
+    <pt x="7" y="1.311836935021063"/>
+    <pt x="8" y="1.311836935021063"/>
+    <pt x="9" y="1.311836935021063"/>
+    <pt x="10" y="1.311836935021063"/>
+    <pt x="11" y="1.311836935021063"/>
+    <pt x="12" y="1.311836935021063"/>
+    <pt x="13" y="1.3021074590546404"/>
+    <pt x="14" y="1.2906179567451153"/>
+    <pt x="15" y="1.2773994970806357"/>
+    <pt x="16" y="1.2624890526402281"/>
+    <pt x="17" y="1.2459285075360338"/>
+    <pt x="18" y="1.2277626434623161"/>
+    <pt x="19" y="1.2080429884208899"/>
+    <pt x="20" y="1.1868228667170424"/>
+    <pt x="21" y="1.1641616952975697"/>
+    <pt x="22" y="1.1401230742222066"/>
+    <pt x="23" y="1.1147720067968576"/>
+    <pt x="24" y="1.0881804020616359"/>
+    <pt x="25" y="1.060420166895546"/>
+    <pt x="26" y="1.0315700440130646"/>
+    <pt x="27" y="1.0017080475963462"/>
+    <pt x="28" y="0.97091784675436932"/>
+    <pt x="29" y="0.93928580500971259"/>
+    <pt x="30" y="0.93928580500971259"/>
+    <pt x="31" y="0.93928580500971259"/>
+    <pt x="32" y="0.93928580500971259"/>
+    <pt x="33" y="0.93928580500971259"/>
+    <pt x="34" y="0.93928580500971259"/>
+    <pt x="35" y="0.93928580500971259"/>
+    <pt x="36" y="0.93928580500971259"/>
+    <pt x="37" y="0.93928580500971259"/>
+    <pt x="38" y="0.93928580500971259"/>
+    <pt x="39" y="0.93928580500971259"/>
+    <pt x="40" y="0.93928580500971259"/>
+    <pt x="41" y="0.93928580500971259"/>
+    <pt x="42" y="0.93928580500971259"/>
+    <pt x="43" y="0.93928580500971259"/>
+    <pt x="44" y="0.93928580500971259"/>
+    <pt x="45" y="0.93928580500971259"/>
+    <pt x="46" y="0.93928580500971259"/>
+    <pt x="47" y="0.93928580500971259"/>
+    <pt x="48" y="0.93928580500971259"/>
+    <pt x="49" y="0.93928580500971259"/>
+    <pt x="50" y="0.93928580500971259"/>
+    <pt x="51" y="0.93928580500971259"/>
+    <pt x="52" y="0.93928580500971259"/>
+    <pt x="53" y="0.93928580500971259"/>
+    <pt x="54" y="0.93928580500971259"/>
+    <pt x="55" y="0.93928580500971259"/>
+    <pt x="56" y="0.93928580500971259"/>
+    <pt x="57" y="0.93928580500971259"/>
+    <pt x="58" y="0.93928580500971259"/>
+    <pt x="59" y="0.93928580500971259"/>
+    <pt x="60" y="0.93928580500971259"/>
+    <pt x="61" y="0.9925649197468096"/>
+    <pt x="62" y="1.0432359380317462"/>
+    <pt x="63" y="1.0908933501639813"/>
+    <pt x="64" y="1.1351557637109764"/>
+    <pt x="65" y="1.1756689557131272"/>
+    <pt x="66" y="1.2121087074569945"/>
+    <pt x="67" y="1.2441833991307423"/>
+    <pt x="68" y="1.2716363435973035"/>
+    <pt x="69" y="1.2942478406085578"/>
+    <pt x="70" y="1.311836935021063"/>
+    <pt x="71" y="1.311836935021063"/>
+    <pt x="72" y="1.311836935021063"/>
+    <pt x="73" y="1.311836935021063"/>
+    <pt x="74" y="1.311836935021063"/>
+    <pt x="75" y="1.311836935021063"/>
+    <pt x="76" y="1.311836935021063"/>
+    <pt x="77" y="1.311836935021063"/>
+    <pt x="78" y="1.311836935021063"/>
+    <pt x="79" y="1.311836935021063"/>
+    <pt x="80" y="1.311836935021063"/>
+   </linear>
+   <linear name="DEFORM-OFFSET-Y-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="-0.16792786926523107"/>
+    <pt x="2" y="-0.16792786926523107"/>
+    <pt x="3" y="-0.16792786926523107"/>
+    <pt x="4" y="-0.16792786926523107"/>
+    <pt x="5" y="-0.16792786926523107"/>
+    <pt x="6" y="-0.16792786926523107"/>
+    <pt x="7" y="-0.16792786926523107"/>
+    <pt x="8" y="-0.16792786926523107"/>
+    <pt x="9" y="-0.16792786926523107"/>
+    <pt x="10" y="-0.16792786926523107"/>
+    <pt x="11" y="-0.16792786926523107"/>
+    <pt x="12" y="-0.16792786926523107"/>
+    <pt x="13" y="-0.20164187019016877"/>
+    <pt x="14" y="-0.23479614999800358"/>
+    <pt x="15" y="-0.26730105555157468"/>
+    <pt x="16" y="-0.29906542564665739"/>
+    <pt x="17" y="-0.33000024872274469"/>
+    <pt x="18" y="-0.36002187331907898"/>
+    <pt x="19" y="-0.3890451422242831"/>
+    <pt x="20" y="-0.41699157304866397"/>
+    <pt x="21" y="-0.44378276322090571"/>
+    <pt x="22" y="-0.46934366362937907"/>
+    <pt x="23" y="-0.49360515454282983"/>
+    <pt x="24" y="-0.51649841753661241"/>
+    <pt x="25" y="-0.53796154649003514"/>
+    <pt x="26" y="-0.55793366061355032"/>
+    <pt x="27" y="-0.5763607529223147"/>
+    <pt x="28" y="-0.59319108545196919"/>
+    <pt x="29" y="-0.60837755534991511"/>
+    <pt x="30" y="-0.60837755534991511"/>
+    <pt x="31" y="-0.60837755534991511"/>
+    <pt x="32" y="-0.60837755534991511"/>
+    <pt x="33" y="-0.60837755534991511"/>
+    <pt x="34" y="-0.60837755534991511"/>
+    <pt x="35" y="-0.60837755534991511"/>
+    <pt x="36" y="-0.60837755534991511"/>
+    <pt x="37" y="-0.60837755534991511"/>
+    <pt x="38" y="-0.60837755534991511"/>
+    <pt x="39" y="-0.60837755534991511"/>
+    <pt x="40" y="-0.60837755534991511"/>
+    <pt x="41" y="-0.60837755534991511"/>
+    <pt x="42" y="-0.60837755534991511"/>
+    <pt x="43" y="-0.60837755534991511"/>
+    <pt x="44" y="-0.60837755534991511"/>
+    <pt x="45" y="-0.60837755534991511"/>
+    <pt x="46" y="-0.60837755534991511"/>
+    <pt x="47" y="-0.60837755534991511"/>
+    <pt x="48" y="-0.60837755534991511"/>
+    <pt x="49" y="-0.60837755534991511"/>
+    <pt x="50" y="-0.60837755534991511"/>
+    <pt x="51" y="-0.60837755534991511"/>
+    <pt x="52" y="-0.60837755534991511"/>
+    <pt x="53" y="-0.60837755534991511"/>
+    <pt x="54" y="-0.60837755534991511"/>
+    <pt x="55" y="-0.60837755534991511"/>
+    <pt x="56" y="-0.60837755534991511"/>
+    <pt x="57" y="-0.60837755534991511"/>
+    <pt x="58" y="-0.60837755534991511"/>
+    <pt x="59" y="-0.60837755534991511"/>
+    <pt x="60" y="-0.60837755534991511"/>
+    <pt x="61" y="-0.58157955009074691"/>
+    <pt x="62" y="-0.55012728373351716"/>
+    <pt x="63" y="-0.51427246227395151"/>
+    <pt x="64" y="-0.47430202444755898"/>
+    <pt x="65" y="-0.43053584541813494"/>
+    <pt x="66" y="-0.3833241768828648"/>
+    <pt x="67" y="-0.33304484408028379"/>
+    <pt x="68" y="-0.28010022213286923"/>
+    <pt x="69" y="-0.22491401592199889"/>
+    <pt x="70" y="-0.16792786926523107"/>
+    <pt x="71" y="-0.16792786926523107"/>
+    <pt x="72" y="-0.16792786926523107"/>
+    <pt x="73" y="-0.16792786926523107"/>
+    <pt x="74" y="-0.16792786926523107"/>
+    <pt x="75" y="-0.16792786926523107"/>
+    <pt x="76" y="-0.16792786926523107"/>
+    <pt x="77" y="-0.16792786926523107"/>
+    <pt x="78" y="-0.16792786926523107"/>
+    <pt x="79" y="-0.16792786926523107"/>
+    <pt x="80" y="-0.16792786926523107"/>
+   </linear>
+   <linear name="DEFORM-LENGTH-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="9.0264449925229773"/>
+    <pt x="2" y="9.0264449925229773"/>
+    <pt x="3" y="9.0264449925229773"/>
+    <pt x="4" y="9.0264449925229773"/>
+    <pt x="5" y="9.0264449925229773"/>
+    <pt x="6" y="9.0264449925229773"/>
+    <pt x="7" y="9.0264449925229773"/>
+    <pt x="8" y="9.0264449925229773"/>
+    <pt x="9" y="9.0264449925229773"/>
+    <pt x="10" y="9.0264449925229773"/>
+    <pt x="11" y="9.0264449925229773"/>
+    <pt x="12" y="9.0264449925229773"/>
+    <pt x="13" y="9.0264449925227854"/>
+    <pt x="14" y="9.026444992523226"/>
+    <pt x="15" y="9.0264449925228512"/>
+    <pt x="16" y="9.0264449925228103"/>
+    <pt x="17" y="9.0264449925230199"/>
+    <pt x="18" y="9.0264449925227908"/>
+    <pt x="19" y="9.0264449925232846"/>
+    <pt x="20" y="9.026444992522876"/>
+    <pt x="21" y="9.0264449925227979"/>
+    <pt x="22" y="9.0264449925230608"/>
+    <pt x="23" y="9.0264449925227979"/>
+    <pt x="24" y="9.0264449925233485"/>
+    <pt x="25" y="9.0264449925229044"/>
+    <pt x="26" y="9.0264449925237393"/>
+    <pt x="27" y="9.0264449925231069"/>
+    <pt x="28" y="9.0264449925228103"/>
+    <pt x="29" y="9.0264449925234143"/>
+    <pt x="30" y="9.0264449925234143"/>
+    <pt x="31" y="9.0264449925234143"/>
+    <pt x="32" y="9.0264449925234143"/>
+    <pt x="33" y="9.0264449925234143"/>
+    <pt x="34" y="9.0264449925234143"/>
+    <pt x="35" y="9.0264449925234143"/>
+    <pt x="36" y="9.0264449925234143"/>
+    <pt x="37" y="9.0264449925234143"/>
+    <pt x="38" y="9.0264449925234143"/>
+    <pt x="39" y="9.0264449925234143"/>
+    <pt x="40" y="9.0264449925234143"/>
+    <pt x="41" y="9.0264449925234143"/>
+    <pt x="42" y="9.0264449925234143"/>
+    <pt x="43" y="9.0264449925234143"/>
+    <pt x="44" y="9.0264449925234143"/>
+    <pt x="45" y="9.0264449925234143"/>
+    <pt x="46" y="9.0264449925234143"/>
+    <pt x="47" y="9.0264449925234143"/>
+    <pt x="48" y="9.0264449925234143"/>
+    <pt x="49" y="9.0264449925234143"/>
+    <pt x="50" y="9.0264449925234143"/>
+    <pt x="51" y="9.0264449925234143"/>
+    <pt x="52" y="9.0264449925234143"/>
+    <pt x="53" y="9.0264449925234143"/>
+    <pt x="54" y="9.0264449925234143"/>
+    <pt x="55" y="9.0264449925234143"/>
+    <pt x="56" y="9.0264449925234143"/>
+    <pt x="57" y="9.0264449925234143"/>
+    <pt x="58" y="9.0264449925234143"/>
+    <pt x="59" y="9.0264449925234143"/>
+    <pt x="60" y="9.0264449925234143"/>
+    <pt x="61" y="9.0264449925233574"/>
+    <pt x="62" y="9.0264449925233077"/>
+    <pt x="63" y="9.0264449925232579"/>
+    <pt x="64" y="9.02644499252321"/>
+    <pt x="65" y="9.0264449925231638"/>
+    <pt x="66" y="9.0264449925231247"/>
+    <pt x="67" y="9.0264449925230839"/>
+    <pt x="68" y="9.0264449925230448"/>
+    <pt x="69" y="9.026444992523011"/>
+    <pt x="70" y="9.0264449925229773"/>
+    <pt x="71" y="9.0264449925229773"/>
+    <pt x="72" y="9.0264449925229773"/>
+    <pt x="73" y="9.0264449925229773"/>
+    <pt x="74" y="9.0264449925229773"/>
+    <pt x="75" y="9.0264449925229773"/>
+    <pt x="76" y="9.0264449925229773"/>
+    <pt x="77" y="9.0264449925229773"/>
+    <pt x="78" y="9.0264449925229773"/>
+    <pt x="79" y="9.0264449925229773"/>
+    <pt x="80" y="9.0264449925229773"/>
+   </linear>
+   <linear name="DEFORM-ROTATION-Deformation-arm_l_GameBone_1">
+    <pt x="1" y="-0.25463538344628533"/>
+    <pt x="2" y="-0.25463538344628533"/>
+    <pt x="3" y="-0.25463538344628533"/>
+    <pt x="4" y="-0.25463538344628533"/>
+    <pt x="5" y="-0.25463538344628533"/>
+    <pt x="6" y="-0.25463538344628533"/>
+    <pt x="7" y="-0.25463538344628533"/>
+    <pt x="8" y="-0.25463538344628533"/>
+    <pt x="9" y="-0.25463538344628533"/>
+    <pt x="10" y="-0.25463538344628533"/>
+    <pt x="11" y="-0.25463538344628533"/>
+    <pt x="12" y="-0.25463538344628533"/>
+    <pt x="13" y="-0.30727548008796435"/>
+    <pt x="14" y="-0.35991570563352926"/>
+    <pt x="15" y="-0.41255580227834232"/>
+    <pt x="16" y="-0.46519589892485619"/>
+    <pt x="17" y="-0.51783612446241323"/>
+    <pt x="18" y="-0.57047622113295005"/>
+    <pt x="19" y="-0.62311644664240684"/>
+    <pt x="20" y="-0.67575654330137791"/>
+    <pt x="21" y="-0.72839663992949644"/>
+    <pt x="22" y="-0.78103686549324192"/>
+    <pt x="23" y="-0.83367696209792641"/>
+    <pt x="24" y="-0.88631718767323697"/>
+    <pt x="25" y="-0.93895728430601888"/>
+    <pt x="26" y="-0.99159750985730488"/>
+    <pt x="27" y="-1.0442376065021173"/>
+    <pt x="28" y="-1.0968777031429089"/>
+    <pt x="29" y="-1.1495179286893593"/>
+    <pt x="30" y="-1.1495179286893593"/>
+    <pt x="31" y="-1.1495179286893593"/>
+    <pt x="32" y="-1.1495179286893593"/>
+    <pt x="33" y="-1.1495179286893593"/>
+    <pt x="34" y="-1.1495179286893593"/>
+    <pt x="35" y="-1.1495179286893593"/>
+    <pt x="36" y="-1.1495179286893593"/>
+    <pt x="37" y="-1.1495179286893593"/>
+    <pt x="38" y="-1.1495179286893593"/>
+    <pt x="39" y="-1.1495179286893593"/>
+    <pt x="40" y="-1.1495179286893593"/>
+    <pt x="41" y="-1.1495179286893593"/>
+    <pt x="42" y="-1.1495179286893593"/>
+    <pt x="43" y="-1.1495179286893593"/>
+    <pt x="44" y="-1.1495179286893593"/>
+    <pt x="45" y="-1.1495179286893593"/>
+    <pt x="46" y="-1.1495179286893593"/>
+    <pt x="47" y="-1.1495179286893593"/>
+    <pt x="48" y="-1.1495179286893593"/>
+    <pt x="49" y="-1.1495179286893593"/>
+    <pt x="50" y="-1.1495179286893593"/>
+    <pt x="51" y="-1.1495179286893593"/>
+    <pt x="52" y="-1.1495179286893593"/>
+    <pt x="53" y="-1.1495179286893593"/>
+    <pt x="54" y="-1.1495179286893593"/>
+    <pt x="55" y="-1.1495179286893593"/>
+    <pt x="56" y="-1.1495179286893593"/>
+    <pt x="57" y="-1.1495179286893593"/>
+    <pt x="58" y="-1.1495179286893593"/>
+    <pt x="59" y="-1.1495179286893593"/>
+    <pt x="60" y="-1.1495179286893593"/>
+    <pt x="61" y="-1.0600296741352788"/>
+    <pt x="62" y="-0.97054141964476448"/>
+    <pt x="63" y="-0.88105316511985632"/>
+    <pt x="64" y="-0.79156491059923928"/>
+    <pt x="65" y="-0.70207665606782266"/>
+    <pt x="66" y="-0.61258840153641092"/>
+    <pt x="67" y="-0.52310014701579477"/>
+    <pt x="68" y="-0.433611892490888"/>
+    <pt x="69" y="-0.34412363800036916"/>
+    <pt x="70" y="-0.25463538344628533"/>
+    <pt x="71" y="-0.25463538344628533"/>
+    <pt x="72" y="-0.25463538344628533"/>
+    <pt x="73" y="-0.25463538344628533"/>
+    <pt x="74" y="-0.25463538344628533"/>
+    <pt x="75" y="-0.25463538344628533"/>
+    <pt x="76" y="-0.25463538344628533"/>
+    <pt x="77" y="-0.25463538344628533"/>
+    <pt x="78" y="-0.25463538344628533"/>
+    <pt x="79" y="-0.25463538344628533"/>
+    <pt x="80" y="-0.25463538344628533"/>
+   </linear>
+   <bezier name="ATV-0A57D2059FE0B86C">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B869">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86A">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86B">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86D">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86E">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B86F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B872">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE0B870" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-2.997923441813775" y="2.5268731261894644" z="0"/>
+    <pt lockedInTime="80" x="-2.997923441813775" y="2.5268731261894644" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE0B870_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B873">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B874">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B875">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-hand_l-P">
+    <pt x="5.75355144432383" y="-1.8892258473899146" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0B879">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B876">
+    <pt x="1" y="5.0626169922907138e-14" lx="1" constSeg="false" ly="5.0626169922907138e-14" ry="5.0626169922907138e-14" rx="1"/>
+    <pt x="80" y="5.0626169922907138e-14" lx="80" constSeg="false" ly="5.0626169922907138e-14" ry="5.0626169922907138e-14" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B877">
+    <pt x="1" y="-8.5265128291212022e-14" lx="1" constSeg="false" ly="-8.5265128291212022e-14" ry="-8.5265128291212022e-14" rx="1"/>
+    <pt x="80" y="-8.5265128291212022e-14" lx="80" constSeg="false" ly="-8.5265128291212022e-14" ry="-8.5265128291212022e-14" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B878">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B87A">
+    <pt x="1" y="3.4974189594288467" lx="1" constSeg="false" ly="3.4974189594288467" ry="3.4974189594288467" rx="1"/>
+    <pt x="80" y="3.4974189594288467" lx="80" constSeg="false" ly="3.4974189594288467" ry="3.4974189594288467" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B87B">
+    <pt x="1" y="3.4974189594288982" lx="1" constSeg="false" ly="3.4974189594288982" ry="3.4974189594288982" rx="1"/>
+    <pt x="80" y="3.4974189594288982" lx="80" constSeg="false" ly="3.4974189594288982" ry="3.4974189594288982" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0B87C">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C0C9">
+    <pt x="28" y="-0.40073744478458873" lx="28" constSeg="false" ly="-0.40073744478458873" ry="-0.40073744478458873" rx="28"/>
+    <pt x="60" y="-0.40073744478458873" lx="60" constSeg="false" ly="-0.40073744478458873" ry="-0.40073744478458873" rx="60"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE4C0B6" scaleX="1.3333333333333333">
+    <pt lockedInTime="28" x="13.363015620195398" y="-1.914708125929744" z="0"/>
+    <pt lockedInTime="60" x="13.363015620195398" y="-1.914708125929744" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE4C0B6_velocity">
+    <pt x="28" y="0" lx="28" constSeg="false" ly="0" ry="0" rx="28"/>
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C358">
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C359">
+    <pt x="60" y="1" lx="60" constSeg="false" ly="1" ry="1" rx="60"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE4C35A">
+    <pt x="60" y="0" lx="60" constSeg="false" ly="0" ry="0" rx="60"/>
+   </bezier>
+   <pivot name="PIVOT-TV-hand_l_1-P">
+    <pt x="-6.8329291374990824" y="18.149753688545857" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-brosche-P">
+    <pt x="1.0304868258490474" y="13.911572148962094" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-oberk_rper-P">
+    <pt x="-1.545730238773567" y="-0.085873902154085135" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-Peg_2">
+    <pt x="-1.5527306244060179" y="5.8007672383470208" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-arm_r-P">
+    <pt x="-6.5264165637106082" y="16.401915311430617" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-hand_r-P">
+    <pt x="-6.7840382701728723" y="-2.4044692603144395" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-bein_l-P">
+    <pt x="1.7174780430817373" y="-3.7784516947798292" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-schuh_r-P">
+    <pt x="3.2202712827924871" y="-31.021946690900883" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE0960B">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="20" y="0.034906555555555552" lx="20" constSeg="false" ly="0.034906555555555552" ry="0.034906555555555552" rx="20"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="60" y="-0.04072431481504668" lx="60" constSeg="false" ly="-0.04072431481504668" ry="-0.04072431481504668" rx="60"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <catmull scaleZ="0.22222222222222221" scaleY="1" name="ATV-0A57D2059FE09609" scaleX="1.3333333333333333">
+    <pt lockedInTime="1" x="-2.4359953160555419" y="3.400983544035598" z="0"/>
+    <pt lockedInTime="40" x="-2.4359953160555419" y="3.400983544035598" z="0"/>
+    <pt lockedInTime="80" x="-2.4359953160555419" y="3.400983544035598" z="0"/>
+   </catmull>
+   <bezier name="ATV-0A57D2059FE09609_velocity">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0.49367088607595155" lx="40" constSeg="false" ly="0.49367088607595155" ry="0.49367088607595155" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960C">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="40" y="0.27292859819565513" lx="40" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="40"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960D">
+    <pt x="1" y="0.27292859819565513" lx="1" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="1"/>
+    <pt x="40" y="0.27292859819565513" lx="40" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="40"/>
+    <pt x="80" y="0.27292859819565513" lx="80" constSeg="false" ly="0.27292859819565513" ry="0.27292859819565513" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960E">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-schwanz-P">
+    <pt x="4.7230646184747833" y="-3.091460477547133" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-0A57D2059FE09612">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE0960F">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09610">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09611">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09613">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09614">
+    <pt x="1" y="1" lx="1" constSeg="false" ly="1" ry="1" rx="1"/>
+    <pt x="40" y="1" lx="40" constSeg="false" ly="1" ry="1" rx="40"/>
+    <pt x="80" y="1" lx="80" constSeg="false" ly="1" ry="1" rx="80"/>
+   </bezier>
+   <bezier name="ATV-0A57D2059FE09615">
+    <pt x="1" y="0" lx="1" constSeg="false" ly="0" ry="0" rx="1"/>
+    <pt x="40" y="0" lx="40" constSeg="false" ly="0" ry="0" rx="40"/>
+    <pt x="80" y="0" lx="80" constSeg="false" ly="0" ry="0" rx="80"/>
+   </bezier>
+   <pivot name="PIVOT-TV-bein_r-P">
+    <pt x="-4.6157221720025596" y="-4.8304069241887273" z="0" start="1"/>
+   </pivot>
+   <pivot name="PIVOT-TV-schuh_l-P">
+    <pt x="-3.1129289066994072" y="-29.733838177783909" z="0" start="1"/>
+   </pivot>
+  </timedvalues>
+ </animation>
+</animations>

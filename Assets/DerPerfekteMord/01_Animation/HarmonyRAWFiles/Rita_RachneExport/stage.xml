@@ -1,0 +1,35 @@
+<stages>
+ <stage name="Rita_Rachne_idle">
+  <node groupId="0" drwId="1" skinId="0" name="tasterlunten"/>
+  <node groupId="0" drwId="2" skinId="0" name="handl2"/>
+  <node groupId="0" drwId="3" skinId="0" name="unterarml2"/>
+  <node groupId="0" drwId="4" skinId="0" name="brille_1"/>
+  <node groupId="0" drwId="5" skinId="0" name="brillenglas_1"/>
+  <node groupId="0" drwId="6" skinId="0" name="tasterloben"/>
+  <node groupId="0" drwId="7" skinId="0" name="Ebene37"/>
+  <node groupId="0" drwId="8" skinId="0" name="augegeschr"/>
+  <node groupId="0" drwId="9" skinId="0" name="oberarml"/>
+  <node groupId="0" drwId="10" skinId="0" name="augenr"/>
+  <node groupId="0" drwId="11" skinId="0" name="augegeschl"/>
+  <node groupId="0" drwId="12" skinId="0" name="augenl"/>
+  <node groupId="0" drwId="13" skinId="0" name="kopfbase"/>
+  <node groupId="0" drwId="14" skinId="0" name="Ebene37_2"/>
+  <node groupId="0" drwId="15" skinId="0" name="tasterrunten"/>
+  <node groupId="0" drwId="16" skinId="0" name="tasterroben"/>
+  <node groupId="0" drwId="17" skinId="0" name="handl"/>
+  <node groupId="0" drwId="18" skinId="0" name="unterarml"/>
+  <node groupId="0" drwId="19" skinId="0" name="oberarml2"/>
+  <node groupId="0" drwId="20" skinId="0" name="handr1"/>
+  <node groupId="0" drwId="21" skinId="0" name="unterarmr1"/>
+  <node groupId="0" drwId="22" skinId="0" name="oberarmr1"/>
+  <node groupId="0" drwId="23" skinId="0" name="armr2"/>
+  <node groupId="0" drwId="24" skinId="0" name="oberk_rper"/>
+  <node groupId="0" drwId="25" skinId="0" name="fussl"/>
+  <node groupId="0" drwId="26" skinId="0" name="wadel"/>
+  <node groupId="0" drwId="27" skinId="0" name="oberschenkell"/>
+  <node groupId="0" drwId="28" skinId="0" name="beinm"/>
+  <node groupId="0" drwId="29" skinId="0" name="beinr"/>
+  <node groupId="0" drwId="30" skinId="0" name="h_ngematte"/>
+  <play drawingAnimation="idle_Top" animation="idle_Top" skeleton="Top" name="Top"/>
+ </stage>
+</stages>

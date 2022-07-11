@@ -1,0 +1,26 @@
+<stages>
+ <stage name="Thomas_Gruenfeld_thomas_idle">
+  <node drwId="1" skinId="0" name="ohr_l" groupId="0"/>
+  <node drwId="2" skinId="0" name="Ebene_26" groupId="0"/>
+  <node drwId="3" skinId="0" name="Ebene_25" groupId="0"/>
+  <node drwId="4" skinId="0" name="auge_r_gesch" groupId="0"/>
+  <node drwId="5" skinId="0" name="Aus_Auswahl" groupId="0"/>
+  <node drwId="6" skinId="0" name="Aus_Auswahl_2" groupId="0"/>
+  <node drwId="7" skinId="0" name="Aus_Auswahl_3" groupId="0"/>
+  <node drwId="8" skinId="0" name="auge_l_gesch" groupId="0"/>
+  <node drwId="9" skinId="0" name="Ebene_24" groupId="0"/>
+  <node drwId="10" skinId="0" name="Ebene_24_2" groupId="0"/>
+  <node drwId="11" skinId="0" name="Ebene_23" groupId="0"/>
+  <node drwId="12" skinId="0" name="mund" groupId="0"/>
+  <node drwId="13" skinId="0" name="kopfbase_" groupId="0"/>
+  <node drwId="14" skinId="0" name="ohr_r" groupId="0"/>
+  <node drwId="15" skinId="0" name="oberarm_l" groupId="0"/>
+  <node drwId="16" skinId="0" name="unterarm_l" groupId="0"/>
+  <node drwId="17" skinId="0" name="k_rper" groupId="0"/>
+  <node drwId="18" skinId="0" name="schwanz" groupId="0"/>
+  <node drwId="19" skinId="0" name="oberarm_r" groupId="0"/>
+  <node drwId="20" skinId="0" name="hand_r" groupId="0"/>
+  <node drwId="21" skinId="0" name="unterarm_r" groupId="0"/>
+  <play drawingAnimation="thomas_idle_Top" name="Top" skeleton="Top" animation="thomas_idle_Top"/>
+ </stage>
+</stages>

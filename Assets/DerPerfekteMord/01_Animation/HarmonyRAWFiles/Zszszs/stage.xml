@@ -1,0 +1,24 @@
+<stages>
+ <stage name="Reiners_Date_ishe_idle">
+  <node name="4" drwId="1" skinId="0" groupId="0"/>
+  <node name="3" drwId="2" skinId="0" groupId="0"/>
+  <node name="2" drwId="3" skinId="0" groupId="0"/>
+  <node name="1" drwId="4" skinId="0" groupId="0"/>
+  <node name="augen_highlight_" drwId="5" skinId="0" groupId="0"/>
+  <node name="pupillen" drwId="6" skinId="0" groupId="0"/>
+  <node name="augen" drwId="7" skinId="0" groupId="0"/>
+  <node name="oberkopf" drwId="8" skinId="0" groupId="0"/>
+  <node name="zunge" drwId="9" skinId="0" groupId="0"/>
+  <node name="schmuck" drwId="10" skinId="0" groupId="0"/>
+  <node name="hand_r" drwId="11" skinId="0" groupId="0"/>
+  <node name="unterarm_r" drwId="12" skinId="0" groupId="0"/>
+  <node name="oberarm_r" drwId="13" skinId="0" groupId="0"/>
+  <node name="brustkorb" drwId="14" skinId="0" groupId="0"/>
+  <node name="k_rper" drwId="15" skinId="0" groupId="0"/>
+  <node name="hand_l" drwId="16" skinId="0" groupId="0"/>
+  <node name="unteram_l" drwId="17" skinId="0" groupId="0"/>
+  <node name="oberarm_l" drwId="18" skinId="0" groupId="0"/>
+  <node name="schwanz" drwId="19" skinId="0" groupId="0"/>
+  <play name="Top" skeleton="Top_1" animation="ishe_idle_Top" drawingAnimation="ishe_idle_Top"/>
+ </stage>
+</stages>
