@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 366925878832830008}
   - component: {fileID: 366925878832830009}
   - component: {fileID: 366925878832830010}
+  - component: {fileID: 6937282262970732134}
   - component: {fileID: 5535619986711704330}
   m_Layer: 0
   m_Name: Player_Lucie
@@ -333,6 +334,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &6937282262970732134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 366925878832830011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec24addacf0f943ec9d49ef8b23addaa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundType: 3
+  playWhilePaused: 0
+  relativeVolume: 1
+  surviveSceneChange: 0
 --- !u!114 &5535619986711704330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -602,7 +619,7 @@ MonoBehaviour:
   Material: {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   Color: {r: 1, g: 1, b: 1, a: 1}
   DiscretizationStep: 4
-  CurrentClipIndex: 0
+  CurrentClipIndex: 1
   CurrentFrame: 1
   AnimationSettings:
     FrameRate: 30
