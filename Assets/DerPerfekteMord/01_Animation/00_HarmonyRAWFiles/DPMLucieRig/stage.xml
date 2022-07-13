@@ -1,0 +1,134 @@
+<stages>
+ <stage name="Lucie Neu_lucie_idle">
+  <node groupId="0" name="Lucie_EyeBackOpen_1" drwId="1" skinId="0"/>
+  <node groupId="0" name="Lucie_EyeFrontOpen_1" drwId="2" skinId="0"/>
+  <node groupId="0" name="Lucie_Mouth_1" drwId="3" skinId="0"/>
+  <node groupId="0" name="Lucie_Chin_1" drwId="4" skinId="0"/>
+  <node groupId="0" name="Lucie_Nose_1" drwId="5" skinId="0"/>
+  <node groupId="0" name="Lucie_EarFront_1" drwId="6" skinId="0"/>
+  <node groupId="0" name="Lucie_Head_1" drwId="7" skinId="0"/>
+  <node groupId="0" name="Lucie_EarBack_1" drwId="8" skinId="0"/>
+  <node groupId="0" name="Lucie_Neck_1" drwId="9" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmFront_1" drwId="10" skinId="0"/>
+  <node groupId="0" name="Lucie_HandFront_1" drwId="11" skinId="0"/>
+  <node groupId="0" name="Lucie_Hoodie_1" drwId="12" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmBack_1" drwId="13" skinId="0"/>
+  <node groupId="0" name="Lucie_HandBack_1" drwId="14" skinId="0"/>
+  <node groupId="0" name="Lucie_FootFront_1" drwId="15" skinId="0"/>
+  <node groupId="0" name="Lucie_LegFront_1" drwId="16" skinId="0"/>
+  <node groupId="0" name="Lucie_Tail_1" drwId="17" skinId="0"/>
+  <node groupId="0" name="Lucie_FootBack_1" drwId="18" skinId="0"/>
+  <node groupId="0" name="Lucie_LegBack_1" drwId="19" skinId="0"/>
+  <play skeleton="Top" name="Top" animation="lucie_idle_Top" drawingAnimation="lucie_idle_Top"/>
+ </stage>
+ <stage name="Lucie Neu_lucie_walk">
+  <node groupId="0" name="Lucie_EyeBackOpen_1" drwId="1" skinId="0"/>
+  <node groupId="0" name="Lucie_EyeFrontOpen_1" drwId="2" skinId="0"/>
+  <node groupId="0" name="Lucie_Mouth_1" drwId="3" skinId="0"/>
+  <node groupId="0" name="Lucie_Chin_1" drwId="4" skinId="0"/>
+  <node groupId="0" name="Lucie_Nose_1" drwId="5" skinId="0"/>
+  <node groupId="0" name="Lucie_EarFront_1" drwId="6" skinId="0"/>
+  <node groupId="0" name="Lucie_Head_1" drwId="7" skinId="0"/>
+  <node groupId="0" name="Lucie_EarBack_1" drwId="8" skinId="0"/>
+  <node groupId="0" name="Lucie_Neck_1" drwId="9" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmFront_1" drwId="10" skinId="0"/>
+  <node groupId="0" name="Lucie_HandFront_1" drwId="11" skinId="0"/>
+  <node groupId="0" name="Lucie_Hoodie_1" drwId="12" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmBack_1" drwId="13" skinId="0"/>
+  <node groupId="0" name="Lucie_HandBack_1" drwId="14" skinId="0"/>
+  <node groupId="0" name="Lucie_FootFront_1" drwId="15" skinId="0"/>
+  <node groupId="0" name="Lucie_LegFront_1" drwId="16" skinId="0"/>
+  <node groupId="0" name="Lucie_Tail_1" drwId="17" skinId="0"/>
+  <node groupId="0" name="Lucie_FootBack_1" drwId="18" skinId="0"/>
+  <node groupId="0" name="Lucie_LegBack_1" drwId="19" skinId="0"/>
+  <play skeleton="Top_1" name="Top" animation="lucie_walk_Top" drawingAnimation="lucie_walk_Top"/>
+ </stage>
+ <stage name="Lucie Neu_lucie_take_item">
+  <node groupId="0" name="Lucie_EyeBackOpen_1" drwId="1" skinId="0"/>
+  <node groupId="0" name="Lucie_EyeFrontOpen_1" drwId="2" skinId="0"/>
+  <node groupId="0" name="Lucie_Mouth_1" drwId="3" skinId="0"/>
+  <node groupId="0" name="Lucie_Chin_1" drwId="4" skinId="0"/>
+  <node groupId="0" name="Lucie_Nose_1" drwId="5" skinId="0"/>
+  <node groupId="0" name="Lucie_EarFront_1" drwId="6" skinId="0"/>
+  <node groupId="0" name="Lucie_Head_1" drwId="7" skinId="0"/>
+  <node groupId="0" name="Lucie_EarBack_1" drwId="8" skinId="0"/>
+  <node groupId="0" name="Lucie_Neck_1" drwId="9" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmFront_1" drwId="10" skinId="0"/>
+  <node groupId="0" name="Lucie_HandFront_1" drwId="11" skinId="0"/>
+  <node groupId="0" name="Lucie_Hoodie_1" drwId="12" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmBack_1" drwId="13" skinId="0"/>
+  <node groupId="0" name="Lucie_HandBack_1" drwId="14" skinId="0"/>
+  <node groupId="0" name="Lucie_FootFront_1" drwId="15" skinId="0"/>
+  <node groupId="0" name="Lucie_LegFront_1" drwId="16" skinId="0"/>
+  <node groupId="0" name="Lucie_Tail_1" drwId="17" skinId="0"/>
+  <node groupId="0" name="Lucie_FootBack_1" drwId="18" skinId="0"/>
+  <node groupId="0" name="Lucie_LegBack_1" drwId="19" skinId="0"/>
+  <play skeleton="Top_2" name="Top" animation="lucie_take_item_Top" drawingAnimation="lucie_take_item_Top"/>
+ </stage>
+ <stage name="Lucie Neu_lucie_item_putin">
+  <node groupId="0" name="Lucie_EyeBackOpen_1" drwId="1" skinId="0"/>
+  <node groupId="0" name="Lucie_EyeFrontOpen_1" drwId="2" skinId="0"/>
+  <node groupId="0" name="Lucie_Mouth_1" drwId="3" skinId="0"/>
+  <node groupId="0" name="Lucie_Chin_1" drwId="4" skinId="0"/>
+  <node groupId="0" name="Lucie_Nose_1" drwId="5" skinId="0"/>
+  <node groupId="0" name="Lucie_EarFront_1" drwId="6" skinId="0"/>
+  <node groupId="0" name="Lucie_Head_1" drwId="7" skinId="0"/>
+  <node groupId="0" name="Lucie_EarBack_1" drwId="8" skinId="0"/>
+  <node groupId="0" name="Lucie_Neck_1" drwId="9" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmFront_1" drwId="10" skinId="0"/>
+  <node groupId="0" name="Lucie_HandFront_1" drwId="11" skinId="0"/>
+  <node groupId="0" name="Lucie_Hoodie_1" drwId="12" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmBack_1" drwId="13" skinId="0"/>
+  <node groupId="0" name="Lucie_HandBack_1" drwId="14" skinId="0"/>
+  <node groupId="0" name="Lucie_FootFront_1" drwId="15" skinId="0"/>
+  <node groupId="0" name="Lucie_LegFront_1" drwId="16" skinId="0"/>
+  <node groupId="0" name="Lucie_Tail_1" drwId="17" skinId="0"/>
+  <node groupId="0" name="Lucie_FootBack_1" drwId="18" skinId="0"/>
+  <node groupId="0" name="Lucie_LegBack_1" drwId="19" skinId="0"/>
+  <play skeleton="Top_3" name="Top" animation="lucie_item_putin_Top" drawingAnimation="lucie_item_putin_Top"/>
+ </stage>
+ <stage name="Lucie Neu_lucie_combine">
+  <node groupId="0" name="Lucie_EyeBackOpen_1" drwId="1" skinId="0"/>
+  <node groupId="0" name="Lucie_EyeFrontOpen_1" drwId="2" skinId="0"/>
+  <node groupId="0" name="Lucie_Mouth_1" drwId="3" skinId="0"/>
+  <node groupId="0" name="Lucie_Chin_1" drwId="4" skinId="0"/>
+  <node groupId="0" name="Lucie_Nose_1" drwId="5" skinId="0"/>
+  <node groupId="0" name="Lucie_EarFront_1" drwId="6" skinId="0"/>
+  <node groupId="0" name="Lucie_Head_1" drwId="7" skinId="0"/>
+  <node groupId="0" name="Lucie_EarBack_1" drwId="8" skinId="0"/>
+  <node groupId="0" name="Lucie_Neck_1" drwId="9" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmFront_1" drwId="10" skinId="0"/>
+  <node groupId="0" name="Lucie_HandFront_1" drwId="11" skinId="0"/>
+  <node groupId="0" name="Lucie_Hoodie_1" drwId="12" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmBack_1" drwId="13" skinId="0"/>
+  <node groupId="0" name="Lucie_HandBack_1" drwId="14" skinId="0"/>
+  <node groupId="0" name="Lucie_FootFront_1" drwId="15" skinId="0"/>
+  <node groupId="0" name="Lucie_LegFront_1" drwId="16" skinId="0"/>
+  <node groupId="0" name="Lucie_Tail_1" drwId="17" skinId="0"/>
+  <node groupId="0" name="Lucie_FootBack_1" drwId="18" skinId="0"/>
+  <node groupId="0" name="Lucie_LegBack_1" drwId="19" skinId="0"/>
+  <play skeleton="Top_4" name="Top" animation="lucie_combine_Top" drawingAnimation="lucie_combine_Top"/>
+ </stage>
+ <stage name="Lucie Neu_lucie_put_item">
+  <node groupId="0" name="Lucie_EyeBackOpen_1" drwId="1" skinId="0"/>
+  <node groupId="0" name="Lucie_EyeFrontOpen_1" drwId="2" skinId="0"/>
+  <node groupId="0" name="Lucie_Mouth_1" drwId="3" skinId="0"/>
+  <node groupId="0" name="Lucie_Chin_1" drwId="4" skinId="0"/>
+  <node groupId="0" name="Lucie_Nose_1" drwId="5" skinId="0"/>
+  <node groupId="0" name="Lucie_EarFront_1" drwId="6" skinId="0"/>
+  <node groupId="0" name="Lucie_Head_1" drwId="7" skinId="0"/>
+  <node groupId="0" name="Lucie_EarBack_1" drwId="8" skinId="0"/>
+  <node groupId="0" name="Lucie_Neck_1" drwId="9" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmFront_1" drwId="10" skinId="0"/>
+  <node groupId="0" name="Lucie_HandFront_1" drwId="11" skinId="0"/>
+  <node groupId="0" name="Lucie_Hoodie_1" drwId="12" skinId="0"/>
+  <node groupId="0" name="Lucie_ArmBack_1" drwId="13" skinId="0"/>
+  <node groupId="0" name="Lucie_HandBack_1" drwId="14" skinId="0"/>
+  <node groupId="0" name="Lucie_FootFront_1" drwId="15" skinId="0"/>
+  <node groupId="0" name="Lucie_LegFront_1" drwId="16" skinId="0"/>
+  <node groupId="0" name="Lucie_Tail_1" drwId="17" skinId="0"/>
+  <node groupId="0" name="Lucie_FootBack_1" drwId="18" skinId="0"/>
+  <node groupId="0" name="Lucie_LegBack_1" drwId="19" skinId="0"/>
+  <play skeleton="Top_5" name="Top" animation="lucie_put_item_Top" drawingAnimation="lucie_put_item_Top"/>
+ </stage>
+</stages>

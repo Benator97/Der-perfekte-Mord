@@ -1,0 +1,61 @@
+<stages>
+ <stage name="Reiner_Reibach_reiner_idle">
+  <node drwId="1" name="ohr_l" skinId="0" groupId="0"/>
+  <node drwId="2" name="auge_geschlossen_r" skinId="0" groupId="0"/>
+  <node drwId="3" name="Ebene_27" skinId="0" groupId="0"/>
+  <node drwId="4" name="pupille" skinId="0" groupId="0"/>
+  <node drwId="5" name="auge_r" skinId="0" groupId="0"/>
+  <node drwId="6" name="auge_geschlossen_l" skinId="0" groupId="0"/>
+  <node drwId="7" name="Ebene_26" skinId="0" groupId="0"/>
+  <node drwId="8" name="pupille_2" skinId="0" groupId="0"/>
+  <node drwId="9" name="auge_l" skinId="0" groupId="0"/>
+  <node drwId="10" name="Bild_eingef_gt" skinId="0" groupId="0"/>
+  <node drwId="11" name="Ebene_9" skinId="0" groupId="0"/>
+  <node drwId="12" name="nase" skinId="0" groupId="0"/>
+  <node drwId="13" name="kopf" skinId="0" groupId="0"/>
+  <node drwId="14" name="ohr_r" skinId="0" groupId="0"/>
+  <node drwId="15" name="hals" skinId="0" groupId="0"/>
+  <node drwId="16" name="arm_l" skinId="0" groupId="0"/>
+  <node drwId="17" name="hand_l" skinId="0" groupId="0"/>
+  <node drwId="19" name="brosche" skinId="0" groupId="0"/>
+  <node drwId="20" name="oberk_rper" skinId="0" groupId="0"/>
+  <node drwId="21" name="arm_r" skinId="0" groupId="0"/>
+  <node drwId="22" name="hand_r" skinId="0" groupId="0"/>
+  <node drwId="23" name="bein_l" skinId="0" groupId="0"/>
+  <node drwId="24" name="schuh_r" skinId="0" groupId="0"/>
+  <node drwId="25" name="schwanz" skinId="0" groupId="0"/>
+  <node drwId="26" name="bein_r" skinId="0" groupId="0"/>
+  <node drwId="27" name="schuh_l" skinId="0" groupId="0"/>
+  <play name="Top" skeleton="Top" drawingAnimation="reiner_idle_Top" animation="reiner_idle_Top"/>
+ </stage>
+ <stage name="Reiner_Reibach_reiner_smartw">
+  <node drwId="1" name="ohr_l" skinId="0" groupId="0"/>
+  <node drwId="2" name="auge_geschlossen_r" skinId="0" groupId="0"/>
+  <node drwId="3" name="Ebene_27" skinId="0" groupId="0"/>
+  <node drwId="4" name="pupille" skinId="0" groupId="0"/>
+  <node drwId="5" name="auge_r" skinId="0" groupId="0"/>
+  <node drwId="6" name="auge_geschlossen_l" skinId="0" groupId="0"/>
+  <node drwId="7" name="Ebene_26" skinId="0" groupId="0"/>
+  <node drwId="8" name="pupille_2" skinId="0" groupId="0"/>
+  <node drwId="9" name="auge_l" skinId="0" groupId="0"/>
+  <node drwId="10" name="Bild_eingef_gt" skinId="0" groupId="0"/>
+  <node drwId="11" name="Ebene_9" skinId="0" groupId="0"/>
+  <node drwId="12" name="nase" skinId="0" groupId="0"/>
+  <node drwId="13" name="kopf" skinId="0" groupId="0"/>
+  <node drwId="14" name="ohr_r" skinId="0" groupId="0"/>
+  <node drwId="15" name="hals" skinId="0" groupId="0"/>
+  <node drwId="16" name="arm_l" skinId="0" groupId="0"/>
+  <node drwId="17" name="hand_l" skinId="0" groupId="0"/>
+  <node drwId="18" name="hand_l_1" skinId="0" groupId="0"/>
+  <node drwId="19" name="brosche" skinId="0" groupId="0"/>
+  <node drwId="20" name="oberk_rper" skinId="0" groupId="0"/>
+  <node drwId="21" name="arm_r" skinId="0" groupId="0"/>
+  <node drwId="22" name="hand_r" skinId="0" groupId="0"/>
+  <node drwId="23" name="bein_l" skinId="0" groupId="0"/>
+  <node drwId="24" name="schuh_r" skinId="0" groupId="0"/>
+  <node drwId="25" name="schwanz" skinId="0" groupId="0"/>
+  <node drwId="26" name="bein_r" skinId="0" groupId="0"/>
+  <node drwId="27" name="schuh_l" skinId="0" groupId="0"/>
+  <play name="Top" skeleton="Top_1" drawingAnimation="reiner_smartw_Top" animation="reiner_smartw_Top"/>
+ </stage>
+</stages>

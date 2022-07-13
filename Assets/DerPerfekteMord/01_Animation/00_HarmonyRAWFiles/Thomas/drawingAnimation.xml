@@ -1,0 +1,73 @@
+<drawingAnimations>
+ <drawingAnimation name="thomas_idle_Top" spritesheet="sheet_Top-Thomas_Gruenfeld">
+  <drawing drwId="1" name="5-Thomas_Gruenfeld" node="ohr_l">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-ohr_l.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="2" name="5-Thomas_Gruenfeld" node="Ebene_26">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_26.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="3" name="5-Thomas_Gruenfeld" node="Ebene_25">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_25.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="4" name="5-Thomas_Gruenfeld" node="auge_r_gesch">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-auge_r_gesch.png" frame="34" repeat="2"/>
+  </drawing>
+  <drawing drwId="5" name="5-Thomas_Gruenfeld" node="Aus_Auswahl">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Aus_Auswahl.png" frame="1" repeat="33"/>
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Aus_Auswahl.png" frame="36" repeat="5"/>
+  </drawing>
+  <drawing drwId="6" name="5-Thomas_Gruenfeld" node="Aus_Auswahl_2">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Aus_Auswahl_2.png" frame="1" repeat="33"/>
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Aus_Auswahl_2.png" frame="36" repeat="5"/>
+  </drawing>
+  <drawing drwId="7" name="5-Thomas_Gruenfeld" node="Aus_Auswahl_3">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Aus_Auswahl_3.png" frame="1" repeat="33"/>
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Aus_Auswahl_3.png" frame="36" repeat="5"/>
+  </drawing>
+  <drawing drwId="8" name="5-Thomas_Gruenfeld" node="auge_l_gesch">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-auge_l_gesch.png" frame="34" repeat="2"/>
+  </drawing>
+  <drawing drwId="9" name="5-Thomas_Gruenfeld" node="Ebene_24">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_24.png" frame="1" repeat="33"/>
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_24.png" frame="36" repeat="5"/>
+  </drawing>
+  <drawing drwId="10" name="5-Thomas_Gruenfeld" node="Ebene_24_2">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_24_2.png" frame="1" repeat="33"/>
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_24_2.png" frame="36" repeat="5"/>
+  </drawing>
+  <drawing drwId="11" name="5-Thomas_Gruenfeld" node="Ebene_23">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_23.png" frame="1" repeat="33"/>
+   <drw skinId="0" name="5-Thomas_Gruenfeld-Ebene_23.png" frame="36" repeat="5"/>
+  </drawing>
+  <drawing drwId="12" name="5-Thomas_Gruenfeld" node="mund">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-mund.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="13" name="5-Thomas_Gruenfeld" node="kopfbase_">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-kopfbase_.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="14" name="5-Thomas_Gruenfeld" node="ohr_r">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-ohr_r.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="15" name="5-Thomas_Gruenfeld" node="oberarm_l">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-oberarm_l.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="16" name="5-Thomas_Gruenfeld" node="unterarm_l">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-unterarm_l.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="17" name="5-Thomas_Gruenfeld" node="k_rper">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-k_rper.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="18" name="5-Thomas_Gruenfeld" node="schwanz">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-schwanz.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="19" name="5-Thomas_Gruenfeld" node="oberarm_r">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-oberarm_r.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="20" name="5-Thomas_Gruenfeld" node="hand_r">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-hand_r.png" frame="1" repeat="40"/>
+  </drawing>
+  <drawing drwId="21" name="5-Thomas_Gruenfeld" node="unterarm_r">
+   <drw skinId="0" name="5-Thomas_Gruenfeld-unterarm_r.png" frame="1" repeat="40"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

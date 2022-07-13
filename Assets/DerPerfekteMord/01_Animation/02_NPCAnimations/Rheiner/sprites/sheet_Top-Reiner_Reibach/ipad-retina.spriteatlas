@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ipad-retina
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bc9a61661bda99f489f84daee347b1d9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 491223103b3188a4db494a710748e23c, type: 3}
+  - {fileID: 21300000, guid: 219a9850dbf2f004aaeba9f35c99b5c4, type: 3}
+  - {fileID: 21300000, guid: 5c7cab7116d5a994e81b82dd402b1fa6, type: 3}
+  - {fileID: 21300000, guid: 41e14d71383e5fa4c824aff3382d7440, type: 3}
+  - {fileID: 21300000, guid: b52752c1bb9b96e41a7638410b826f18, type: 3}
+  - {fileID: 21300000, guid: 13a62844e76b15c48986536980b98414, type: 3}
+  - {fileID: 21300000, guid: 7e00a6b4837fd1a4b95c7f904d889f54, type: 3}
+  - {fileID: 21300000, guid: d1c14cb4bbc4b4342a959863cc63d642, type: 3}
+  - {fileID: 21300000, guid: 446c0145b5b4fc648b5a941d729213ae, type: 3}
+  - {fileID: 21300000, guid: 71ebea8566d1e6b40a105c3a1d3ea9c0, type: 3}
+  - {fileID: 21300000, guid: 1e4c9cb5d7631994aa29e817425d0bb2, type: 3}
+  - {fileID: 21300000, guid: c2b3dfa628d860c48b08d115229f98f9, type: 3}
+  - {fileID: 21300000, guid: 45556068b448b0a4297ce5a60f0740b3, type: 3}
+  - {fileID: 21300000, guid: 583da63989064f0439fad62568b5a6e6, type: 3}
+  - {fileID: 21300000, guid: bf94b349f8a83a74d8d2a453cefbe1bc, type: 3}
+  - {fileID: 21300000, guid: 5947dae9d1373bd4f8b967e8b93e9590, type: 3}
+  - {fileID: 21300000, guid: 69bb644ae30c7824eb2aa8e6164bb801, type: 3}
+  - {fileID: 21300000, guid: 230ae64ab0b852045aa951edccd164a3, type: 3}
+  - {fileID: 21300000, guid: e224bf7a123764a48a6f1e91f85f491f, type: 3}
+  - {fileID: 21300000, guid: 8ed4aa8a05b961c4d82fe1f5167f417d, type: 3}
+  - {fileID: 21300000, guid: abbd233b9a4659546b7f10b809fae91f, type: 3}
+  - {fileID: 21300000, guid: e619af8b1dbdfac47971e5b6d1ac512a, type: 3}
+  - {fileID: 21300000, guid: 31b6280c59e40be45be6e04813305ca2, type: 3}
+  - {fileID: 21300000, guid: cf43bb2d2ba6beb43a422adab6ce2da5, type: 3}
+  - {fileID: 21300000, guid: 3c510cbd261d5d647b3e7b8550b2d9a8, type: 3}
+  - {fileID: 21300000, guid: 4d01e13f854670d48951579d97c2625b, type: 3}
+  - {fileID: 21300000, guid: 59e1a77f12645fd408ae506146857c31, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5-Reiner_Reibach-ohr_r
+  - 5-Reiner_Reibach-brosche
+  - 5-Reiner_Reibach-hand_r
+  - 5-Reiner_Reibach-pupille_2
+  - 5-Reiner_Reibach-auge_l
+  - 5-Reiner_Reibach-hand_l
+  - 5-Reiner_Reibach-Ebene_9
+  - 5-Reiner_Reibach-arm_l
+  - 5-Reiner_Reibach-hals
+  - 5-Reiner_Reibach-ohr_l
+  - 5-Reiner_Reibach-pupille
+  - 5-Reiner_Reibach-nase
+  - 5-Reiner_Reibach-arm_r
+  - 5-Reiner_Reibach-Ebene_26
+  - 5-Reiner_Reibach-schwanz
+  - 5-Reiner_Reibach-schuh_l
+  - 5-Reiner_Reibach-Bild_eingef_gt
+  - 5-Reiner_Reibach-kopf
+  - 5-Reiner_Reibach-auge_r
+  - 5-Reiner_Reibach-auge_geschlossen_r
+  - 5-Reiner_Reibach-auge_geschlossen_l
+  - 5-Reiner_Reibach-oberk_rper
+  - 7-Reiner_Reibach-hand_l
+  - 5-Reiner_Reibach-schuh_r
+  - 5-Reiner_Reibach-Ebene_27
+  - 5-Reiner_Reibach-bein_l
+  - 5-Reiner_Reibach-bein_r
+  m_RenderDataMap: {}
+  m_Tag: ipad-retina
+  m_IsVariant: 0

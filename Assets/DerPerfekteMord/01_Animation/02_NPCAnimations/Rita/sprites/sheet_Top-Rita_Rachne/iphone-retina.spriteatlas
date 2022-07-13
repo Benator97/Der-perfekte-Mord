@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: iphone-retina
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 794c190b8538f284daddc65dd6a3b6e1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 77300a405af96bd44bcfcaba0e7d6ece, type: 3}
+  - {fileID: 21300000, guid: e6fba390b89c8b24ea530f1c6f9f2c69, type: 3}
+  - {fileID: 21300000, guid: cce64871d6519c54db06413a3333e8ba, type: 3}
+  - {fileID: 21300000, guid: 17fe5762ad648ec4fa2f91e0a7b643f8, type: 3}
+  - {fileID: 21300000, guid: b4a75172b2babd54e9f2293e129b3257, type: 3}
+  - {fileID: 21300000, guid: b0958553636811d48ba76b577dbef783, type: 3}
+  - {fileID: 21300000, guid: 53de1f7338f7d8840bc784445abf9d0e, type: 3}
+  - {fileID: 21300000, guid: d2b0aa83f4c1efd479773f6a21da454a, type: 3}
+  - {fileID: 21300000, guid: 19275aa34c13087448692ad231e2a6d7, type: 3}
+  - {fileID: 21300000, guid: c07c5ee3d02ef6e449339c411c34bdd9, type: 3}
+  - {fileID: 21300000, guid: 5f2d18244eaf4434390f65436035512a, type: 3}
+  - {fileID: 21300000, guid: 9ee18d2428144cf46bccc102cc5980f7, type: 3}
+  - {fileID: 21300000, guid: f023ec94c4386f34d9674021cfc4da9b, type: 3}
+  - {fileID: 21300000, guid: 0b8dfe3580426d7428f3a421bd973472, type: 3}
+  - {fileID: 21300000, guid: cfce4c8685821cb40885f542c5b004c0, type: 3}
+  - {fileID: 21300000, guid: 7edd8c2726f3357499b3df7a9adc62fb, type: 3}
+  - {fileID: 21300000, guid: 8461d397673051143a776e3c465760d7, type: 3}
+  - {fileID: 21300000, guid: 2a1110a780f24a146ab3f28996437598, type: 3}
+  - {fileID: 21300000, guid: 94bee388dededf34a91731debf114c3b, type: 3}
+  - {fileID: 21300000, guid: b12414881ab06fb4295d6a5491cb8a21, type: 3}
+  - {fileID: 21300000, guid: 74b35799bab48e240a4d7a48bf600777, type: 3}
+  - {fileID: 21300000, guid: 2da4123b5aa7e9944a8c4b4dbf3c220d, type: 3}
+  - {fileID: 21300000, guid: 95b4a7cb92fd2384887fe9051e6a976e, type: 3}
+  - {fileID: 21300000, guid: a16fb7db6b9712a4b9fb435a64ebb70c, type: 3}
+  - {fileID: 21300000, guid: 77470e2cab5249549bae79460320b802, type: 3}
+  - {fileID: 21300000, guid: 81fea84c12a31ce418421d520e28175e, type: 3}
+  - {fileID: 21300000, guid: 961aee6c79009d046b3666fbf8ad6c52, type: 3}
+  - {fileID: 21300000, guid: c187309cd87efb24b802d85b2bdfc746, type: 3}
+  - {fileID: 21300000, guid: a65eab7db23e928439352863603c8c11, type: 3}
+  - {fileID: 21300000, guid: 1434a0dd1f7f25f4293fb591766de91c, type: 3}
+  - {fileID: 21300000, guid: 1cc0015fe3e94a94cb02d7bee07cf5fa, type: 3}
+  - {fileID: 21300000, guid: df7606bffc9ad7c44b3cf4b692225a16, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 5-Rita_Rachne-wadel
+  - 5-Rita_Rachne-tasterlunten
+  - 5-Rita_Rachne-h_ngematte
+  - 5-Rita_Rachne-oberarml2
+  - 5-Rita_Rachne-tasterloben
+  - 5-Rita_Rachne-tasterroben
+  - 5-Rita_Rachne-oberschenkell
+  - 5-Rita_Rachne-oberk_rper
+  - 5-Rita_Rachne-augenl
+  - 5-Rita_Rachne-unterarml
+  - 5-Rita_Rachne-beinr
+  - 5-Rita_Rachne-unterarmr1
+  - 5-Rita_Rachne-Ebene37_2
+  - 5-Rita_Rachne-fussl
+  - 5-Rita_Rachne-kopfbase
+  - 5-Rita_Rachne-beinm
+  - 13-Test2-1
+  - 5-Rita_Rachne-tasterrunten
+  - 11-Rita_Rachne-brillenglas
+  - 5-Rita_Rachne-Ebene37
+  - 5-Rita_Rachne-oberarml
+  - 12-Test1-1
+  - 5-Rita_Rachne-armr2
+  - 5-Rita_Rachne-handr1
+  - 11-Rita_Rachne-brille
+  - 5-Rita_Rachne-augenr
+  - 5-Rita_Rachne-handl2
+  - 5-Rita_Rachne-unterarml2
+  - 5-Rita_Rachne-handl
+  - 5-Rita_Rachne-augegeschl
+  - 5-Rita_Rachne-oberarmr1
+  - 5-Rita_Rachne-augegeschr
+  m_RenderDataMap: {}
+  m_Tag: iphone-retina
+  m_IsVariant: 0

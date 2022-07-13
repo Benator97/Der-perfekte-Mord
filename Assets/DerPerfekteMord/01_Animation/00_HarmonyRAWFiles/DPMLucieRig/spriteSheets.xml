@@ -1,0 +1,87 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet name="sheet_Top-DPMLucieRig" width="2048" filename="spriteSheets/sheet_Top-DPMLucieRig-ipad.png" height="512" resolution="ipad">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="1792,0,255,486" offsetY="80.359795" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="18.092703"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="1648,0,144,444" offsetY="-275.15005" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="80.594765"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="1536,0,112,442" offsetY="-272.5654" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="-17.152822"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="1383,0,153,348" offsetY="96.102798" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="110.67095"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="1245,0,138,346" offsetY="71.665901" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="-52.86829"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="1043,0,202,316" offsetY="355.50986" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="39.709957"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="912,0,131,239" offsetY="-190.56081" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="-121.47958"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="840,0,72,220" offsetY="397.8045" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="112.55071"/>
+  <sprite name="16-IMG_5962-Head.png" rect="626,0,214,199" offsetY="417.77695" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="42.294632"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="565,0,61,128" offsetY="-72.135841" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="133.69803"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="496,0,69,118" offsetY="-102.68196" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="-51.928406"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="371,0,125,90" offsetY="-472.99496" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="13.3933"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="250,0,121,88" offsetY="-463.83112" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="92.578247"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="178,0,72,88" offsetY="463.59613" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="-36.185406"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="148,0,30,35" offsetY="428.35062" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="27.02157"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="121,0,27,34" offsetY="428.5856" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="95.397888"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="84,0,37,29" offsetY="392.87012" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="75.425423"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="26,0,58,28" offsetY="368.90317" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="70.491051"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="0,0,26,19" offsetY="352.22028" angleDegrees="0" scaleX="0.0234375" scaleY="0.0234375" offsetX="73.780632"/>
+ </spritesheet>
+ <spritesheet name="sheet_Top-DPMLucieRig" width="2048" filename="spriteSheets/sheet_Top-DPMLucieRig-ipad-retina.png" height="2048" resolution="ipad-retina">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="1548,467,499,961" offsetY="160.71959" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="36.185406"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="1272,467,276,877" offsetY="-550.30011" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="161.18953"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="1060,467,212,872" offsetY="-545.1308" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="-34.305645"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="766,467,294,684" offsetY="192.2056" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="221.3419"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="502,467,264,680" offsetY="143.3318" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="-105.73658"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="110,467,392,621" offsetY="711.01971" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="79.419914"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="0,467,110,244" offsetY="-144.27168" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="267.39606"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="1796,0,251,467" offsetY="-381.12161" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="-242.95915"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="1663,0,133,428" offsetY="795.60901" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="225.10143"/>
+  <sprite name="16-IMG_5962-Head.png" rect="1247,0,416,387" offsetY="835.55389" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="84.589264"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="1120,0,127,225" offsetY="-205.36392" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="-103.85681"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="882,0,238,168" offsetY="-945.98993" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="26.7866"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="750,0,132,165" offsetY="927.19226" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="-72.370811"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="519,0,231,164" offsetY="-927.66223" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="185.15649"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="471,0,48,59" offsetY="856.70123" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="54.04314"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="428,0,43,57" offsetY="857.1712" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="190.79578"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="365,0,63,47" offsetY="785.74023" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="150.85085"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="260,0,105,45" offsetY="737.80634" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="140.9821"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="220,0,40,27" offsetY="704.44055" angleDegrees="0" scaleX="0.01171875" scaleY="0.01171875" offsetX="147.56126"/>
+ </spritesheet>
+ <spritesheet name="sheet_Top-DPMLucieRig" width="2048" filename="spriteSheets/sheet_Top-DPMLucieRig-iphone.png" height="256" resolution="iphone">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="952,0,126,234" offsetY="37.668655" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="8.4809542"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="879,0,73,214" offsetY="-128.97659" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="37.778797"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="821,0,58,213" offsetY="-127.76503" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="-8.0403852"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="743,0,78,169" offsetY="45.048187" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="51.877007"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="672,0,71,168" offsetY="33.593391" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="-24.782011"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="571,0,101,154" offsetY="166.64525" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="18.614042"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="503,0,68,118" offsetY="-89.325378" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="-56.943554"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="463,0,40,109" offsetY="186.47086" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="52.758144"/>
+  <sprite name="16-IMG_5962-Head.png" rect="357,0,106,100" offsetY="195.83295" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="19.825607"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="322,0,35,66" offsetY="-33.813675" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="62.670952"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="283,0,39,62" offsetY="-48.132172" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="-24.34144"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="218,0,65,48" offsetY="-221.71638" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="6.2781091"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="155,0,63,47" offsetY="-217.42084" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="43.396053"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="115,0,40,47" offsetY="217.3107" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="-16.961908"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="95,0,20,23" offsetY="200.78935" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="12.666361"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="76,0,19,22" offsetY="200.89949" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="44.717762"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="52,0,24,20" offsetY="184.15787" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="35.355667"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="18,0,34,19" offsetY="172.92336" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="33.042679"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="0,0,18,15" offsetY="165.10326" angleDegrees="0" scaleX="0.050000001" scaleY="0.050000001" offsetX="34.584671"/>
+ </spritesheet>
+ <spritesheet name="sheet_Top-DPMLucieRig" width="2048" filename="spriteSheets/sheet_Top-DPMLucieRig-iphone-retina.png" height="1024" resolution="iphone-retina">
+  <sprite name="16-IMG_5962-Hoodie.png" rect="1756,96,282,538" offsetY="89.149155" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="20.071592"/>
+  <sprite name="16-IMG_5962-LegBack.png" rect="1598,96,158,492" offsetY="-305.2446" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="89.409821"/>
+  <sprite name="16-IMG_5962-LegFront.png" rect="1475,96,123,489" offsetY="-302.37723" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="-19.028912"/>
+  <sprite name="16-IMG_5962-ArmBack.png" rect="1307,96,168,384" offsetY="106.61404" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="122.77558"/>
+  <sprite name="16-IMG_5962-ArmFront.png" rect="1155,96,152,382" offsetY="79.504356" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="-58.650757"/>
+  <sprite name="16-IMG_5962-Neck.png" rect="932,96,223,350" offsetY="394.39377" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="44.053234"/>
+  <sprite name="16-IMG_5962-Tail.png" rect="788,96,144,264" offsetY="-211.4034" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="-134.7664"/>
+  <sprite name="16-IMG_5962-EarBack.png" rect="709,96,79,242" offsetY="441.31436" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="124.86095"/>
+  <sprite name="16-IMG_5962-Head.png" rect="473,96,236,220" offsetY="463.47131" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="46.920605"/>
+  <sprite name="16-IMG_5962-HandBack.png" rect="407,96,66,140" offsetY="-80.025703" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="148.32124"/>
+  <sprite name="16-IMG_5962-HandFront.png" rect="331,96,76,130" offsetY="-113.9128" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="-57.608078"/>
+  <sprite name="16-IMG_5962-FootFront.png" rect="194,96,137,99" offsetY="-524.72876" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="14.858191"/>
+  <sprite name="16-IMG_5962-FootBack.png" rect="61,96,133,96" offsetY="-514.56262" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="102.70399"/>
+  <sprite name="16-IMG_5962-EyeFrontOpen.png" rect="29,96,32,38" offsetY="475.20148" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="29.977055"/>
+  <sprite name="16-IMG_5962-EyeBackOpen.png" rect="0,96,29,37" offsetY="475.46213" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="105.83203"/>
+  <sprite name="16-IMG_5962-EarFront.png" rect="1960,0,78,96" offsetY="514.302" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="-40.143185"/>
+  <sprite name="16-IMG_5962-Nose.png" rect="1920,0,40,31" offsetY="435.8403" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="83.675079"/>
+  <sprite name="16-IMG_5962-Mouth.png" rect="1856,0,64,30" offsetY="409.25195" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="78.201012"/>
+  <sprite name="16-IMG_5962-Chin.png" rect="1829,0,27,20" offsetY="390.74438" angleDegrees="0" scaleX="0.02112676" scaleY="0.02112676" offsetX="81.850388"/>
+ </spritesheet>
+</spritesheets>
