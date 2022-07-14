@@ -1912,8 +1912,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1
-    y: 14
+    x: 442
+    y: 437
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1931,7 +1931,7 @@ MonoBehaviour:
   customMessage: addToCounter
   sendValue: 1
   customValueParameterID: -1
-  customValue: 2
+  customValue: 1
   ignoreWhenSkipping: 0
 --- !u!1 &201926552
 GameObject:
@@ -2087,8 +2087,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1
-    y: 14
+    x: 441
+    y: 30
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -2793,8 +2793,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1
-    y: 14
+    x: 107
+    y: 372
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -6368,10 +6368,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 14
+    y: 14
     width: 300
-    height: 60
+    height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2104253311}
@@ -6524,8 +6524,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1
-    y: 14
+    x: 449
+    y: 224
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -12884,8 +12884,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1
-    y: 14
+    x: 40
+    y: 158
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
