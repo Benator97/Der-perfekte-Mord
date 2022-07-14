@@ -190,7 +190,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: 9b97e2f1f4cb84b40abb3f0d90f5edd9, type: 3}
+    tex: {fileID: 2800000, guid: 151aeab58eb6871468226425d68f473f, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
