@@ -2772,7 +2772,7 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -2787,18 +2787,18 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -7.9811735, y: -4.726299}
-      - {x: -5.299484, y: -4.9813232}
-      - {x: -2.6465588, y: -4.818941}
-      - {x: -1.3511457, y: -5.0254126}
-      - {x: 0.008045763, y: -4.808189}
-      - {x: 0.042761356, y: -3.7723384}
-      - {x: 1.7768239, y: -3.761964}
-      - {x: 1.8141094, y: -4.8618665}
-      - {x: 10.724186, y: -5.020786}
-      - {x: 10.731053, y: -5.372045}
-      - {x: -10.6967, y: -5.3891525}
-      - {x: -10.686916, y: -4.53678}
+    - - {x: 1.6285901, y: -4.779466}
+      - {x: 1.310395, y: -3.6763296}
+      - {x: 0.15974763, y: -3.7253695}
+      - {x: 0.048772603, y: -4.4074054}
+      - {x: -0.4396016, y: -4.8705554}
+      - {x: -5.2319193, y: -4.8918443}
+      - {x: -9.514065, y: -4.5485396}
+      - {x: -9.848467, y: -3.68159}
+      - {x: -10.856616, y: -3.6303701}
+      - {x: -10.864446, y: -5.2622366}
+      - {x: 10.864447, y: -5.233691}
+      - {x: 10.856617, y: -4.8293133}
 --- !u!4 &1664309392480294460
 Transform:
   m_ObjectHideFlags: 0
@@ -2807,7 +2807,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664309392480520732}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.07, y: -4.52, z: -0}
+  m_LocalPosition: {x: 0.02, y: -3.66, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2846,14 +2846,14 @@ MonoBehaviour:
   affectSorting: 1
   mapType: 1
   sortingAreas:
-  - z: 0.58954996
+  - z: 1.6883345
     order: 10
     layer: 
     color: {r: 0.5405273, g: 0.987898, b: 0.19097245, a: 1}
-    scale: 30
+    scale: 50
   affectScale: 1
   affectSpeed: 1
-  originScale: 25
+  originScale: 45
   sortingMapScaleType: 0
   scalingAnimationCurve:
     serializedVersion: 2
@@ -2914,7 +2914,7 @@ GameObject:
   - component: {fileID: 1669972192539569550}
   - component: {fileID: 1669972192553143022}
   m_Layer: 0
-  m_Name: "Zur\xFCck"
+  m_Name: Kueche
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -2935,7 +2935,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: "K\xFCche"
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 4030361240837961847}
@@ -3313,7 +3313,7 @@ GameObject:
   - component: {fileID: 4030361240848611255}
   - component: {fileID: 4030361240837961847}
   m_Layer: 2
-  m_Name: "Marker2D: Zur\xFCck"
+  m_Name: 'Marker2D: Kueche'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3327,7 +3327,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4030361240827743639}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -8.9, y: -4.89, z: 0}
+  m_LocalPosition: {x: -10.05, y: -4.87, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3632,14 +3632,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7624330213857165937}
-  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 1.2, y: -4.87, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -10.05, y: -4.87, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 139263369}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!1 &7624330213857165937
 GameObject:
   m_ObjectHideFlags: 0
@@ -3670,9 +3670,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ffb48ecf9de44666b3779fe84044e36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  chooseSceneBy: 0
+  chooseSceneBy: 1
   previousScene: 0
-  previousSceneName: 
+  previousSceneName: "K\xFCche"
   fadeInOnStart: 0
   fadeSpeed: 0.5
   cameraOnStart: {fileID: 5860152608065371504}

@@ -4373,10 +4373,10 @@ MonoBehaviour:
     order: 10
     layer: 
     color: {r: 0.3973542, g: 0.48234397, b: 0.39713985, a: 1}
-    scale: 15
+    scale: 50
   affectScale: 1
   affectSpeed: 1
-  originScale: 5
+  originScale: 40
   sortingMapScaleType: 0
   scalingAnimationCurve:
     serializedVersion: 2

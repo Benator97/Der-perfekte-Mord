@@ -19555,7 +19555,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: Wodka
   lineID: -1
   highlight: {fileID: 504680759}
   walkToMarker: {fileID: 7394109047472250744}
@@ -19856,15 +19856,15 @@ MonoBehaviour:
     order: 6
     layer: 
     color: {r: 0.4161603, g: 0.3377176, b: 0.36070508, a: 1}
-    scale: 30
+    scale: 50
   - z: 3.9013042
     order: 40
     layer: 
     color: {r: 0.85787797, g: 0.19818151, b: 0.10939717, a: 1}
-    scale: 30
+    scale: 55
   affectScale: 1
   affectSpeed: 1
-  originScale: 20
+  originScale: 45
   sortingMapScaleType: 0
   scalingAnimationCurve:
     serializedVersion: 2
@@ -21009,7 +21009,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: Ausgang
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 3267759756870829656}
