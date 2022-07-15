@@ -241,10 +241,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 350
+    y: 144
     width: 300
-    height: 60
+    height: 164
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 3731626731687377458}
@@ -2032,10 +2032,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 14
+    y: 14
     width: 300
-    height: 60
+    height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 3731626731687377458}
@@ -2997,10 +2997,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 35
+    y: 309
     width: 300
-    height: 60
+    height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 3731626731687377458}
@@ -3433,7 +3433,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1458169648473033567}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 8.88, y: -4.58, z: 0}
+  m_LocalPosition: {x: 10.05, y: -4.35, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3470,10 +3470,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ffb48ecf9de44666b3779fe84044e36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  chooseSceneBy: 0
+  chooseSceneBy: 1
   previousScene: 0
-  previousSceneName: 
-  fadeInOnStart: 0
+  previousSceneName: Keller
+  fadeInOnStart: 1
   fadeSpeed: 0.5
   cameraOnStart: {fileID: 1911508382013006704}
   playerIDs: 
@@ -3812,17 +3812,18 @@ PolygonCollider2D:
     - - {x: -1.2174406, y: -4.2224426}
       - {x: 0.083299756, y: -4.697585}
       - {x: 4.25199, y: -4.6772532}
-      - {x: 4.5644326, y: -3.680849}
-      - {x: 5.7140355, y: -3.664961}
-      - {x: 6.1770716, y: -4.0596867}
-      - {x: 7.7465024, y: -4.0824633}
-      - {x: 8.37645, y: -3.793749}
-      - {x: 9.4025, y: -3.7682662}
-      - {x: 9.433473, y: -4.6354504}
-      - {x: 9.456882, y: -5.290913}
+      - {x: 5.1192203, y: -4.505592}
+      - {x: 5.336757, y: -3.7735279}
+      - {x: 6.640825, y: -3.664961}
+      - {x: 6.9185023, y: -4.0596867}
+      - {x: 8.951328, y: -4.0824633}
+      - {x: 9.42681, y: -3.7628565}
+      - {x: 10.885363, y: -3.7682662}
+      - {x: 10.885442, y: -4.6354504}
+      - {x: 10.877959, y: -5.2600203}
       - {x: 2.2347493, y: -5.285976}
-      - {x: -9.404897, y: -5.281233}
-      - {x: -9.363012, y: -4.8436775}
+      - {x: -10.918652, y: -5.3121257}
+      - {x: -10.938555, y: -4.874571}
       - {x: -4.9363136, y: -4.261613}
       - {x: -1.4288193, y: -3.5093493}
 --- !u!114 &1677208144339171417
@@ -4507,7 +4508,7 @@ GameObject:
   - component: {fileID: 2929301516659217529}
   - component: {fileID: 2929301516660290329}
   m_Layer: 0
-  m_Name: Keller
+  m_Name: Keller_Hotspot
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4569,7 +4570,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: Keller
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 4214146330526371666}
@@ -5156,7 +5157,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4214146330519812786}
   m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 9.08, y: -4.67, z: 0}
+  m_LocalPosition: {x: 10.08, y: -4.35, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5347,6 +5348,35 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0

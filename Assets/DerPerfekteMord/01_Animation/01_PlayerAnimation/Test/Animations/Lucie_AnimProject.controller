@@ -7,7 +7,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Lucie Neu_lucie_item_putin
+  m_Name: Lucie_Store_Item_R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -59,7 +59,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Lucie Neu_lucie_take_item
+  m_Name: Lucie_Take_Item_R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
