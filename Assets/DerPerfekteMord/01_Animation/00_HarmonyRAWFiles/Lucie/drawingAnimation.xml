@@ -1,0 +1,470 @@
+<drawingAnimations>
+ <drawingAnimation name="lucie_idle_Top" spritesheet="sheet_Top-DPMLucieRig">
+  <drawing drwId="1" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_48">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_48.png" frame="11" repeat="2" skinId="0"/>
+  </drawing>
+  <drawing drwId="2" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_52">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="1" repeat="10" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="13" repeat="28" skinId="0"/>
+  </drawing>
+  <drawing drwId="3" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_r">
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="1" repeat="10" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="13" repeat="28" skinId="0"/>
+  </drawing>
+  <drawing drwId="4" name="21-LuciegeschlossenesAuge" node="Lucie_auge_links_geschlossen">
+   <drw name="21-LuciegeschlossenesAuge-auge_links_geschlossen.png" frame="11" repeat="2" skinId="0"/>
+  </drawing>
+  <drawing drwId="5" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_51">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="1" repeat="10" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="13" repeat="28" skinId="0"/>
+  </drawing>
+  <drawing drwId="6" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_l">
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="1" repeat="10" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="13" repeat="28" skinId="0"/>
+  </drawing>
+  <drawing drwId="7" name="16-IMG_5962" node="Lucie_EyeBackOpen_1">
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="1" repeat="10" skinId="0"/>
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="13" repeat="28" skinId="0"/>
+  </drawing>
+  <drawing drwId="8" name="16-IMG_5962" node="Lucie_EyeFrontOpen_1">
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="1" repeat="10" skinId="0"/>
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="13" repeat="28" skinId="0"/>
+  </drawing>
+  <drawing drwId="9" name="16-IMG_5962" node="Lucie_Mouth_1">
+   <drw name="16-IMG_5962-Mouth.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="10" name="16-IMG_5962" node="Lucie_Chin_1">
+   <drw name="16-IMG_5962-Chin.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="11" name="16-IMG_5962" node="Lucie_Nose_1">
+   <drw name="16-IMG_5962-Nose.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="12" name="16-IMG_5962" node="Lucie_EarFront_1">
+   <drw name="16-IMG_5962-EarFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="13" name="16-IMG_5962" node="Lucie_Head_1">
+   <drw name="16-IMG_5962-Head.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="14" name="16-IMG_5962" node="Lucie_EarBack_1">
+   <drw name="16-IMG_5962-EarBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="15" name="16-IMG_5962" node="Lucie_Neck_1">
+   <drw name="16-IMG_5962-Neck.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="16" name="16-IMG_5962" node="Lucie_ArmFront_1">
+   <drw name="16-IMG_5962-ArmFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="17" name="16-IMG_5962" node="Lucie_HandFront_1">
+   <drw name="16-IMG_5962-HandFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="18" name="16-IMG_5962" node="Lucie_Hoodie_1">
+   <drw name="16-IMG_5962-Hoodie.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="19" name="16-IMG_5962" node="Lucie_ArmBack_1">
+   <drw name="16-IMG_5962-ArmBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="20" name="16-IMG_5962" node="Lucie_HandBack_1">
+   <drw name="16-IMG_5962-HandBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="21" name="16-IMG_5962" node="Lucie_FootFront_1">
+   <drw name="16-IMG_5962-FootFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="22" name="16-IMG_5962" node="Lucie_LegFront_1">
+   <drw name="16-IMG_5962-LegFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="23" name="16-IMG_5962" node="Lucie_Tail_1">
+   <drw name="16-IMG_5962-Tail.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="24" name="16-IMG_5962" node="Lucie_FootBack_1">
+   <drw name="16-IMG_5962-FootBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="25" name="16-IMG_5962" node="Lucie_LegBack_1">
+   <drw name="16-IMG_5962-LegBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation name="lucie_walk_Top" spritesheet="sheet_Top-DPMLucieRig">
+  <drawing drwId="1" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_48">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_48.png" frame="7" repeat="2" skinId="0"/>
+  </drawing>
+  <drawing drwId="2" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_52">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="1" repeat="6" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="9" repeat="16" skinId="0"/>
+  </drawing>
+  <drawing drwId="3" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_r">
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="1" repeat="6" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="9" repeat="16" skinId="0"/>
+  </drawing>
+  <drawing drwId="4" name="21-LuciegeschlossenesAuge" node="Lucie_auge_links_geschlossen">
+   <drw name="21-LuciegeschlossenesAuge-auge_links_geschlossen.png" frame="7" repeat="2" skinId="0"/>
+  </drawing>
+  <drawing drwId="5" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_51">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="1" repeat="6" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="9" repeat="16" skinId="0"/>
+  </drawing>
+  <drawing drwId="6" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_l">
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="1" repeat="6" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="9" repeat="16" skinId="0"/>
+  </drawing>
+  <drawing drwId="7" name="16-IMG_5962" node="Lucie_EyeBackOpen_1">
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="1" repeat="6" skinId="0"/>
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="9" repeat="16" skinId="0"/>
+  </drawing>
+  <drawing drwId="8" name="16-IMG_5962" node="Lucie_EyeFrontOpen_1">
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="1" repeat="6" skinId="0"/>
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="9" repeat="16" skinId="0"/>
+  </drawing>
+  <drawing drwId="9" name="16-IMG_5962" node="Lucie_Mouth_1">
+   <drw name="16-IMG_5962-Mouth.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="10" name="16-IMG_5962" node="Lucie_Chin_1">
+   <drw name="16-IMG_5962-Chin.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="11" name="16-IMG_5962" node="Lucie_Nose_1">
+   <drw name="16-IMG_5962-Nose.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="12" name="16-IMG_5962" node="Lucie_EarFront_1">
+   <drw name="16-IMG_5962-EarFront.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="13" name="16-IMG_5962" node="Lucie_Head_1">
+   <drw name="16-IMG_5962-Head.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="14" name="16-IMG_5962" node="Lucie_EarBack_1">
+   <drw name="16-IMG_5962-EarBack.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="15" name="16-IMG_5962" node="Lucie_Neck_1">
+   <drw name="16-IMG_5962-Neck.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="16" name="16-IMG_5962" node="Lucie_ArmFront_1">
+   <drw name="16-IMG_5962-ArmFront.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="17" name="16-IMG_5962" node="Lucie_HandFront_1">
+   <drw name="16-IMG_5962-HandFront.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="18" name="16-IMG_5962" node="Lucie_Hoodie_1">
+   <drw name="16-IMG_5962-Hoodie.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="19" name="16-IMG_5962" node="Lucie_ArmBack_1">
+   <drw name="16-IMG_5962-ArmBack.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="20" name="16-IMG_5962" node="Lucie_HandBack_1">
+   <drw name="16-IMG_5962-HandBack.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="21" name="16-IMG_5962" node="Lucie_FootFront_1">
+   <drw name="16-IMG_5962-FootFront.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="22" name="16-IMG_5962" node="Lucie_LegFront_1">
+   <drw name="16-IMG_5962-LegFront.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="23" name="16-IMG_5962" node="Lucie_Tail_1">
+   <drw name="16-IMG_5962-Tail.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="24" name="16-IMG_5962" node="Lucie_FootBack_1">
+   <drw name="16-IMG_5962-FootBack.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+  <drawing drwId="25" name="16-IMG_5962" node="Lucie_LegBack_1">
+   <drw name="16-IMG_5962-LegBack.png" frame="1" repeat="24" skinId="0"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation name="lucie_take_item_Top" spritesheet="sheet_Top-DPMLucieRig">
+  <drawing drwId="1" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_48">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_48.png" frame="31" repeat="2" skinId="0"/>
+  </drawing>
+  <drawing drwId="2" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_52">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="1" repeat="30" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="33" repeat="8" skinId="0"/>
+  </drawing>
+  <drawing drwId="3" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_r">
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="1" repeat="30" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="33" repeat="8" skinId="0"/>
+  </drawing>
+  <drawing drwId="4" name="21-LuciegeschlossenesAuge" node="Lucie_auge_links_geschlossen">
+   <drw name="21-LuciegeschlossenesAuge-auge_links_geschlossen.png" frame="31" repeat="2" skinId="0"/>
+  </drawing>
+  <drawing drwId="5" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_51">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="1" repeat="30" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="33" repeat="8" skinId="0"/>
+  </drawing>
+  <drawing drwId="6" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_l">
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="1" repeat="30" skinId="0"/>
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="33" repeat="8" skinId="0"/>
+  </drawing>
+  <drawing drwId="7" name="16-IMG_5962" node="Lucie_EyeBackOpen_1">
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="1" repeat="30" skinId="0"/>
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="33" repeat="8" skinId="0"/>
+  </drawing>
+  <drawing drwId="8" name="16-IMG_5962" node="Lucie_EyeFrontOpen_1">
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="1" repeat="30" skinId="0"/>
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="33" repeat="8" skinId="0"/>
+  </drawing>
+  <drawing drwId="9" name="16-IMG_5962" node="Lucie_Mouth_1">
+   <drw name="16-IMG_5962-Mouth.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="10" name="16-IMG_5962" node="Lucie_Chin_1">
+   <drw name="16-IMG_5962-Chin.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="11" name="16-IMG_5962" node="Lucie_Nose_1">
+   <drw name="16-IMG_5962-Nose.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="12" name="16-IMG_5962" node="Lucie_EarFront_1">
+   <drw name="16-IMG_5962-EarFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="13" name="16-IMG_5962" node="Lucie_Head_1">
+   <drw name="16-IMG_5962-Head.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="14" name="16-IMG_5962" node="Lucie_EarBack_1">
+   <drw name="16-IMG_5962-EarBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="15" name="16-IMG_5962" node="Lucie_Neck_1">
+   <drw name="16-IMG_5962-Neck.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="16" name="16-IMG_5962" node="Lucie_ArmFront_1">
+   <drw name="16-IMG_5962-ArmFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="17" name="16-IMG_5962" node="Lucie_HandFront_1">
+   <drw name="16-IMG_5962-HandFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="18" name="16-IMG_5962" node="Lucie_Hoodie_1">
+   <drw name="16-IMG_5962-Hoodie.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="19" name="16-IMG_5962" node="Lucie_ArmBack_1">
+   <drw name="16-IMG_5962-ArmBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="20" name="16-IMG_5962" node="Lucie_HandBack_1">
+   <drw name="16-IMG_5962-HandBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="21" name="16-IMG_5962" node="Lucie_FootFront_1">
+   <drw name="16-IMG_5962-FootFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="22" name="16-IMG_5962" node="Lucie_LegFront_1">
+   <drw name="16-IMG_5962-LegFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="23" name="16-IMG_5962" node="Lucie_Tail_1">
+   <drw name="16-IMG_5962-Tail.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="24" name="16-IMG_5962" node="Lucie_FootBack_1">
+   <drw name="16-IMG_5962-FootBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="25" name="16-IMG_5962" node="Lucie_LegBack_1">
+   <drw name="16-IMG_5962-LegBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation name="lucie_item_putin_Top" spritesheet="sheet_Top-DPMLucieRig">
+  <drawing drwId="1" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_48"/>
+  <drawing drwId="2" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_52">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="3" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_r">
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="4" name="21-LuciegeschlossenesAuge" node="Lucie_auge_links_geschlossen"/>
+  <drawing drwId="5" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_51">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="6" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_l">
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="7" name="16-IMG_5962" node="Lucie_EyeBackOpen_1">
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="8" name="16-IMG_5962" node="Lucie_EyeFrontOpen_1">
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="9" name="16-IMG_5962" node="Lucie_Mouth_1">
+   <drw name="16-IMG_5962-Mouth.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="10" name="16-IMG_5962" node="Lucie_Chin_1">
+   <drw name="16-IMG_5962-Chin.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="11" name="16-IMG_5962" node="Lucie_Nose_1">
+   <drw name="16-IMG_5962-Nose.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="12" name="16-IMG_5962" node="Lucie_EarFront_1">
+   <drw name="16-IMG_5962-EarFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="13" name="16-IMG_5962" node="Lucie_Head_1">
+   <drw name="16-IMG_5962-Head.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="14" name="16-IMG_5962" node="Lucie_EarBack_1">
+   <drw name="16-IMG_5962-EarBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="15" name="16-IMG_5962" node="Lucie_Neck_1">
+   <drw name="16-IMG_5962-Neck.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="16" name="16-IMG_5962" node="Lucie_ArmFront_1">
+   <drw name="16-IMG_5962-ArmFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="17" name="16-IMG_5962" node="Lucie_HandFront_1">
+   <drw name="16-IMG_5962-HandFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="18" name="16-IMG_5962" node="Lucie_Hoodie_1">
+   <drw name="16-IMG_5962-Hoodie.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="19" name="16-IMG_5962" node="Lucie_ArmBack_1">
+   <drw name="16-IMG_5962-ArmBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="20" name="16-IMG_5962" node="Lucie_HandBack_1">
+   <drw name="16-IMG_5962-HandBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="21" name="16-IMG_5962" node="Lucie_FootFront_1">
+   <drw name="16-IMG_5962-FootFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="22" name="16-IMG_5962" node="Lucie_LegFront_1">
+   <drw name="16-IMG_5962-LegFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="23" name="16-IMG_5962" node="Lucie_Tail_1">
+   <drw name="16-IMG_5962-Tail.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="24" name="16-IMG_5962" node="Lucie_FootBack_1">
+   <drw name="16-IMG_5962-FootBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="25" name="16-IMG_5962" node="Lucie_LegBack_1">
+   <drw name="16-IMG_5962-LegBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation name="lucie_combine_Top" spritesheet="sheet_Top-DPMLucieRig">
+  <drawing drwId="1" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_48"/>
+  <drawing drwId="2" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_52">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="3" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_r">
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="4" name="21-LuciegeschlossenesAuge" node="Lucie_auge_links_geschlossen"/>
+  <drawing drwId="5" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_51">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="6" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_l">
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="7" name="16-IMG_5962" node="Lucie_EyeBackOpen_1">
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="8" name="16-IMG_5962" node="Lucie_EyeFrontOpen_1">
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="9" name="16-IMG_5962" node="Lucie_Mouth_1">
+   <drw name="16-IMG_5962-Mouth.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="10" name="16-IMG_5962" node="Lucie_Chin_1">
+   <drw name="16-IMG_5962-Chin.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="11" name="16-IMG_5962" node="Lucie_Nose_1">
+   <drw name="16-IMG_5962-Nose.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="12" name="16-IMG_5962" node="Lucie_EarFront_1">
+   <drw name="16-IMG_5962-EarFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="13" name="16-IMG_5962" node="Lucie_Head_1">
+   <drw name="16-IMG_5962-Head.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="14" name="16-IMG_5962" node="Lucie_EarBack_1">
+   <drw name="16-IMG_5962-EarBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="15" name="16-IMG_5962" node="Lucie_Neck_1">
+   <drw name="16-IMG_5962-Neck.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="16" name="16-IMG_5962" node="Lucie_ArmFront_1">
+   <drw name="16-IMG_5962-ArmFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="17" name="16-IMG_5962" node="Lucie_HandFront_1">
+   <drw name="16-IMG_5962-HandFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="18" name="16-IMG_5962" node="Lucie_Hoodie_1">
+   <drw name="16-IMG_5962-Hoodie.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="19" name="16-IMG_5962" node="Lucie_ArmBack_1">
+   <drw name="16-IMG_5962-ArmBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="20" name="16-IMG_5962" node="Lucie_HandBack_1">
+   <drw name="16-IMG_5962-HandBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="21" name="16-IMG_5962" node="Lucie_FootFront_1">
+   <drw name="16-IMG_5962-FootFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="22" name="16-IMG_5962" node="Lucie_LegFront_1">
+   <drw name="16-IMG_5962-LegFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="23" name="16-IMG_5962" node="Lucie_Tail_1">
+   <drw name="16-IMG_5962-Tail.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="24" name="16-IMG_5962" node="Lucie_FootBack_1">
+   <drw name="16-IMG_5962-FootBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="25" name="16-IMG_5962" node="Lucie_LegBack_1">
+   <drw name="16-IMG_5962-LegBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation name="lucie_put_item_Top" spritesheet="sheet_Top-DPMLucieRig">
+  <drawing drwId="1" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_48"/>
+  <drawing drwId="2" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_52">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_52.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="3" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_r">
+   <drw name="21-LuciegeschlossenesAuge-pupille_r.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="4" name="21-LuciegeschlossenesAuge" node="Lucie_auge_links_geschlossen"/>
+  <drawing drwId="5" name="21-LuciegeschlossenesAuge" node="Lucie_Ebene_51">
+   <drw name="21-LuciegeschlossenesAuge-Ebene_51.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="6" name="21-LuciegeschlossenesAuge" node="Lucie_pupille_l">
+   <drw name="21-LuciegeschlossenesAuge-pupille_l.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="7" name="16-IMG_5962" node="Lucie_EyeBackOpen_1">
+   <drw name="16-IMG_5962-EyeBackOpen.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="8" name="16-IMG_5962" node="Lucie_EyeFrontOpen_1">
+   <drw name="16-IMG_5962-EyeFrontOpen.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="9" name="16-IMG_5962" node="Lucie_Mouth_1">
+   <drw name="16-IMG_5962-Mouth.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="10" name="16-IMG_5962" node="Lucie_Chin_1">
+   <drw name="16-IMG_5962-Chin.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="11" name="16-IMG_5962" node="Lucie_Nose_1">
+   <drw name="16-IMG_5962-Nose.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="12" name="16-IMG_5962" node="Lucie_EarFront_1">
+   <drw name="16-IMG_5962-EarFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="13" name="16-IMG_5962" node="Lucie_Head_1">
+   <drw name="16-IMG_5962-Head.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="14" name="16-IMG_5962" node="Lucie_EarBack_1">
+   <drw name="16-IMG_5962-EarBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="15" name="16-IMG_5962" node="Lucie_Neck_1">
+   <drw name="16-IMG_5962-Neck.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="16" name="16-IMG_5962" node="Lucie_ArmFront_1">
+   <drw name="16-IMG_5962-ArmFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="17" name="16-IMG_5962" node="Lucie_HandFront_1">
+   <drw name="16-IMG_5962-HandFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="18" name="16-IMG_5962" node="Lucie_Hoodie_1">
+   <drw name="16-IMG_5962-Hoodie.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="19" name="16-IMG_5962" node="Lucie_ArmBack_1">
+   <drw name="16-IMG_5962-ArmBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="20" name="16-IMG_5962" node="Lucie_HandBack_1">
+   <drw name="16-IMG_5962-HandBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="21" name="16-IMG_5962" node="Lucie_FootFront_1">
+   <drw name="16-IMG_5962-FootFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="22" name="16-IMG_5962" node="Lucie_LegFront_1">
+   <drw name="16-IMG_5962-LegFront.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="23" name="16-IMG_5962" node="Lucie_Tail_1">
+   <drw name="16-IMG_5962-Tail.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="24" name="16-IMG_5962" node="Lucie_FootBack_1">
+   <drw name="16-IMG_5962-FootBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+  <drawing drwId="25" name="16-IMG_5962" node="Lucie_LegBack_1">
+   <drw name="16-IMG_5962-LegBack.png" frame="1" repeat="40" skinId="0"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

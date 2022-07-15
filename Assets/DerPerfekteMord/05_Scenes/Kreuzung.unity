@@ -1825,7 +1825,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 425594908079257376}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -1.61, z: -0}
+  m_LocalPosition: {x: 0, y: -3.85, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1864,14 +1864,14 @@ MonoBehaviour:
   affectSorting: 1
   mapType: 1
   sortingAreas:
-  - z: 3.722334
+  - z: 1.4640001
     order: 1
     layer: 
     color: {r: 0.0833863, g: 0.48295802, b: 0.13155735, a: 1}
-    scale: 20
+    scale: 50
   affectScale: 1
   affectSpeed: 1
-  originScale: 16
+  originScale: 30
   sortingMapScaleType: 0
   scalingAnimationCurve:
     serializedVersion: 2
@@ -1976,11 +1976,11 @@ PolygonCollider2D:
     - - {x: -6.136233, y: -3.1758313}
       - {x: -0.5277557, y: -4.1398654}
       - {x: 5.184599, y: -3.480115}
-      - {x: 9.493384, y: -3.0032597}
-      - {x: 9.472113, y: -5.2395825}
-      - {x: -9.305035, y: -5.208566}
-      - {x: -9.29842, y: -3.9797482}
-      - {x: -9.213473, y: -2.7482774}
+      - {x: 10.8413725, y: -2.8860435}
+      - {x: 10.8201, y: -5.2688866}
+      - {x: -10.740935, y: -5.1206536}
+      - {x: -10.763624, y: -3.9504437}
+      - {x: -10.825198, y: -2.601757}
 --- !u!1 &2668104855559640116
 GameObject:
   m_ObjectHideFlags: 0
@@ -2848,12 +2848,12 @@ MonoBehaviour:
   limitCursorInfluenceY: {x: 0, y: 0}
   followCursorSpeed: 3
   cursorInfluenceDuringCutscenes: 0
-  lockHorizontal: 1
+  lockHorizontal: 0
   lockVertical: 1
-  limitHorizontal: 0
+  limitHorizontal: 1
   limitVertical: 0
-  backgroundConstraint: {fileID: 0}
-  autoScaleToFitBackgroundConstraint: 0
+  backgroundConstraint: {fileID: 999790758}
+  autoScaleToFitBackgroundConstraint: 1
   constrainHorizontal: {x: 0, y: 0}
   constrainVertical: {x: 0, y: 0}
   freedom: {x: 0, y: 0}
