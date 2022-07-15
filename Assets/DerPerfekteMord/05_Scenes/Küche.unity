@@ -5450,6 +5450,16 @@ MeshRenderer:
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
+  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5533,9 +5543,9 @@ PolygonCollider2D:
     m_Paths:
     - - {x: -4.2585206, y: -4.122471}
       - {x: 4.0890393, y: -4.10875}
-      - {x: 4.8069444, y: -3.748573}
-      - {x: 7.998949, y: -3.743306}
-      - {x: 10.768081, y: -3.7461832}
+      - {x: 5.0569496, y: -3.7985742}
+      - {x: 8.023951, y: -3.843308}
+      - {x: 10.668079, y: -3.8461852}
       - {x: 10.758499, y: -5.2184405}
       - {x: -10.823278, y: -5.254911}
       - {x: -10.832357, y: -4.5556073}
