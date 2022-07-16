@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 35052
+  controlID: 20292
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 35018
+  controlID: 20297
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 35019
+  controlID: 20298
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -403,9 +403,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e4b20000
+      m_SelectedIDs: cc950000
       m_LastClickedID: 0
-      m_ExpandedIDs: baaefeff16affeffecaffeff4cb0feffa2b0feff22f4fffff8faffffc25f0000d65f0000ea5f0000f45f0000066000001660000034600000386000004060000058600000
+      m_ExpandedIDs: 8e26ffff48b8ffffe4f4ffff1efbffff9a5f0000fe600000146100006c610000c661000004620000086200002c6200003a62000060620000b4620000ce62000094630000b0630000a4640000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -654,9 +654,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.26102945, y: -0.045354486, z: 0.27017915}
+    m_Target: {x: -1.288973, y: -0.5648616, z: 0.15755378}
     speed: 2
-    m_Value: {x: -0.26102945, y: -0.045354486, z: 0.27017915}
+    m_Value: {x: -1.288973, y: -0.5648616, z: 0.15755378}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -707,9 +707,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.018304
+    m_Target: 7.636295
     speed: 2
-    m_Value: 8.018304
+    m_Value: 7.636295
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -956,22 +956,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/DerPerfekteMord/05_Scenes
+    - Assets/DerPerfekteMord
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/DerPerfekteMord/05_Scenes
+  - Assets/DerPerfekteMord
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\ailee\OneDrive\Dokumente\GitHub\Der-perfekte-Mord
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 381}
-    m_SelectedIDs: d8730000
-    m_LastClickedID: 29656
-    m_ExpandedIDs: 0000000040730000427300004473000046730000487300004a7300004c7300004e73000050730000527300005473000056730000587300005a7300005c7300005e73000060730000627300006473000066730000687300006a7300006c7300006e730000707300007273000074730000767300007873000000ca9a3b
+    scrollPos: {x: 0, y: 111}
+    m_SelectedIDs: e6730000
+    m_LastClickedID: 29670
+    m_ExpandedIDs: 00000000b0730000b2730000b4730000b6730000b8730000ba730000bc730000be730000c0730000c2730000c4730000c6730000c8730000ca730000cc730000ce730000d0730000d2730000d4730000d6730000d8730000da730000dc730000de730000e0730000e2730000e4730000e6730000e873000024740000548f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -999,7 +999,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000040730000427300004473000046730000487300004a7300004c7300004e73000050730000527300005473000056730000587300005a7300005c7300005e73000060730000627300006473000066730000687300006a7300006c7300006e730000707300007273000074730000767300007873000000ca9a3b
+    m_ExpandedIDs: 00000000b0730000b2730000b4730000b6730000b8730000ba730000bc730000be730000c0730000c2730000c4730000c6730000c8730000ca730000cc730000ce730000d0730000d2730000d4730000d6730000d8730000da730000dc730000de730000e0730000e2730000e4730000e6730000e873000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1027,7 +1027,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c623000000000000c67e000006e100000ce10000049d0000bcac0000f47300004c7f0000
+    m_ExpandedInstanceIDs: c623000000000000c67e000006e100000ce10000049d0000bcac0000f47300004c7f000054b60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1075,10 +1075,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 672
-    y: 746
-    width: 1031
-    height: 244
+    x: 0
+    y: 744
+    width: 1285
+    height: 247
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1113,7 +1113,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -4846
+  m_LastSelectedObjectID: -30730
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
