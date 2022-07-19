@@ -102,10 +102,10 @@ MonoBehaviour:
   Material: {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   Color: {r: 1, g: 1, b: 1, a: 1}
   DiscretizationStep: 4
-  CurrentClipIndex: 0
-  CurrentFrame: 1
+  CurrentClipIndex: 2
+  CurrentFrame: 21.1
   AnimationSettings:
-    FrameRate: 30
+    FrameRate: 24
     Stepped: 1
     StripPrefix: 
   GroupSkins:

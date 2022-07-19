@@ -26,12 +26,12 @@ MonoBehaviour:
   canSkipWithMouseClicks: 1
   minimumDisplayTime: 1
   screenTimeFactor: 0.1
-  allowSpeechSkipping: 0
+  allowSpeechSkipping: 1
   allowGameplaySpeechSkipping: 0
   skipThresholdTime: 0
   endScrollBeforeSkip: 0
   ifSkipWhileScrolling: 0
-  scrollingTextFactorsLength: 0
+  scrollingTextFactorsLength: 1
   syncSubtitlesToAudio: 0
   useAssetBundles: 0
   searchAudioFiles: 1
@@ -41,13 +41,13 @@ MonoBehaviour:
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1
   translateAudio: 1
-  separateVoiceAndTextLanguages: 0
+  separateVoiceAndTextLanguages: 1
   fallbackAudio: 0
   keepTextInBuffer: 0
   relegateBackgroundSpeechAudio: 0
   usePlayerRealName: 0
   separateSharedPlayerAudio: 0
-  placeAudioInSubfolders: 0
+  placeAudioInSubfolders: 1
   separateLines: 0
   separateLinePause: 1
   resetExpressionsEachLine: 1
