@@ -817,7 +817,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 11
   title: Hotspot
-  manualSize: {x: 33.999996, y: 11.999999}
+  manualSize: {x: 5.677084, y: 7.037037}
   positionType: 3
   manualPosition: {x: 50, y: 44.4}
   positionSmoothing: 0
@@ -888,13 +888,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 142.79999, y: 43.199997}
+  biggestElementSize: {x: 109.00001, y: 76}
   rect:
     serializedVersion: 2
-    x: 138.6
-    y: 138.23999
-    width: 142.79999
-    height: 43.199997
+    x: 905.5
+    y: 441.52002
+    width: 109.00001
+    height: 76
   showInFilter: 1
 --- !u!114 &-6095881275995731187
 MonoBehaviour:
@@ -1133,8 +1133,8 @@ MonoBehaviour:
   slotSpacing: 0
   lineID: 86
   alternativeInputButton: 
-  font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
-  fontScaleFactor: 2
+  font: {fileID: 12800000, guid: 2fa728aed6de1fd4a9f4b1a1c61217d8, type: 3}
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -1755,14 +1755,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: HotspotLabel
-  slotSize: {x: 34, y: 12}
-  sizeType: 1
+  slotSize: {x: 5.6770835, y: 7.037037}
+  sizeType: 0
   positionType: 0
   slotSpacing: 0
   lineID: 85
   alternativeInputButton: 
-  font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
-  fontScaleFactor: 2
+  font: {fileID: 12800000, guid: 2fa728aed6de1fd4a9f4b1a1c61217d8, type: 3}
+  fontScaleFactor: 4
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -1782,15 +1782,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 142.79999
-    height: 43.199997
+    width: 109.00001
+    height: 76
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
   _label: Test
   anchor: 4
   textEffects: 1
-  outlineSize: 2
+  outlineSize: 1.2
   labelType: 1
   variableID: 0
   useCharacterColour: 0
@@ -4375,8 +4375,8 @@ MonoBehaviour:
   slotSpacing: 0
   lineID: 87
   alternativeInputButton: 
-  font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
-  fontScaleFactor: 1.5
+  font: {fileID: 12800000, guid: 2fa728aed6de1fd4a9f4b1a1c61217d8, type: 3}
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
