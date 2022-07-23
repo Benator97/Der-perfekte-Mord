@@ -32,7 +32,7 @@ MonoBehaviour:
   endScrollBeforeSkip: 0
   ifSkipWhileScrolling: 0
   scrollingTextFactorsLength: 1
-  syncSubtitlesToAudio: 0
+  syncSubtitlesToAudio: 1
   useAssetBundles: 0
   searchAudioFiles: 1
   autoNameSpeechFiles: 0
@@ -40,7 +40,7 @@ MonoBehaviour:
   autoSpeechFolder: Speech
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1
-  translateAudio: 1
+  translateAudio: 0
   separateVoiceAndTextLanguages: 1
   fallbackAudio: 0
   keepTextInBuffer: 0

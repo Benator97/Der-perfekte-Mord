@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da12efe24550a694184bc379e710b055, type: 3}
   m_Name: TargetTime
   m_EditorClassIdentifier: 
-  value: 40
+  value: 4

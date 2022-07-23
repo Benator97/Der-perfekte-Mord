@@ -33,10 +33,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 14
+    y: 14
     width: 300
-    height: 60
+    height: 187
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -88,18 +88,18 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 351
+    y: 48
     width: 300
-    height: 60
+    height: 124
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   endGameType: 3
   chooseSceneBy: 1
   sceneNumber: 0
-  sceneName: "K\xFCche"
-  resetMenus: 0
+  sceneName: Schlafzimmer_T_L
+  resetMenus: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
