@@ -428,7 +428,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Explosionspilz+Waschmittel
     id: 7
-    altLabel: 
+    altLabel: Geputzter Pilz
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -470,7 +470,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 5e2896f537b8fd943a7008356e83be56, type: 2}
     interactions: []
     combineInteractions:
     - actionList: {fileID: 11400000, guid: 810c245d32783a34fa5a6c00b5596da0, type: 2}
