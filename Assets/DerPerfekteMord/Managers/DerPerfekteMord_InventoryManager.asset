@@ -57,7 +57,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: fc001b3669b15834a8a103456e16632f, type: 2}
     interactions: []
     combineInteractions:
     - actionList: {fileID: 11400000, guid: 5541971ee0cd8834f907a50f4ef31007, type: 2}
@@ -120,7 +120,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 797f23fe136375a4bb3dba6f4cb6a40b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -175,7 +175,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: dc34c387a2f134c49872629c80757ba7, type: 2}
     interactions: []
     combineInteractions:
     - actionList: {fileID: 11400000, guid: da553a969932b1b49956d5f16aaa71c4, type: 2}
@@ -238,7 +238,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 98aae20daa5eb5e4ab3035e6bc72146a, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -293,7 +293,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 1a82bf2f7e3959f4ead323a80cb0e952, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -348,7 +348,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: bad9b6a4b6ee3194dbb9a9ba9ad884e5, type: 2}
     interactions: []
     combineInteractions:
     - actionList: {fileID: 11400000, guid: 7ba594bf54c97c54d84dde3bfe1f37d3, type: 2}
@@ -369,7 +369,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Explosionspilz+Vodka
     id: 6
-    altLabel: 
+    altLabel: Absolut Pilzig
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -411,7 +411,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 7db69b387f80887449dbfef2b140017a, type: 2}
     interactions: []
     combineInteractions:
     - actionList: {fileID: 11400000, guid: 033639fff7bad2846843a02de1def7a0, type: 2}
@@ -487,7 +487,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Putzmittel+Vodka
     id: 8
-    altLabel: 
+    altLabel: Absolut Clean
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -529,7 +529,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 7d8c54bf623262e4082edb7d5fec29ec, type: 2}
     interactions: []
     combineInteractions:
     - actionList: {fileID: 11400000, guid: 731bd85f75f294a4788fa4cbe418f469, type: 2}
@@ -546,7 +546,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Bombe
     id: 9
-    altLabel: 
+    altLabel: Absolut Explosiv
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -588,7 +588,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: b45de9c41067c0b419f9062dafe0a310, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
