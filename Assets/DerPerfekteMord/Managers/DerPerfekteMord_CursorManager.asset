@@ -76,7 +76,7 @@ MonoBehaviour:
     frameSpeeds: []
     alwaysAnimate: 0
   mouseOverIcon:
-    texture: {fileID: 2800000, guid: ed2e8d11aa3325c49b44637733027fcb, type: 3}
+    texture: {fileID: 2800000, guid: d501705288a8d64439d8eeacfdeb8276, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -85,7 +85,7 @@ MonoBehaviour:
     animSpeed: 4
     endAnimOnLastFrame: 0
     skipFirstFrameWhenLooping: 0
-    clickOffset: {x: 0, y: 0}
+    clickOffset: {x: -0.41, y: -0.38}
     frameSpeeds:
     - 1
     alwaysAnimate: 0

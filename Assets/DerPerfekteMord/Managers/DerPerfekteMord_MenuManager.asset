@@ -711,9 +711,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 3
   title: Inventory
-  manualSize: {x: 100, y: 12.60303}
+  manualSize: {x: 100, y: 14.2}
   positionType: 1
-  manualPosition: {x: 960, y: 68.05636}
+  manualPosition: {x: 960, y: 76.68}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -727,7 +727,7 @@ MonoBehaviour:
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
+  backgroundTexture: {fileID: 2800000, guid: 798816e97c427204baef92937193bd55, type: 3}
   visibleElements:
   - {fileID: 6858762605268771944}
   - {fileID: -2507351209792146558}
@@ -792,7 +792,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1920
-    height: 136.11272
+    height: 153.36
   showInFilter: 1
 --- !u!114 &-6702064714222532705
 MonoBehaviour:
@@ -2535,7 +2535,7 @@ MonoBehaviour:
   gridWidth: 3
   backgroundTexture: {fileID: 0}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 2800000, guid: 4c18e768f1bef4f0cb3c66642e3c2e2c, type: 3}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -5137,7 +5137,7 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 1862.4
-    y: 12.250144
+    y: 13.8024
     width: 48
     height: 118.8
   relativePosition: {x: 97, y: 9}
