@@ -93,7 +93,7 @@ MonoBehaviour:
   clickPrefab: {fileID: 0}
   clickMarkerPosition: 0
   walkableClickRange: 0.5
-  navMeshSearchDirection: 1
+  navMeshSearchDirection: 0
   ignoreOffScreenNavMesh: 1
   doubleClickMovement: 2
   magnitudeAffectsDirect: 0
