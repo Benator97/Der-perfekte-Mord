@@ -5822,7 +5822,7 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0.7584
+    x: 0.68160003
     y: 0
     width: 130.56001
     height: 50.76
@@ -6790,9 +6790,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 4
   title: InGame
-  manualSize: {x: 7.9, y: 4.9}
+  manualSize: {x: 7.1, y: 4.403796}
   positionType: 2
-  manualPosition: {x: 0, y: 0}
+  manualPosition: {x: 1.9, y: 100}
   positionSmoothing: 0
   alignment: 6
   toggleKey: 
@@ -6865,7 +6865,7 @@ MonoBehaviour:
   rect:
     serializedVersion: 2
     x: 0
-    y: 0
-    width: 151.68001
-    height: 52.920002
+    y: 1032.439
+    width: 136.32
+    height: 47.560997
   showInFilter: 1
