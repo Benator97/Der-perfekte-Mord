@@ -7,7 +7,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.785D90A9" = "2d demo manager"
+	"last_search.785D90A9" = "2d man"
 	"OpenInspectorPreview.785D90A9" = "0"
 	"currentGroup.785D90A9" = "all"
 }
@@ -59,6 +59,8 @@ providers = {
 	}
 }
 recentSearches = [
+	"2d"
+	"de"
 ]
 searchItemFavorites = [
 ]
