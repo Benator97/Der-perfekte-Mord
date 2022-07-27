@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DerPerfekteMord_SpeechManager
   m_EditorClassIdentifier: 
   scrollSubtitles: 1
-  scrollNarration: 0
+  scrollNarration: 1
   textScrollSpeed: 50
   textScrollCLip: {fileID: 0}
   narrationTextScrollCLip: {fileID: 0}
@@ -26,13 +26,13 @@ MonoBehaviour:
   canSkipWithMouseClicks: 1
   minimumDisplayTime: 1
   screenTimeFactor: 0.1
-  allowSpeechSkipping: 0
+  allowSpeechSkipping: 1
   allowGameplaySpeechSkipping: 0
   skipThresholdTime: 0
   endScrollBeforeSkip: 0
   ifSkipWhileScrolling: 0
-  scrollingTextFactorsLength: 0
-  syncSubtitlesToAudio: 0
+  scrollingTextFactorsLength: 1
+  syncSubtitlesToAudio: 1
   useAssetBundles: 0
   searchAudioFiles: 1
   autoNameSpeechFiles: 0
@@ -40,14 +40,14 @@ MonoBehaviour:
   autoSpeechFolder: Speech
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1
-  translateAudio: 1
-  separateVoiceAndTextLanguages: 0
+  translateAudio: 0
+  separateVoiceAndTextLanguages: 1
   fallbackAudio: 0
   keepTextInBuffer: 0
   relegateBackgroundSpeechAudio: 0
   usePlayerRealName: 0
   separateSharedPlayerAudio: 0
-  placeAudioInSubfolders: 0
+  placeAudioInSubfolders: 1
   separateLines: 0
   separateLinePause: 1
   resetExpressionsEachLine: 1

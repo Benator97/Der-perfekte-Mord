@@ -37,11 +37,11 @@ MonoBehaviour:
   actionListOnStart: {fileID: 0}
   blackOutWhenSkipping: 0
   playerSwitching: 1
-  player: {fileID: 366925878832830407, guid: 48159c84ea4c3434c86bc8ce73291049, type: 3}
+  player: {fileID: 366925878832830407, guid: 7451079391350ad4a8c9194b010b80ea, type: 3}
   players: []
   movementMethod: 0
   inputMethod: 0
-  interactionMethod: 1
+  interactionMethod: 2
   selectInteractions: 0
   autoHideInteractionIcons: 1
   cancelInteractions: 0
@@ -93,9 +93,9 @@ MonoBehaviour:
   clickPrefab: {fileID: 0}
   clickMarkerPosition: 0
   walkableClickRange: 0.5
-  navMeshSearchDirection: 1
+  navMeshSearchDirection: 0
   ignoreOffScreenNavMesh: 1
-  doubleClickMovement: 0
+  doubleClickMovement: 2
   magnitudeAffectsDirect: 0
   directTurnsInstantly: 0
   stopTurningWhenReleaseInput: 0
@@ -189,9 +189,13 @@ MonoBehaviour:
   loadingDelay: 0
   blackOutWhenInitialising: 1
   spawnPersistentEnginePrefab: 1
-  playMusicWhilePaused: 0
+  playMusicWhilePaused: 1
   playAmbienceWhilePaused: 0
-  musicStorages: []
+  musicStorages:
+  - ID: 0
+    audioClip: {fileID: 8300000, guid: 8fbbe3e23d4c6264bb6115495050153d, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages: []
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
