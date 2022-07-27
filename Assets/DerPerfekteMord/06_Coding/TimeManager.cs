@@ -15,6 +15,11 @@ public class TimeManager : MonoBehaviour
         checkCounter();
     }
 
+    public void resetCounter()
+    {
+        timeCounter.value = 0;
+    }
+
     private void checkCounter()
     {
         if(timeCounter.value >= targetTime.value)

@@ -68,6 +68,10 @@ MonoBehaviour:
       idPlusOne: 2
       combineID: 5
       disabledOnStart: 0
+    - actionList: {fileID: 11400000, guid: 810c245d32783a34fa5a6c00b5596da0, type: 2}
+      idPlusOne: 3
+      combineID: 7
+      disabledOnStart: 0
     combineActionList: []
     combineID: 
     unhandledActionList: {fileID: 0}
@@ -185,6 +189,10 @@ MonoBehaviour:
     - actionList: {fileID: 11400000, guid: e201a8185fae6c940a44889cdacc0810, type: 2}
       idPlusOne: 1
       combineID: 5
+      disabledOnStart: 0
+    - actionList: {fileID: 11400000, guid: 033639fff7bad2846843a02de1def7a0, type: 2}
+      idPlusOne: 2
+      combineID: 6
       disabledOnStart: 0
     combineActionList: []
     combineID: 
@@ -358,6 +366,10 @@ MonoBehaviour:
     - actionList: {fileID: 11400000, guid: 7e8029d0f1bd1734581f20a01b9b5501, type: 2}
       idPlusOne: 2
       combineID: 2
+      disabledOnStart: 0
+    - actionList: {fileID: 11400000, guid: 731bd85f75f294a4788fa4cbe418f469, type: 2}
+      idPlusOne: 3
+      combineID: 8
       disabledOnStart: 0
     combineActionList: []
     combineID: 

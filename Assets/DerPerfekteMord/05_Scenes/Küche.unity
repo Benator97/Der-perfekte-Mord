@@ -146,7 +146,7 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 2
+  - resultAction: 1
     skipAction: 8
     skipActionActual: {fileID: 1264595672}
     linkedCutscene: {fileID: 0}
@@ -159,13 +159,13 @@ MonoBehaviour:
     x: 364
     y: 650
     width: 300
-    height: 152
+    height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 7950807407975133500}
   invAction: 0
   parameterID: -1
-  invID: 0
+  invID: 2
   replaceParameterID: -1
   invIDReplace: 0
   setAmount: 0
@@ -1151,8 +1151,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 345
-    y: 139
+    x: 14
+    y: 276
     width: 300
     height: 164
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -4325,8 +4325,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 24
-    y: 293
+    x: 14
+    y: 14
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -4398,8 +4398,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 362
-    y: 828
+    x: 15
+    y: 957
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -5693,9 +5693,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 1
-    skipAction: -1
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 8
+    skipActionActual: {fileID: 1264595672}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -5706,7 +5706,7 @@ MonoBehaviour:
     x: 14
     y: 748
     width: 300
-    height: 172
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 7950807407975133500}
@@ -6545,60 +6545,6 @@ MonoBehaviour:
   headTurnSpeed: 4
   moveOutOfPlayersWay: 0
   minPlayerDistance: 1
---- !u!114 &1931195656
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 14
-    width: 300
-    height: 232
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 2846819613007242427}
-  constantID: 0
-  parameterID: -1
-  isPlayer: 0
-  playerID: -1
-  playerParameterID: -1
-  linkedObject: {fileID: 71922982}
-  affectChildren: 0
-  messageToSend: 4
-  customMessageParameterID: -1
-  customMessage: addToCounter
-  sendValue: 1
-  customValueParameterID: -1
-  customValue: 1
-  ignoreWhenSkipping: 0
 --- !u!1 &1949158920
 GameObject:
   m_ObjectHideFlags: 0
@@ -8155,7 +8101,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   actions:
-  - {fileID: 1931195656}
   - {fileID: 1245330380}
   - {fileID: 325916721}
   isSkippable: 1
