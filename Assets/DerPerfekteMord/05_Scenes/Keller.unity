@@ -340,7 +340,7 @@ MonoBehaviour:
     x: 26
     y: 2142.5
     width: 300
-    height: 217
+    height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -350,8 +350,9 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "Haha! Ach Rita... das ist doch nichts, was dir peinlich sein muss.
-    Du kannst es mir einfach geben, ich finde schon eine Verwendung daf\xFCr."
+  messageText: "[expression:Lucie_Freudig]Haha! Ach Rita... das ist doch nichts,
+    was dir peinlich sein muss. Du kannst es mir einfach geben, ich finde schon eine
+    Verwendung daf\xFCr."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -788,7 +789,7 @@ MonoBehaviour:
     x: 395
     y: 841
     width: 300
-    height: 222
+    height: 237
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -798,7 +799,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: "W-was...Klebriges? Ich \xE4hm...tutmirleiddakannichnichthelfen."
+  messageText: "[expression:Rita_Angst_Verunsichert2]W-was...Klebriges? Ich \xE4hm...tutmirleiddakannichnichthelfen."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -2740,8 +2741,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Findest du das nicht ein bisschen eklig mit den ganzen Spinnenweben
-    hier?
+  messageText: '[expression:Lucie_Ekel3]Findest du das nicht ein bisschen eklig mit
+    den ganzen Spinnenweben hier?'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -2959,7 +2960,7 @@ MonoBehaviour:
     x: 398
     y: 300
     width: 300
-    height: 202
+    height: 217
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -2969,8 +2970,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "Warum so f\xF6rmlich? Du brauchst mich doch nicht zu siezen. So alt
-    bin ich dann doch noch nicht."
+  messageText: "[expression:Lucie_Verwundert_Skeptisch]Warum so f\xF6rmlich? Du brauchst
+    mich doch nicht zu siezen. So alt bin ich dann doch noch nicht."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -3137,7 +3138,7 @@ MonoBehaviour:
     x: 395
     y: 1385.5
     width: 300
-    height: 192
+    height: 207
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -3147,7 +3148,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: ...keine Ahnung.
+  messageText: '[expression:Rita_Trauer]...keine Ahnung.'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -3197,7 +3198,7 @@ MonoBehaviour:
     x: 708
     y: 513
     width: 300
-    height: 192
+    height: 207
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -3207,7 +3208,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: ...ich werde sie weg machen.
+  messageText: '[expression:Rita_Trauer]...ich werde sie weg machen.'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -4367,7 +4368,7 @@ MonoBehaviour:
     x: 396
     y: 1162.5
     width: 300
-    height: 202
+    height: 217
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -4377,8 +4378,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "Wie kann man sich in einem Keller blo\xDF wohl f\xFChlen? Hier ist
-    es doch total dunkel und staubig..."
+  messageText: "[expression:Lucie_Ekel3]Wie kann man sich in einem Keller blo\xDF
+    wohl f\xFChlen? Hier ist es doch total dunkel und staubig..."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -4428,7 +4429,7 @@ MonoBehaviour:
     x: 25
     y: 1161
     width: 300
-    height: 202
+    height: 217
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -4438,8 +4439,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "Das ist sch\xF6n zu h\xF6ren. Sag jederzeit Bescheid, wenn du irgendwas
-    brauchst!"
+  messageText: "[expression:Lucie_Freudig]Das ist sch\xF6n zu h\xF6ren. Sag jederzeit
+    Bescheid, wenn du irgendwas brauchst!"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -5224,7 +5225,7 @@ MonoBehaviour:
     x: 18
     y: 203
     width: 300
-    height: 237
+    height: 252
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -5234,8 +5235,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: "Oh \xE4hm... G-Guten Tag Frau Sch\xF6nbaum. Ich hab die Miete ganz
-    sicher gestern \xFCberwiesen.... glaub ich."
+  messageText: "[expression:Rita_Angst_Verunsichert]Oh \xE4hm... G-Guten Tag Frau
+    Sch\xF6nbaum. Ich hab die Miete ganz sicher gestern \xFCberwiesen.... glaub ich."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -5507,7 +5508,7 @@ MonoBehaviour:
     x: 79
     y: 500
     width: 300
-    height: 187
+    height: 202
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -5517,7 +5518,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Alles gut Rita, entspann dich. Ich wollte nur mal nach dir sehen.
+  messageText: '[expression:Lucie_Freudig]Alles gut Rita, entspann dich. Ich wollte
+    nur mal nach dir sehen.'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -6062,7 +6064,7 @@ MonoBehaviour:
     x: 25
     y: 1398
     width: 300
-    height: 222
+    height: 237
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -6072,8 +6074,9 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: "Naja... also.. ehrlich gesagt g\xE4be es da etwas... Wie soll ich
-    sagen... mir ist das ein bisschen peinlich, \xE4hm..."
+  messageText: "[expression:Rita_Angst_Verunsichert]Naja... also.. ehrlich gesagt
+    g\xE4be es da etwas... Wie soll ich sagen... mir ist das ein bisschen peinlich,
+    \xE4hm..."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -6870,7 +6873,7 @@ MonoBehaviour:
     x: 25
     y: 1870.5
     width: 300
-    height: 252
+    height: 267
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -6880,9 +6883,9 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: "\xC4hhhhhhm! Also... wenn ich... vertieft bin in meine Lekt\xFCre...
-    naja dann... also manchmal mache ich dann F\xE4den... \xE4h, also unbewusst.
-    Und... i-ich wei\xDF nicht mehr... wohin damit."
+  messageText: "[expression:Rita_Peinlich_Beruehert]\xC4hhhhhhm! Also... wenn ich...
+    vertieft bin in meine Lekt\xFCre... naja dann... also manchmal mache ich dann
+    F\xE4den... \xE4h, also unbewusst. Und... i-ich wei\xDF nicht mehr... wohin damit."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -7354,7 +7357,7 @@ MonoBehaviour:
     x: 398
     y: 420
     width: 300
-    height: 192
+    height: 207
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -7364,7 +7367,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: "\xC4hhhhm... ich...\xE4h. T-tut mir leid!"
+  messageText: "[expression:Rita_Angst_Verunsichert2]\xC4hhhhm... ich...\xE4h. T-tut
+    mir leid!"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -7498,7 +7502,7 @@ MonoBehaviour:
     x: 24
     y: 1652
     width: 300
-    height: 187
+    height: 202
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -7508,7 +7512,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Na los, raus mit der Sprache! Mir kannst du es ruhig sagen.
+  messageText: '[expression:Lucie_Freudig]Na los, raus mit der Sprache! Mir kannst
+    du es ruhig sagen.'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -7558,7 +7563,7 @@ MonoBehaviour:
     x: 78
     y: 712
     width: 300
-    height: 207
+    height: 222
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2317652584158712682}
@@ -7568,8 +7573,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1984720007}
-  messageText: "Oh... wie lieb von Ihnen! Ich f\xFChle mich sehr wohl hier... \xE4hm...
-    genau."
+  messageText: "[expression:Rita_Freude]Oh... wie lieb von Ihnen! Ich f\xFChle mich
+    sehr wohl hier... \xE4hm... genau."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -8457,7 +8462,7 @@ MonoBehaviour:
   displayLineID: -1
   speechColor: {r: 1, g: 1, b: 1, a: 1}
   portraitIcon:
-    texture: {fileID: 0}
+    texture: {fileID: 2800000, guid: 7dcc4c911434c1c4ba73ee9dd347efbb, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -8469,8 +8474,98 @@ MonoBehaviour:
     clickOffset: {x: 0, y: 0}
     frameSpeeds: []
     alwaysAnimate: 0
-  useExpressions: 0
-  expressions: []
+  useExpressions: 1
+  expressions:
+  - ID: 0
+    label: Rita_Angst_Verunsichert
+    portraitIcon:
+      texture: {fileID: 2800000, guid: 6988e21dd9e143f448e5f1b264358682, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+  - ID: 1
+    label: Rita_Angst_Verunsichert2
+    portraitIcon:
+      texture: {fileID: 2800000, guid: bbf379b6186189d48b3b642117ea09aa, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+  - ID: 2
+    label: Rita_Freude
+    portraitIcon:
+      texture: {fileID: 2800000, guid: 9daf91a7187f3334093f2a49877387d7, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+  - ID: 3
+    label: Rita_PeinlichBeruehert
+    portraitIcon:
+      texture: {fileID: 2800000, guid: a35bdd3d302166f4aa14521b99925dbd, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+  - ID: 4
+    label: Rita_Trauer
+    portraitIcon:
+      texture: {fileID: 2800000, guid: 961e59b369a953d41a869bcf8f1ebbc5, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+  - ID: 5
+    label: Rita_Trauer2
+    portraitIcon:
+      texture: {fileID: 2800000, guid: d1d550719409fe3459301c3c193aa8d7, type: 3}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
   speechMenuPlacement: {fileID: 0}
   mapExpressionsToShapeable: 0
   expressionGroupID: 0
@@ -10968,7 +11063,7 @@ GameObject:
   - component: {fileID: 2929301516659217529}
   - component: {fileID: 2929301516660290329}
   m_Layer: 0
-  m_Name: Keller_Hotspot
+  m_Name: "K\xFCche_Hotspot"
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -11030,7 +11125,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: Keller
+  hotspotName: "K\xFCche"
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 4214146330526371666}
