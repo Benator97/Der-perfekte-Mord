@@ -1153,10 +1153,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 946097342, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
-      propertyPath: actions.Array.data[0]
+    - target: {fileID: 1773382847, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773382847, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2044566467, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 2044566467, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 2044566467, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 325
+      objectReference: {fileID: 0}
+    - target: {fileID: 2044566467, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -152
+      objectReference: {fileID: 0}
+    - target: {fileID: 2044566468, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+      propertyPath: m_TargetGraphic
       value: 
-      objectReference: {fileID: 1205914032}
+      objectReference: {fileID: 0}
     - target: {fileID: 3600613724847407672, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -1512,46 +1536,6 @@ Transform:
   m_Father: {fileID: 1890936018}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1205914032
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47ef24c0855d41f4a4073c476ef37a2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -99
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings: []
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 300
-    height: 60
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  endGameType: 3
-  chooseSceneBy: 1
-  sceneNumber: 0
-  sceneName: "K\xFCche"
-  resetMenus: 0
 --- !u!1 &1239343585
 GameObject:
   m_ObjectHideFlags: 0
