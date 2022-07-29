@@ -44,7 +44,6 @@ public class JournalManager : MonoBehaviour
 
     public void UIOn()
     {
-        Debug.Log("Hallo");
         canvas.SetActive(true);
         timeManager.hideUI();
     }
