@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 2
   title: RitaExpression
-  slotSize: {x: 17.4, y: 37.7}
+  slotSize: {x: 31.3, y: 53.6}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -28,7 +28,7 @@ MonoBehaviour:
   isClickable: 0
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: dbfc424f35d8140419f0214db39d6e49, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -39,11 +39,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 115.200005
-    y: 656.64
-    width: 334.08002
-    height: 407.16
-  relativePosition: {x: 6, y: 60.8}
+    x: 0
+    y: 0
+    width: 194.999
+    height: 503.30402
+  relativePosition: {x: 0, y: 46.5}
   numSlots: 1
   uiImage: {fileID: 0}
   graphicType: 1
@@ -576,8 +576,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
-    height: 1080
+    width: 623
+    height: 939
   showInFilter: 1
 --- !u!114 &-7233700337209893822
 MonoBehaviour:
@@ -1235,7 +1235,7 @@ MonoBehaviour:
   isClickable: 0
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: dbfc424f35d8140419f0214db39d6e49, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -1455,7 +1455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: SubsSpeakerLabel
-  slotSize: {x: 48.1, y: 7}
+  slotSize: {x: 50, y: 7}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -1469,7 +1469,7 @@ MonoBehaviour:
   isClickable: 0
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -1480,11 +1480,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 522.24005
+    x: 487.68002
     y: 633.96
-    width: 923.52
+    width: 960.00006
     height: 75.6
-  relativePosition: {x: 27.2, y: 58.7}
+  relativePosition: {x: 25.4, y: 58.7}
   numSlots: 1
   uiText: {fileID: 0}
   _label: Brain
@@ -2214,7 +2214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: HotspotLabel
-  slotSize: {x: 6.9270835, y: 8.333333}
+  slotSize: {x: 6.9020867, y: 2.9818957}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -2241,8 +2241,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 133.00002
-    height: 90
+    width: 43
+    height: 28.000002
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -4092,108 +4092,6 @@ MonoBehaviour:
   inventoryPropertyType: 0
   selectedObjectiveLabelType: 0
   itemSlotNumber: 0
---- !u!114 &-161025596848992871
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a5f455f0e4a864975bf60bc153fbe20d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menuSource: 0
-  canvas: {fileID: 0}
-  canvasAssetKey: 
-  canvasID: 0
-  rectTransform: {fileID: 0}
-  rectTransformID: 0
-  uiTransitionType: 0
-  uiPositionType: 0
-  _isLocked: 0
-  id: 19
-  title: HiltrudePortrait
-  manualSize: {x: 100, y: 100}
-  positionType: 2
-  manualPosition: {x: 0, y: 0}
-  positionSmoothing: 0
-  alignment: 4
-  toggleKey: 
-  ignoreMouseClicks: 0
-  pauseWhenEnabled: 0
-  showWhenPaused: 0
-  canClickInCutscene: 0
-  enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
-  actionListOnTurnOff: {fileID: 0}
-  updateWhenFadeOut: 1
-  hideDuringSaveScreenshots: 1
-  fitWithinScreen: 1
-  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
-  visibleElements:
-  - {fileID: 2588635349232989357}
-  transitionProgress: 0
-  appearType: 6
-  speechMenuType: 3
-  speechMenuLimit: 0
-  limitToCharacters: Hiltrude
-  forceSubtitles: 1
-  moveWithCharacter: 1
-  selected_element: {fileID: 0}
-  selected_slot: 0
-  autoSelectFirstVisibleElement: 0
-  firstSelectedElement: 
-  elements:
-  - {fileID: 2588635349232989357}
-  spacing: 0.5
-  sizeType: 1
-  autoSizeEveryFrame: 0
-  orientation: 1
-  transitionType: 4
-  panDirection: 0
-  panMovement: 0
-  timeCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panDistance: 0.5
-  fadeSpeed: 0
-  zoomAnchor: 4
-  zoomElements: 0
-  oneMenuPerSpeech: 0
-  speechProximityLimit: 0
-  speechProximityDistance: 10
-  deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 0, y: 0}
-  rect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1920
-    height: 1080
-  showInFilter: 1
 --- !u!114 &-45749028044709577
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4289,7 +4187,6 @@ MonoBehaviour:
   - {fileID: 5490057532738495855}
   - {fileID: -3244831116400450445}
   - {fileID: -7356090144356349835}
-  - {fileID: -161025596848992871}
   globalDepth: 0
   pauseTexture: {fileID: 0}
   scaleTextEffects: 0
@@ -5037,7 +4934,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: SubsLineLabel
-  slotSize: {x: 48.1, y: 4.8}
+  slotSize: {x: 50, y: 4.8}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -5051,7 +4948,7 @@ MonoBehaviour:
   isClickable: 0
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -5062,11 +4959,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 522.24005
+    x: 487.68002
     y: 709.56
-    width: 923.52
+    width: 960.00006
     height: 51.840004
-  relativePosition: {x: 27.2, y: 65.7}
+  relativePosition: {x: 25.4, y: 65.7}
   numSlots: 1
   uiText: {fileID: 0}
   _label: Hi!
@@ -5766,68 +5663,6 @@ MonoBehaviour:
   inventoryItemCountDisplay: 0
   containerSelectMode: 1
   preventDefaultClicks: 0
---- !u!114 &2588635349232989357
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 611a3370e9fc74eebbb277d7159c4851, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ID: 2
-  title: HiltrudeExpression
-  slotSize: {x: 31.4, y: 62.3}
-  sizeType: 1
-  positionType: 2
-  slotSpacing: 0
-  lineID: -1
-  alternativeInputButton: 
-  font: {fileID: 0}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
-  isVisible: 1
-  isClickable: 0
-  orientation: 1
-  gridWidth: 3
-  backgroundTexture: {fileID: 0}
-  singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 0}
-  hoverSound: {fileID: 0}
-  clickSound: {fileID: 0}
-  changeCursor: 0
-  cursorID: 0
-  linkedUiID: 0
-  maxAutoWidthFactor: 0.5
-  relativeRect:
-    serializedVersion: 2
-    x: 0
-    y: 407.16
-    width: 602.88
-    height: 672.84
-  relativePosition: {x: 0, y: 37.7}
-  numSlots: 1
-  uiImage: {fileID: 0}
-  graphicType: 1
-  graphic:
-    texture: {fileID: 0}
-    isAnimated: 0
-    numFrames: 1
-    numRows: 1
-    numCols: 1
-    size: 0.015
-    animSpeed: 4
-    endAnimOnLastFrame: 0
-    skipFirstFrameWhenLooping: 0
-    clickOffset: {x: 0, y: 0}
-    frameSpeeds: []
-    alwaysAnimate: 0
-  uiRawImage: {fileID: 0}
-  uiImageType: 0
 --- !u!114 &2632826816994154999
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5995,7 +5830,7 @@ MonoBehaviour:
   isClickable: 0
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: a140ca0ea9507994585487fdb9feb132, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -6831,7 +6666,7 @@ MonoBehaviour:
   appearType: 6
   speechMenuType: 3
   speechMenuLimit: 0
-  limitToCharacters: Player
+  limitToCharacters: Player_Lucie_Test
   forceSubtitles: 0
   moveWithCharacter: 1
   selected_element: {fileID: 0}
