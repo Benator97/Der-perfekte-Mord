@@ -506,6 +506,7 @@ MonoBehaviour:
   timeCounter: {fileID: 11400000, guid: 497100a7820eefd45ae3f10f37bcdece, type: 2}
   targetTime: {fileID: 11400000, guid: c4933981f20420c46abc0a47817f3906, type: 2}
   restartActions: {fileID: 11400000, guid: 4ba54c8919a07bf43854df81306038f1, type: 2}
+  canvas: {fileID: 648679452}
   slider: {fileID: 2044566468}
 --- !u!114 &4114700972989528238
 MonoBehaviour:

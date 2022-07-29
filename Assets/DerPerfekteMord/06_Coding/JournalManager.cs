@@ -7,9 +7,17 @@ using AC;
 public class JournalManager : MonoBehaviour
 {
     public JournalData journalData;
+    public TimeManager timeManager;
+    public GameObject canvas;
     public GameObject stickyNotePoster;
     public GameObject stickyNoteBomb;
     public GameObject stickyNoteGlue;
+    public GameObject stickyNoteReiner1;
+    public GameObject stickyNoteTanja1;
+    public GameObject stickyNoteReiner2;
+    public GameObject stickyNoteTanja2;
+    public GameObject stickyNoteReiner3;
+    public GameObject stickyNoteReiner4;
 
     public void Start()
     {
@@ -32,6 +40,19 @@ public class JournalManager : MonoBehaviour
     {
         journalData.gluePlaced = true;
         refreshUI();
+    }
+
+    public void UIOn()
+    {
+        Debug.Log("Hallo");
+        canvas.SetActive(true);
+        timeManager.hideUI();
+    }
+
+    public void UIOff()
+    {
+        canvas.SetActive(false);
+        timeManager.showUI();
     }
 
     public void resetJournal()
