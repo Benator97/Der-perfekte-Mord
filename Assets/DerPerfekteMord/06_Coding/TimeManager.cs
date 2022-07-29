@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using AC;
 
 public class TimeManager : MonoBehaviour
@@ -8,16 +9,31 @@ public class TimeManager : MonoBehaviour
     public IntVariable timeCounter;
     public IntVariable targetTime;
     public ActionListAsset restartActions;
+    public Slider slider;
 
+    public void Start()
+    {
+        slider.maxValue = targetTime.value;
+        adjustUI();
+    }
+    
     public void addToCounter(int timeValue)
     {
         timeCounter.value += timeValue;
+        adjustUI();
         checkCounter();
+    }
+
+    public void adjustUI()
+    {
+        Debug.Log(timeCounter.value);
+        slider.value = timeCounter.value;
     }
 
     public void resetCounter()
     {
         timeCounter.value = 0;
+        adjustUI();
     }
 
     private void checkCounter()
