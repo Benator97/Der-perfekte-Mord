@@ -511,8 +511,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 11400000, guid: 1808dd98cf5fec34386f8897eaf7d541, type: 2}
-  actionListOnTurnOff: {fileID: 11400000, guid: 083f53748e5a0a642bd7244e77fce2ea, type: 2}
+  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -875,9 +875,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 3
   title: Inventory
-  manualSize: {x: 100, y: 14.2}
+  manualSize: {x: 82.4, y: 15}
   positionType: 1
-  manualPosition: {x: 960, y: 76.68}
+  manualPosition: {x: 791.04, y: 81}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -911,7 +911,7 @@ MonoBehaviour:
   - {fileID: 6858762605268771944}
   - {fileID: -2507351209792146558}
   - {fileID: 2675874325007538956}
-  spacing: 0.5
+  spacing: 0.74
   sizeType: 1
   autoSizeEveryFrame: 0
   orientation: 0
@@ -955,8 +955,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
-    height: 153.36
+    width: 1582.08
+    height: 162
   showInFilter: 1
 --- !u!114 &-6702064714222532705
 MonoBehaviour:
@@ -2397,8 +2397,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 11400000, guid: 1808dd98cf5fec34386f8897eaf7d541, type: 2}
-  actionListOnTurnOff: {fileID: 11400000, guid: 083f53748e5a0a642bd7244e77fce2ea, type: 2}
+  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -3182,9 +3182,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: InventoryBox
-  slotSize: {x: 7, y: 11}
+  slotSize: {x: 7.3, y: 11}
   sizeType: 1
-  positionType: 0
+  positionType: 2
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
@@ -3207,12 +3207,12 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 67.2
-    y: 9.6
-    width: 1747.2001
+    x: 71.193596
+    y: 19.44
+    width: 1401.6001
     height: 118.8
-  relativePosition: {x: 0, y: 0}
-  numSlots: 13
+  relativePosition: {x: 4.5, y: 12}
+  numSlots: 10
   uiSlots:
   - uiButton: {fileID: 0}
     uiButtonID: 1857130
@@ -3259,7 +3259,7 @@ MonoBehaviour:
   outlineSize: 2
   inventoryBoxType: 0
   actionListOnClick: {fileID: 0}
-  maxSlots: 13
+  maxSlots: 10
   limitToCategory: 0
   limitToDefinedInteractions: 1
   categoryID: -1
@@ -3570,9 +3570,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 21
   title: JournalButton
-  manualSize: {x: 11.8, y: 21}
+  manualSize: {x: 10.9, y: 21}
   positionType: 2
-  manualPosition: {x: 75.6, y: 89.4}
+  manualPosition: {x: 94.3, y: 89.4}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -3644,9 +3644,9 @@ MonoBehaviour:
   biggestElementSize: {x: 2057.6, y: 2057.6}
   rect:
     serializedVersion: 2
-    x: 1338.24
+    x: 1705.92
     y: 852.12
-    width: 226.56
+    width: 209.28
     height: 226.79999
   showInFilter: 1
 --- !u!114 &-1523174910133684759
@@ -4470,8 +4470,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 11400000, guid: 1808dd98cf5fec34386f8897eaf7d541, type: 2}
-  actionListOnTurnOff: {fileID: 11400000, guid: 083f53748e5a0a642bd7244e77fce2ea, type: 2}
+  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -4736,7 +4736,7 @@ MonoBehaviour:
   menuSource: 2
   canvas: {fileID: 0}
   canvasAssetKey: 
-  canvasID: 49598
+  canvasID: 9926
   rectTransform: {fileID: 0}
   rectTransformID: 0
   uiTransitionType: 0
@@ -6372,9 +6372,9 @@ MonoBehaviour:
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 2800000, guid: 9786f1ddb7b7b43ef8de7dbc95b78bb1, type: 3}
+  backgroundTexture: {fileID: 2800000, guid: d61bd24a3526248b5a8b5086726d9d8b, type: 3}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 2800000, guid: 4c18e768f1bef4f0cb3c66642e3c2e2c, type: 3}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -6383,11 +6383,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 1862.4
-    y: 13.8024
+    x: 1523.5431
+    y: 15.876
     width: 48
     height: 118.8
-  relativePosition: {x: 97, y: 9}
+  relativePosition: {x: 96.3, y: 9.8}
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
@@ -6411,7 +6411,7 @@ MonoBehaviour:
   inputAxis: 
   simulateInput: 0
   simulateValue: 1
-  clickTexture: {fileID: 2800000, guid: 4c18e768f1bef4f0cb3c66642e3c2e2c, type: 3}
+  clickTexture: {fileID: 0}
   allowContinuousClick: 0
   uiSelectableHideStyle: 0
 --- !u!114 &2776313614075179973
@@ -7052,7 +7052,7 @@ MonoBehaviour:
   gridWidth: 3
   backgroundTexture: {fileID: 2800000, guid: cd1cee27c8810b243868df5fa5615b2c, type: 3}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 0}
+  highlightTexture: {fileID: 2800000, guid: cb2b6f566f0e0db429eb43d9ac13b417, type: 3}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -7336,8 +7336,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 11400000, guid: 1808dd98cf5fec34386f8897eaf7d541, type: 2}
-  actionListOnTurnOff: {fileID: 11400000, guid: 083f53748e5a0a642bd7244e77fce2ea, type: 2}
+  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -7744,7 +7744,7 @@ MonoBehaviour:
   title: ShiftLeft
   slotSize: {x: 2.5, y: 11}
   sizeType: 1
-  positionType: 0
+  positionType: 2
   slotSpacing: 0
   lineID: 82
   alternativeInputButton: 
@@ -7758,7 +7758,7 @@ MonoBehaviour:
   gridWidth: 3
   backgroundTexture: {fileID: 2800000, guid: ef118e99a62af4f05ad8c9f331a04f27, type: 3}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 2800000, guid: 4c18e768f1bef4f0cb3c66642e3c2e2c, type: 3}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -7767,11 +7767,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 9.6
-    y: 9.6
+    x: 0
+    y: 15.876
     width: 48
     height: 118.8
-  relativePosition: {x: 0, y: 0}
+  relativePosition: {x: 0, y: 9.8}
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
@@ -7795,7 +7795,7 @@ MonoBehaviour:
   inputAxis: 
   simulateInput: 0
   simulateValue: 1
-  clickTexture: {fileID: 2800000, guid: 4c18e768f1bef4f0cb3c66642e3c2e2c, type: 3}
+  clickTexture: {fileID: 0}
   allowContinuousClick: 0
   uiSelectableHideStyle: 0
 --- !u!114 &6887799532615212405

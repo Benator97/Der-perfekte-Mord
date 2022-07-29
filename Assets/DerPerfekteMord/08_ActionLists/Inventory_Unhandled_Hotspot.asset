@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3cc1f751990d444ef9e1381090933b8b, type: 3}
-  m_Name: UIOff
+  m_Name: Inventory_Unhandled_Hotspot
   m_EditorClassIdentifier: 
   actions:
-  - {fileID: 5579970191075010533}
+  - {fileID: 2047134256493845705}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -24,7 +24,7 @@ MonoBehaviour:
   parameters: []
   tagID: 0
   backupData: []
---- !u!114 &5579970191075010533
+--- !u!114 &2047134256493845705
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -33,23 +33,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
-  m_Name: 
+  m_Script: {fileID: 11500000, guid: 8122ceaf185ff4b929c2329cb3c5c431, type: 3}
+  m_Name: (Clone)
   m_EditorClassIdentifier: 
   id: 0
   isDisplayed: 1
   showComment: 0
   comment: 
-  willWait: 0
+  willWait: 1
   endAction: 0
   skipAction: -1
   skipActionActual: {fileID: 0}
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
+  - resultAction: 1
+    skipAction: 0
+    skipActionActual: {fileID: 2047134256493845705}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -60,21 +60,18 @@ MonoBehaviour:
     x: 14
     y: 14
     width: 300
-    height: 240
+    height: 220
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
-  constantID: 11858
+  constantID: 107988
   parameterID: -1
-  isPlayer: 0
-  playerID: -1
-  playerParameterID: -1
-  linkedObject: {fileID: 0}
+  soundObject: {fileID: 0}
+  audioClip: {fileID: 8300000, guid: 70e2faa87df57e14da26ebebf8816108, type: 3}
+  audioClipParameterID: -1
+  fadeTime: 0
+  loop: 0
+  ignoreIfPlaying: 0
+  soundAction: 0
   affectChildren: 0
-  messageToSend: 4
-  customMessageParameterID: -1
-  customMessage: hideUI
-  sendValue: 0
-  customValueParameterID: -1
-  customValue: 0
-  ignoreWhenSkipping: 0
+  autoEndOtherMusicWhenPlayed: 1

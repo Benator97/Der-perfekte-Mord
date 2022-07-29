@@ -582,8 +582,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 9.400017
-    y: 574.8
+    x: 14.400017
+    y: 467.8
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -651,7 +651,7 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 14
+    skipAction: 13
     skipActionActual: {fileID: 1229146847028942811}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -799,7 +799,7 @@ MonoBehaviour:
     x: 675.88306
     y: 1492.1089
     width: 300
-    height: 240.20001
+    height: 242
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -848,7 +848,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1031,7 +1031,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 96
+    skipAction: 95
     skipActionActual: {fileID: 7699529975879193626}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1091,12 +1091,12 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 20
+    skipAction: 19
     skipActionActual: {fileID: 2956604642876627527}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 21
+    skipAction: 20
     skipActionActual: {fileID: 2023945688381093943}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1477,7 +1477,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 56
+    skipAction: 55
     skipActionActual: {fileID: -5416450092182217167}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1600,7 +1600,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1821,60 +1821,6 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 0
---- !u!114 &-4566239168470255523
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 1
-    skipActionActual: {fileID: -1005507946838242526}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 14
-    width: 300
-    height: 260
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  constantID: 11858
-  parameterID: -1
-  isPlayer: 0
-  playerID: -1
-  playerParameterID: -1
-  linkedObject: {fileID: 0}
-  affectChildren: 0
-  messageToSend: 4
-  customMessageParameterID: -1
-  customMessage: hideUI
-  sendValue: 0
-  customValueParameterID: -1
-  customValue: 0
-  ignoreWhenSkipping: 0
 --- !u!114 &-4522308368634895539
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2276,7 +2222,7 @@ MonoBehaviour:
     x: 993.4613
     y: 1489.7345
     width: 300
-    height: 240.20001
+    height: 242
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -2627,7 +2573,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 3
+    skipAction: 2
     skipActionActual: {fileID: 2521723635795783521}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -2940,7 +2886,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 4
+    skipAction: 3
     skipActionActual: {fileID: -835443798480540188}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -2949,8 +2895,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 366
-    y: 131
+    x: 14
+    y: 14
     width: 300
     height: 252
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -3143,8 +3089,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 339.40002
-    y: 405.80002
+    x: 15.400024
+    y: 284.80002
     width: 300
     height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -3179,7 +3125,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -3290,7 +3236,6 @@ MonoBehaviour:
   m_Name: InGame_MordProbierenButton_OnClick
   m_EditorClassIdentifier: 
   actions:
-  - {fileID: -4566239168470255523}
   - {fileID: -1005507946838242526}
   - {fileID: -1328774251650802516}
   - {fileID: 2521723635795783521}
@@ -3549,7 +3494,7 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 16
+    skipAction: 15
     skipActionActual: {fileID: 4696387284207562901}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -3806,7 +3751,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -3926,7 +3871,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -4222,7 +4167,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 83
+    skipAction: 82
     skipActionActual: {fileID: -8505679462065571595}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -4344,7 +4289,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -4588,7 +4533,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -4653,7 +4598,7 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 17
+    skipAction: 16
     skipActionActual: {fileID: 7432655365387541634}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -4855,7 +4800,7 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 13
+    skipAction: 12
     skipActionActual: {fileID: -5414773377967514477}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -4930,7 +4875,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 42
+    skipAction: 41
     skipActionActual: {fileID: 5441944816448477626}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -5055,7 +5000,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 74
+    skipAction: 73
     skipActionActual: {fileID: -2413270510170184609}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -5300,12 +5245,12 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 31
+    skipAction: 30
     skipActionActual: {fileID: 7801515346576576665}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 41
+    skipAction: 40
     skipActionActual: {fileID: -6618011744744283666}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -5563,7 +5508,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 65
+    skipAction: 64
     skipActionActual: {fileID: -7151381955484393836}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -5623,7 +5568,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 2
+    skipAction: 1
     skipActionActual: {fileID: -1328774251650802516}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -5688,7 +5633,7 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 2
-    skipAction: 19
+    skipAction: 18
     skipActionActual: {fileID: 5795674598488206022}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
