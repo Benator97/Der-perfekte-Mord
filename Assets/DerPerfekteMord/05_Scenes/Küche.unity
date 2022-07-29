@@ -2191,7 +2191,7 @@ MonoBehaviour:
     x: 364
     y: 1525
     width: 300
-    height: 227
+    height: 242
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5663496626586781710}
@@ -2201,7 +2201,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1931140503}
-  messageText: "Hey! Mein Gro\xDFonkel 3. Grades war ein Maulwurf!"
+  messageText: "[expression:Thomas_Freudig]Hey! Mein Gro\xDFonkel 3. Grades war ein
+    Maulwurf!"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -2397,7 +2398,7 @@ MonoBehaviour:
     x: 364
     y: 494
     width: 300
-    height: 252
+    height: 267
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5663496626586781710}
@@ -2407,8 +2408,9 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "THOMAS, H\xD6R ZU! DU MUSST SOFORT AUS BIEDERACH RAUS!! AM BESTEN,
-    DU VERL\xC4SST DAS LAND! KEINE ZEIT F\xDCR ERKL\xC4RUNGEN."
+  messageText: "[expression:Lucie_Veraengstigt_Panisch]THOMAS, H\xD6R ZU! DU MUSST
+    SOFORT AUS BIEDERACH RAUS!! AM BESTEN, DU VERL\xC4SST DAS LAND! KEINE ZEIT F\xDCR
+    ERKL\xC4RUNGEN."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -3881,7 +3883,7 @@ MonoBehaviour:
     x: 364
     y: 1273
     width: 300
-    height: 222
+    height: 237
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5663496626586781710}
@@ -3891,8 +3893,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: War nicht anders zu erwarten von den Leuten hier. Weitsicht wie ein
-    Maulwurf.
+  messageText: '[expression:Lucie_Verachtung]War nicht anders zu erwarten von den
+    Leuten hier. Weitsicht wie ein Maulwurf.'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -6929,7 +6931,7 @@ MonoBehaviour:
     x: 364
     y: 776
     width: 300
-    height: 222
+    height: 237
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5663496626586781710}
@@ -6939,8 +6941,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1931140503}
-  messageText: "HOHO! Na da ist wohl jemand noch nicht ganz wach. Hast du was Schlechtes
-    getr\xE4umt?"
+  messageText: "[expression:Thomas_Ueberrascht]HOHO! Na da ist wohl jemand noch nicht
+    ganz wach. Hast du was Schlechtes getr\xE4umt?"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -7104,7 +7106,7 @@ MonoBehaviour:
     x: 364
     y: 1028
     width: 300
-    height: 187
+    height: 202
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5663496626586781710}
@@ -7114,7 +7116,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Warum versuch ich es eigentlich immer wieder?
+  messageText: '[expression:Lucie_Traurig]Warum versuch ich es eigentlich immer wieder?'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -7360,7 +7362,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Neija... Ich muss jetzt weiter.
+  messageText: Morgen. Muss los!
   lineID: -1
   multiLineIDs: 
   isBackground: 0
