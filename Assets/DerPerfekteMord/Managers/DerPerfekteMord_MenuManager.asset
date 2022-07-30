@@ -1094,7 +1094,7 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 9949697b6bbd1f14ea1c1ffaf505ad14, type: 2}
   actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
@@ -4272,11 +4272,11 @@ MonoBehaviour:
   anchor: 4
   textEffects: 0
   outlineSize: 2
-  buttonClickType: 3
+  buttonClickType: 0
   actionList: {fileID: 11400000, guid: 3aaabc8d0edc0cd4b86c2d9ecf883e6a, type: 2}
   parameterID: -1
   parameterValue: 0
-  doFade: 0
+  doFade: 1
   switchMenuTitle: 
   inventoryBoxTitle: 
   shiftInventory: 0
