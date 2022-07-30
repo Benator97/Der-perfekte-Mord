@@ -613,10 +613,10 @@ MonoBehaviour:
     showInFilter: 1
   bins: []
   invVars: []
-  unhandledCombine: {fileID: 0}
-  unhandledHotspot: {fileID: 0}
+  unhandledCombine: {fileID: 11400000, guid: f0b4f6921c0efb44baa8ac9440ee25f0, type: 2}
+  unhandledHotspot: {fileID: 11400000, guid: 4907582eb2d805048891eb5cff8d56b4, type: 2}
   passUnhandledHotspotAsParameter: 0
-  unhandledGive: {fileID: 0}
+  unhandledGive: {fileID: 11400000, guid: 71978f72c7ad65742a5b57866e671faa, type: 2}
   recipes: []
   documents: []
   objectives: []

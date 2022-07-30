@@ -9,12 +9,23 @@ public class TimeManager : MonoBehaviour
     public IntVariable timeCounter;
     public IntVariable targetTime;
     public ActionListAsset restartActions;
+    public GameObject canvas;
     public Slider slider;
 
     public void Start()
     {
         slider.maxValue = targetTime.value;
         adjustUI();
+    }
+
+    public void hideUI()
+    {
+        canvas.SetActive(false);
+    }
+
+    public void showUI()
+    {
+        canvas.SetActive(true);
     }
     
     public void addToCounter(int timeValue)
