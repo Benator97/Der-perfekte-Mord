@@ -14,24 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scrollSubtitles: 1
   scrollNarration: 1
-  textScrollSpeed: 50
+  textScrollSpeed: 35
   textScrollCLip: {fileID: 0}
   narrationTextScrollCLip: {fileID: 0}
-  playScrollAudioEveryCharacter: 1
-  speechScrollAudioSource: 0
+  playScrollAudioEveryCharacter: 0
+  speechScrollAudioSource: 1
   waitTimeOffset: 0
   displayForever: 0
   displayNarrationForever: 0
   playAnimationForever: 1
   canSkipWithMouseClicks: 1
   minimumDisplayTime: 1
-  screenTimeFactor: 0.1
+  screenTimeFactor: 0.6
   allowSpeechSkipping: 1
   allowGameplaySpeechSkipping: 0
-  skipThresholdTime: 0
+  skipThresholdTime: 0.1
   endScrollBeforeSkip: 0
   ifSkipWhileScrolling: 0
-  scrollingTextFactorsLength: 1
+  scrollingTextFactorsLength: 0
   syncSubtitlesToAudio: 1
   useAssetBundles: 0
   searchAudioFiles: 1

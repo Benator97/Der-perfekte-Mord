@@ -693,7 +693,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   soundType: 0
   playWhilePaused: 0
-  relativeVolume: 1
+  relativeVolume: 0.3
   surviveSceneChange: 0
 --- !u!1 &562793962868145263
 GameObject:
