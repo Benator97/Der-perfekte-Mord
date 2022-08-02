@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d8a77a7cff26fe48981cda5299865c5, type: 3}
   m_Name: JournalData
   m_EditorClassIdentifier: 
-  reiner1: 1
+  reiner1: 0
   reiner2: 0
   reiner3: 0
   reiner4: 0
