@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d8a77a7cff26fe48981cda5299865c5, type: 3}
   m_Name: JournalData
   m_EditorClassIdentifier: 
-  posterPlaced: 0
-  bombPlaced: 0
-  gluePlaced: 0
+  reiner1: 1
+  reiner2: 0
+  reiner3: 0
+  reiner4: 0
+  tanja1: 0
+  tanja2: 0
