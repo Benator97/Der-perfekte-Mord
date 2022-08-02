@@ -37,7 +37,6 @@ public class TimeManager : MonoBehaviour
 
     public void adjustUI()
     {
-        Debug.Log(timeCounter.value);
         slider.value = timeCounter.value;
     }
 

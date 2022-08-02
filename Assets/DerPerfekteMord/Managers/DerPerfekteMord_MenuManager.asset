@@ -765,12 +765,12 @@ MonoBehaviour:
   anchor: 4
   textEffects: 0
   outlineSize: 2
-  buttonClickType: 0
+  buttonClickType: 1
   actionList: {fileID: 0}
   parameterID: -1
   parameterValue: 0
   doFade: 1
-  switchMenuTitle: 
+  switchMenuTitle: Journal
   inventoryBoxTitle: 
   shiftInventory: 0
   shiftAmount: 1
@@ -4183,7 +4183,7 @@ MonoBehaviour:
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 2800000, guid: cb2b6f566f0e0db429eb43d9ac13b417, type: 3}
   hoverSound: {fileID: 0}
-  clickSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 89e21b88b29f1b544bbef3cb43b7fa0c, type: 3}
   changeCursor: 0
   cursorID: 0
   linkedUiID: 48202
@@ -4204,7 +4204,7 @@ MonoBehaviour:
   anchor: 4
   textEffects: 0
   outlineSize: 2
-  buttonClickType: 4
+  buttonClickType: 0
   actionList: {fileID: 11400000, guid: 3aaabc8d0edc0cd4b86c2d9ecf883e6a, type: 2}
   parameterID: -1
   parameterValue: 0
@@ -7472,7 +7472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 1
-  title: Button
+  title: Menu
   slotSize: {x: 10, y: 5}
   sizeType: 0
   positionType: 0
