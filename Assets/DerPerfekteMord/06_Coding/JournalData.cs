@@ -5,7 +5,10 @@ using UnityEngine;
 [CreateAssetMenu (menuName = "JournalData")]
 public class JournalData : ScriptableObject
 {
-    public bool posterPlaced = false;
-    public bool bombPlaced = false;
-    public bool gluePlaced = false;
+    public bool reiner1 = false;
+    public bool reiner2 = false;
+    public bool reiner3 = false;
+    public bool reiner4 = false;
+    public bool tanja1 = false;
+    public bool tanja2 = false;
 }
