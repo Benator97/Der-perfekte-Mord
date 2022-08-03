@@ -5325,10 +5325,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: GOPostProcessing
       objectReference: {fileID: 0}
-    - target: {fileID: 1171120245062418150, guid: b372dd47cdada814cbd64316e5287b9b, type: 3}
-      propertyPath: weight
-      value: 0.67
-      objectReference: {fileID: 0}
     - target: {fileID: 1171120245062418151, guid: b372dd47cdada814cbd64316e5287b9b, type: 3}
       propertyPath: m_RootOrder
       value: 17

@@ -1696,7 +1696,7 @@ Transform:
   - {fileID: 1374888247}
   - {fileID: 412210165}
   - {fileID: 901522577}
-  m_Father: {fileID: 869593830}
+  m_Father: {fileID: 869593832}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &369230929
@@ -2470,7 +2470,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: 'TW1.1: Sag Bescheid, wenn du was brauchst!'
+  - label: Sag Bescheid, wenn was ist!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -2499,7 +2499,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: "TW1.2: In einem Keller f\xFChlst du dich wohl?"
+  - label: "HIER f\xFChlst du dich wohl?"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -2529,7 +2529,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: "TW1.2: In einem Keller f\xFChlst du dich wohl?"
+    label: Sag Bescheid, wenn was ist!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -2549,7 +2549,7 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 2
+    ID: 1
     hasBeenChosen: 0
     autoTurnOff: 1
     linkToInventory: 0
@@ -3996,7 +3996,7 @@ Transform:
   - {fileID: 660862536}
   - {fileID: 1343598655}
   - {fileID: 1808769344}
-  m_Father: {fileID: 869593830}
+  m_Father: {fileID: 869593832}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &826202850
@@ -4454,7 +4454,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 11
+  m_SortingOrder: 12
   m_Sprite: {fileID: 21300000, guid: 1bd7ec945e2fecc4fab306b40bbdf584, type: 3}
   m_Color: {r: 0.72330016, g: 0.7920952, b: 0.8113208, a: 1}
   m_FlipX: 1
@@ -4474,7 +4474,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 869593830}
+  - component: {fileID: 869593832}
   - component: {fileID: 869593831}
   m_Layer: 0
   m_Name: Background_Keller
@@ -4483,28 +4483,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &869593830
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 869593829}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1859128123}
-  - {fileID: 1760975384}
-  - {fileID: 1005697156}
-  - {fileID: 369230928}
-  - {fileID: 826202849}
-  - {fileID: 1216079038}
-  - {fileID: 2108129528}
-  m_Father: {fileID: 1915718866}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &869593831
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4557,6 +4535,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!224 &869593832
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 869593829}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1859128123}
+  - {fileID: 1760975384}
+  - {fileID: 1005697156}
+  - {fileID: 369230928}
+  - {fileID: 826202849}
+  - {fileID: 1216079038}
+  - {fileID: 2108129528}
+  m_Father: {fileID: 1915718867}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 10.830732}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &871727085
 GameObject:
   m_ObjectHideFlags: 0
@@ -5197,7 +5202,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2090701105}
-  m_Father: {fileID: 1915718866}
+  m_Father: {fileID: 1915718867}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &932309583
@@ -5459,7 +5464,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1588620585}
-  m_Father: {fileID: 869593830}
+  m_Father: {fileID: 869593832}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1005697157
@@ -6290,7 +6295,7 @@ Transform:
   - {fileID: 297450463}
   - {fileID: 1735116}
   - {fileID: 1202995720}
-  m_Father: {fileID: 869593830}
+  m_Father: {fileID: 869593832}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1253097255
@@ -7289,7 +7294,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3600613724847407672, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 3600613724847407672, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8464,7 +8469,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 869593830}
+  m_Father: {fileID: 869593832}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1760975385
@@ -8747,7 +8752,7 @@ Transform:
   m_LocalScale: {x: 1.0696614, y: 1.0696614, z: 1.0696614}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 869593830}
+  m_Father: {fileID: 869593832}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1859128124
@@ -8895,7 +8900,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1915718866}
+  - component: {fileID: 1915718867}
   m_Layer: 0
   m_Name: _SetGeometry
   m_TagString: Untagged
@@ -8903,8 +8908,8 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1915718866
-Transform:
+--- !u!224 &1915718867
+RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -8916,10 +8921,15 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 929349286}
-  - {fileID: 869593830}
+  - {fileID: 869593832}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1928400868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9093,7 +9103,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1984720004
 GameObject:
@@ -10321,7 +10331,7 @@ Transform:
   - {fileID: 21530965}
   - {fileID: 589232035}
   - {fileID: 1005110803}
-  m_Father: {fileID: 869593830}
+  m_Father: {fileID: 869593832}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2134063020
@@ -10528,7 +10538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: 'TW1: Alles gut!'
+  - label: Alles gut!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10557,7 +10567,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: "TW2: Warum so f\xF6rmlich?"
+  - label: "Warum so f\xF6rmlich?"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10586,7 +10596,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW3: Ih, so viele Spinnenweben!'
+  - label: Ih, so viele Spinnenweben!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10615,7 +10625,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW4: Muss los!'
+  - label: Muss los!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10645,7 +10655,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 'TW1: Alles gut!'
+    label: Muss los!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -10665,7 +10675,7 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 1
+    ID: 4
     hasBeenChosen: 0
     autoTurnOff: 0
     linkToInventory: 0
@@ -10790,13 +10800,14 @@ PolygonCollider2D:
       - {x: 0.17417204, y: -4.661237}
       - {x: 4.25199, y: -4.6772532}
       - {x: 5.1192203, y: -4.505592}
-      - {x: 5.336757, y: -3.7735279}
-      - {x: 6.640825, y: -3.664961}
-      - {x: 6.9185023, y: -4.0596867}
-      - {x: 8.951328, y: -4.0824633}
-      - {x: 9.42681, y: -3.7628565}
-      - {x: 10.885363, y: -3.7682662}
-      - {x: 10.885442, y: -4.6354504}
+      - {x: 5.336757, y: -4.256442}
+      - {x: 6.4166145, y: -4.4583206}
+      - {x: 7.8498373, y: -4.508107}
+      - {x: 8.192463, y: -4.8585753}
+      - {x: 10.133935, y: -4.901155}
+      - {x: 10.454188, y: -4.923811}
+      - {x: 10.816454, y: -5.014883}
+      - {x: 10.826219, y: -5.2600203}
       - {x: 10.877959, y: -5.2600203}
       - {x: 2.2347493, y: -5.285976}
       - {x: -7.489371, y: -5.2843175}
@@ -13073,35 +13084,6 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0

@@ -632,7 +632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: 'TW1: Muss los.'
+  - label: Muss los.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -661,7 +661,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW2: Das war nicht anders zu erwarten.'
+  - label: War ja klar.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -691,7 +691,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 'TW1: Muss los.'
+    label: War ja klar.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -711,7 +711,7 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 2
+    ID: 3
     hasBeenChosen: 0
     autoTurnOff: 1
     linkToInventory: 0
@@ -12030,7 +12030,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: 'TW1: So wie jede Nacht.'
+  - label: So wie jede Nacht.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -12059,7 +12059,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW2: RETTE DICH, THOMAS!!!'
+  - label: RETTE DICH, THOMAS!!!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -12088,7 +12088,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW3: Muss weiter!'
+  - label: Muss weiter!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -12118,7 +12118,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 'TW1: So wie jede Nacht.'
+    label: Muss weiter!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -12138,7 +12138,7 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 2
+    ID: 4
     hasBeenChosen: 0
     autoTurnOff: 0
     linkToInventory: 0

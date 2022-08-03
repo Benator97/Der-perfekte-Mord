@@ -6861,7 +6861,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: 'TW2.1: Klar, alles gut.'
+  - label: Klar, alles gut.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -6890,7 +6890,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW2.2: OB ES MIR GUT GEHT???'
+  - label: OB ES MIR GUT GEHT???
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -6920,7 +6920,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 'TW2.1: Klar, alles gut.'
+    label: OB ES MIR GUT GEHT???
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -6940,9 +6940,9 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 1
+    ID: 2
     hasBeenChosen: 0
-    autoTurnOff: 0
+    autoTurnOff: 1
     linkToInventory: 0
     linkedInventoryID: 0
     dialogueOption: {fileID: 0}
@@ -11294,8 +11294,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 11
-    y: 750
+    x: 16
+    y: 499
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -15199,8 +15199,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 13
-    skipActionActual: {fileID: 1983597037}
+    skipAction: 12
+    skipActionActual: {fileID: 490989420}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -18169,67 +18169,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1166138047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 16
-    y: 523
-    width: 300
-    height: 202
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 6663347233855950550}
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: "Mist! Ich muss Hiltrude irgendwie aus dem Laden locken. Sie scheint
-    sehr gespr\xE4chig zu sein..."
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 0
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
 --- !u!1 &1168006947
 GameObject:
   m_ObjectHideFlags: 0
@@ -24267,7 +24206,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: "TW2.1.1: Thomas ist doch nicht gewaltt\xE4tig!"
+  - label: "Thomas ist doch nicht gewaltt\xE4tig!"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -24296,7 +24235,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW2.1.2: Ach, alles gut! Mal was anderes...'
+  - label: Ach, alles gut! Mal was anderes...
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -24326,7 +24265,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 'TW2.1.2: Ach, alles gut! Mal was anderes...'
+    label: "Thomas ist doch nicht gewaltt\xE4tig!"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -24346,7 +24285,7 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 2
+    ID: 1
     hasBeenChosen: 0
     autoTurnOff: 1
     linkToInventory: 0
@@ -25495,9 +25434,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 11
+    skipActionActual: {fileID: 726041635}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -25508,17 +25447,17 @@ MonoBehaviour:
     x: 14
     y: 284
     width: 300
-    height: 207
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 6663347233855950550}
   constantID: 0
   parameterID: -1
   messageParameterID: -1
-  isPlayer: 0
+  isPlayer: 1
   playerID: -1
   speaker: {fileID: 1670334601}
-  messageText: Der Vodka steht zur Zeit nicht zum Verkauf.
+  messageText: Das kann ich nur bei Hiltrude kaufen.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -30641,57 +30580,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1983597037
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8122ceaf185ff4b929c2329cb3c5c431, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 7
-    skipActionActual: {fileID: 434189455}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 363
-    y: 928.5
-    width: 300
-    height: 212
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  constantID: 0
-  parameterID: -1
-  soundObject: {fileID: 7234631972914180749}
-  audioClip: {fileID: 8300000, guid: 6b39f78b5d3ca6b4196c87a5490ae14c, type: 3}
-  audioClipParameterID: -1
-  fadeTime: 0
-  loop: 0
-  ignoreIfPlaying: 0
-  soundAction: 0
-  affectChildren: 0
-  autoEndOtherMusicWhenPlayed: 1
 --- !u!114 &1985270557
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34670,7 +34558,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: 'TW1: Wie geht''s der Gicht?'
+  - label: Wie geht's der Gicht?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -34699,7 +34587,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW2: Einmal Wodka bitte!'
+  - label: Einmal Wodka bitte!
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -34728,7 +34616,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: 'TW3: Ich brauche nichts.'
+  - label: Ich brauche nichts.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -34758,7 +34646,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 'TW2: Einmal Wodka bitte!'
+    label: Ich brauche nichts.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -34778,7 +34666,7 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 2
+    ID: 3
     hasBeenChosen: 0
     autoTurnOff: 0
     linkToInventory: 0
@@ -36167,7 +36055,6 @@ MonoBehaviour:
   - {fileID: 1418800969}
   - {fileID: 289629538}
   - {fileID: 1635749563}
-  - {fileID: 1166138047}
   - {fileID: 726041635}
   - {fileID: 490989420}
   isSkippable: 1
