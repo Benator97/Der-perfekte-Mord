@@ -621,8 +621,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 172.8
     y: 681.48
-    width: 78.995995
-    height: 354.00302
+    width: 334.08002
+    height: 407.16
   relativePosition: {x: 9, y: 63.1}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -6456,11 +6456,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 1372.8
+    x: 1344
     y: 522.72003
-    width: 103.05801
-    height: 485.463
-  relativePosition: {x: 71.5, y: 48.4}
+    width: 435.84003
+    height: 558.36005
+  relativePosition: {x: 70, y: 48.4}
   numSlots: 1
   uiImage: {fileID: 0}
   graphicType: 1
@@ -7405,8 +7405,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 454
-    height: 939
+    width: 1920
+    height: 1080
   showInFilter: 1
 --- !u!114 &5623891260889721403
 MonoBehaviour:

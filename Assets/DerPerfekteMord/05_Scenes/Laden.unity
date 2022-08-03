@@ -3267,7 +3267,7 @@ MonoBehaviour:
     x: 271.69
     y: 1725.1462
     width: 300
-    height: 249.72726
+    height: 237
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -3785,7 +3785,7 @@ MonoBehaviour:
     x: 362.6761
     y: 306.95837
     width: 300
-    height: 206.09091
+    height: 207
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -3845,7 +3845,7 @@ MonoBehaviour:
     x: 10.000004
     y: 1906.6716
     width: 300
-    height: 255.18182
+    height: 257
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -4513,7 +4513,7 @@ MonoBehaviour:
     x: 12.12677
     y: 602.80286
     width: 300
-    height: 313.36365
+    height: 317
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -5552,6 +5552,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &362688856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 14
+    skipActionActual: {fileID: 907488878}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 1324.7806
+    y: 1461
+    width: 300
+    height: 272
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 8856055737883176391}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 0
+  playerID: -1
+  speaker: {fileID: 1670334601}
+  messageText: "[expression:Hiltrude_Ueberrascht_Wunderlich]Mein Mann sagt immer,
+    hysterische Frauen sind meistens \xFCberm\xFCdet oder haben zu wenig...na du
+    wei\xDFt schon."
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &366231522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5588,7 +5650,7 @@ MonoBehaviour:
     x: 598.3065
     y: 3013.9353
     width: 300
-    height: 186.09091
+    height: 187
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -6774,8 +6836,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 13
-    skipActionActual: {fileID: 1255247757}
+    skipAction: 47
+    skipActionActual: {fileID: 1417467179}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -6786,7 +6848,7 @@ MonoBehaviour:
     x: 998.17584
     y: 924.16125
     width: 300
-    height: 337
+    height: 267
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -6796,11 +6858,9 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "[expression:Lucie_Wut1]Ob es mir gut geht? Mein Freund wird heute
+  messageText: '[expression:Lucie_Wut]Ob es mir gut geht? Mein Freund wird heute
     Abend ermordet und keine Sau glaubt mir. Niemand nimmt mich ernst. Egal was ich
-    versuche, immer wieder sehe ich ihn sterben. Jeden. Abend. Ich zweifle mittlerweile
-    an meinem Verstand. Diese ganze Schei\xDFe macht mich wahnsinnig! Also NEIN,
-    mir geht es nicht gut. Und jetzt her mit dem Alk!"
+    versuche, immer wieder sehe ich ihn sterben. Jeden. Abend.'
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -12195,7 +12255,7 @@ MonoBehaviour:
     x: 18.311695
     y: 936.1614
     width: 300
-    height: 278.81818
+    height: 282
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -13524,7 +13584,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834498546}
   m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -0.03, y: -3.18, z: 0}
+  m_LocalPosition: {x: -0.08, y: -3.26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14896,7 +14956,7 @@ MonoBehaviour:
     x: 360.39862
     y: 541.83105
     width: 300
-    height: 240.63637
+    height: 227
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -16282,7 +16342,7 @@ MonoBehaviour:
     x: 454.90952
     y: 1243.4945
     width: 300
-    height: 269.72726
+    height: 272
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -17822,7 +17882,7 @@ MonoBehaviour:
     x: 604.2763
     y: 1744.5752
     width: 300
-    height: 264.27274
+    height: 267
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -19561,9 +19621,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 46
+    skipActionActual: {fileID: 362688856}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -19574,7 +19634,7 @@ MonoBehaviour:
     x: 998.1759
     y: 1304.6387
     width: 300
-    height: 337
+    height: 317
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -19587,8 +19647,7 @@ MonoBehaviour:
   messageText: "[expression:Hiltrude_Ueberrascht_Wunderlich]Also... \xE4hm. Lucie...
     ich will dir wirklich nicht zu nahe treten, aber ich habe das Gef\xFChl, ich
     sollte dir lieber keinen Alkohol verkaufen. Vielleicht machst du lieber mal ein
-    Nickerchen?\nMein Mann sagt immer, hysterische Frauen sind meistens \xFCberm\xFCdet
-    oder haben zu wenig...na du wei\xDFt schon."
+    Nickerchen?\n"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -21769,7 +21828,7 @@ MonoBehaviour:
     x: 11.126785
     y: 324.50705
     width: 300
-    height: 264.27274
+    height: 267
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -22016,6 +22075,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1417467179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 13
+    skipActionActual: {fileID: 1255247757}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 1344.7806
+    y: 1117
+    width: 300
+    height: 252
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 8856055737883176391}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 1
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: "[expression:Lucie_Wut]Ich zweifle mittlerweile an meinem Verstand.
+    Diese ganze Schei\xDFe macht mich wahnsinnig! Also NEIN, mir geht es nicht gut.
+    Und jetzt her mit dem Alk!"
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &1418800969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29448,7 +29569,7 @@ MonoBehaviour:
     x: 269.4224
     y: 1987.0532
     width: 300
-    height: 284.27274
+    height: 287
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -30038,7 +30159,7 @@ MonoBehaviour:
     x: 14
     y: 14
     width: 300
-    height: 255.18182
+    height: 257
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -30099,7 +30220,7 @@ MonoBehaviour:
     x: 601.5282
     y: 2018.7361
     width: 300
-    height: 226.09091
+    height: 227
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -30616,7 +30737,7 @@ MonoBehaviour:
     x: 22.46754
     y: 1237.095
     width: 300
-    height: 278.81818
+    height: 282
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -31096,7 +31217,7 @@ MonoBehaviour:
     x: 12.077927
     y: 1569.3663
     width: 300
-    height: 322.45453
+    height: 327
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -32658,7 +32779,7 @@ MonoBehaviour:
     x: 268.871
     y: 2282.4846
     width: 300
-    height: 186.09091
+    height: 187
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8856055737883176391}
@@ -36728,7 +36849,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7394109047482985112}
   m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -1.53, y: -4.24, z: 0}
+  m_LocalPosition: {x: -3.15, y: -4.63, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -37363,6 +37484,8 @@ MonoBehaviour:
   - {fileID: 1985270557}
   - {fileID: 2002245557}
   - {fileID: 268713093}
+  - {fileID: 362688856}
+  - {fileID: 1417467179}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
