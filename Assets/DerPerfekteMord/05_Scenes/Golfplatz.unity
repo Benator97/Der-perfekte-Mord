@@ -146,7 +146,7 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 2
+  - resultAction: 0
     skipAction: 5
     skipActionActual: {fileID: 209862471}
     linkedCutscene: {fileID: 0}
@@ -159,7 +159,7 @@ MonoBehaviour:
     x: 364
     y: 812
     width: 300
-    height: 112
+    height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 2563818488483296663}
@@ -299,7 +299,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 12
-    skipActionActual: {fileID: 798948003}
+    skipActionActual: {fileID: 1539540312}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -432,7 +432,7 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   soundObject: {fileID: 1311800436175937908}
-  audioClip: {fileID: 8300000, guid: 27edffa3c4633b14fa612e3c301e41b8, type: 3}
+  audioClip: {fileID: 8300000, guid: 5fb249d4fa5d48e44852de200811f305, type: 3}
   audioClipParameterID: -1
   fadeTime: 0
   loop: 0
@@ -937,7 +937,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 954
+    y: 1190
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -3148,7 +3148,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 9
+    skipAction: 10
     skipActionActual: {fileID: 1441763026}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -3417,57 +3417,6 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 0
---- !u!114 &798948003
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8122ceaf185ff4b929c2329cb3c5c431, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 5
-    skipActionActual: {fileID: 852830687}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 362
-    y: 962
-    width: 300
-    height: 212
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 3257759838486944296}
-  constantID: 0
-  parameterID: -1
-  soundObject: {fileID: 1311800436175937908}
-  audioClip: {fileID: 8300000, guid: 27edffa3c4633b14fa612e3c301e41b8, type: 3}
-  audioClipParameterID: -1
-  fadeTime: 0
-  loop: 0
-  ignoreIfPlaying: 0
-  soundAction: 0
-  affectChildren: 0
-  autoEndOtherMusicWhenPlayed: 1
 --- !u!114 &806259716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3785,7 +3734,7 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   soundObject: {fileID: 1311800436175937908}
-  audioClip: {fileID: 8300000, guid: 27edffa3c4633b14fa612e3c301e41b8, type: 3}
+  audioClip: {fileID: 8300000, guid: 963e40ec2c5276e459e8cf63a73c83a7, type: 3}
   audioClipParameterID: -1
   fadeTime: 0
   loop: 0
@@ -4750,6 +4699,57 @@ Transform:
   m_Father: {fileID: 1383929386}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 3.61}
+--- !u!114 &1067505399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8122ceaf185ff4b929c2329cb3c5c431, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 6
+    skipActionActual: {fileID: 209862471}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 364
+    y: 935
+    width: 300
+    height: 212
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 3257759838486944296}
+  constantID: 0
+  parameterID: -1
+  soundObject: {fileID: 1311800436175937908}
+  audioClip: {fileID: 8300000, guid: 5fb249d4fa5d48e44852de200811f305, type: 3}
+  audioClipParameterID: -1
+  fadeTime: 0
+  loop: 0
+  ignoreIfPlaying: 0
+  soundAction: 0
+  affectChildren: 0
+  autoEndOtherMusicWhenPlayed: 1
 --- !u!114 &1074512483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5085,7 +5085,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 6
+    skipAction: 7
     skipActionActual: {fileID: 840690433}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -6672,7 +6672,7 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   soundObject: {fileID: 1311800436175937908}
-  audioClip: {fileID: 8300000, guid: 27edffa3c4633b14fa612e3c301e41b8, type: 3}
+  audioClip: {fileID: 8300000, guid: 5fb249d4fa5d48e44852de200811f305, type: 3}
   audioClipParameterID: -1
   fadeTime: 0
   loop: 0
@@ -7604,7 +7604,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 8
+    skipAction: 9
     skipActionActual: {fileID: 616676160}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -9674,6 +9674,7 @@ MonoBehaviour:
   - {fileID: 1147198531}
   - {fileID: 701397400}
   - {fileID: 16707147}
+  - {fileID: 1067505399}
   - {fileID: 209862471}
   - {fileID: 840690433}
   - {fileID: 1781981067}
@@ -11306,21 +11307,6 @@ MeshRenderer:
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12596,20 +12582,6 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
