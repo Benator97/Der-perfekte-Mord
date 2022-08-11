@@ -12997,7 +12997,7 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   soundObject: {fileID: 7234631972914180749}
-  audioClip: {fileID: 8300000, guid: 6b39f78b5d3ca6b4196c87a5490ae14c, type: 3}
+  audioClip: {fileID: 8300000, guid: 5ae802756c42f3d43b1fdf7665494a55, type: 3}
   audioClipParameterID: -1
   fadeTime: 0
   loop: 0
@@ -26621,7 +26621,7 @@ MonoBehaviour:
   wallReductionOnlyParameter: 1
   walkSound: {fileID: 0}
   runSound: {fileID: 0}
-  textScrollClip: {fileID: 0}
+  textScrollClip: {fileID: 8300000, guid: 75af60f687196f945b61e1e5fce85154, type: 3}
   soundChild: {fileID: 0}
   speechAudioSource: {fileID: 1670334600}
   headIKTurnFactor: 1

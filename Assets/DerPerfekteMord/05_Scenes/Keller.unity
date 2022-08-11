@@ -9458,7 +9458,7 @@ MonoBehaviour:
   wallReductionOnlyParameter: 1
   walkSound: {fileID: 0}
   runSound: {fileID: 0}
-  textScrollClip: {fileID: 8300000, guid: 043e73542a14fe34d9189ada849843d2, type: 3}
+  textScrollClip: {fileID: 8300000, guid: ad2f114ef8c8f254ea7c7303500dfb5f, type: 3}
   soundChild: {fileID: 0}
   speechAudioSource: {fileID: 1984720006}
   headIKTurnFactor: 1
