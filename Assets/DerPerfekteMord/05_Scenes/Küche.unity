@@ -4342,13 +4342,14 @@ GameObject:
   m_Component:
   - component: {fileID: 1070371251}
   - component: {fileID: 1070371250}
+  - component: {fileID: 1070371252}
   m_Layer: 0
   m_Name: Pfannenkuchen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1070371250
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4410,12 +4411,32 @@ Transform:
   m_GameObject: {fileID: 1070371249}
   m_LocalRotation: {x: 0, y: 0, z: 0.07645798, w: 0.9970728}
   m_LocalPosition: {x: 3.02, y: -1.71, z: 0}
-  m_LocalScale: {x: 0.19970909, y: 0.19970909, z: 0.19970909}
+  m_LocalScale: {x: 0.1997091, y: 0.1997091, z: 0.1997091}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 8.77}
+--- !u!95 &1070371252
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070371249}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ad4c01c959fdc864d98f5084d705b696, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &1072046602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6540,6 +6561,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 711796418, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2743904914990625349, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -6587,6 +6612,10 @@ PrefabInstance:
     - target: {fileID: 3424260348481399343, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
       propertyPath: m_Name
       value: JournalManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 3424260348481399343, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9160998690074757916, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
       propertyPath: timeManager
