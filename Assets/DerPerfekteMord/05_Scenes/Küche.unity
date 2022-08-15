@@ -419,6 +419,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3600613724847407674, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
   m_PrefabInstance: {fileID: 71922981}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &71922983 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3600613724847407673, guid: d0e46cc3b6655c3458cf0685bc561527, type: 3}
+  m_PrefabInstance: {fileID: 71922981}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 71922982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c01488660ebb344a64f522f9daa237, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &76816167
 GameObject:
   m_ObjectHideFlags: 0
@@ -6563,7 +6574,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 711796418, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2743904914990625349, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
       propertyPath: m_RootOrder
@@ -6620,7 +6631,7 @@ PrefabInstance:
     - target: {fileID: 9160998690074757916, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
       propertyPath: timeManager
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 71922983}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c4c1913acac5b3244b43bf13fde27892, type: 3}
 --- !u!114 &1649488365
@@ -11199,16 +11210,6 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
-  - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
   - {fileID: 2100000, guid: 459683e483e91c84b9e54f31e0fef25b, type: 2}
